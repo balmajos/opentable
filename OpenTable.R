@@ -58,23 +58,9 @@ write.csv(city,'C:/users/redrabbit/desktop/opentable/opentable_city.csv',row.nam
 dir <- "C:/users/redrabbit/desktop/opentable/"
 setwd(dir)
 git2r::config(user.name = "balmajos",user.email = "balmajoseph@gmail.com")
+cred_user_pass = git2r::cred_user_pass(username = "balmajos", password = "the37greenelephants")
 git2r::add(path="C:/users/redrabbit/desktop/opentable/")
-git2r::commit(message="Update Data")
-git2r::push()
+git2r::commit(message=paste0("Update Data ",Sys.time()))
+git2r::push(credentials=cred_user_pass)
 
 
-
-# tbls <- html_nodes(webpage, "table")
-# tbls_ls <- webpage %>%
-#   html_nodes("table") %>%
-#   .[4:4] %>%
-#   html_table(fill = TRUE)
-# 
-# 
-# # empty list to add table data to
-# tbls2_ls <- list()
-# # scrape Table 2. Nonfarm employment...
-# tbls2_ls$Table1 <- webpage %>%
-#   html_nodes("#Table2") %>% 
-#   html_table(fill = TRUE) %>%
-#   .[[1]]
