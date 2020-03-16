@@ -60,6 +60,7 @@ setwd(dir)
 git2r::config(user.name = "balmajos",user.email = "balmajoseph@gmail.com")
 cred_user_pass = git2r::cred_user_pass(username = "balmajos", password = "the37greenelephants")
 git2r::add(path="C:/users/redrabbit/desktop/opentable/")
+git2r::pull(credentials=cred_user_pass)
 git2r::commit(message=paste0("Update Data ",Sys.time()))
 git2r::push(credentials=cred_user_pass)
 
