@@ -1,5 +1,6 @@
 library(rvest)
 library(xml2)
+library(git2r)
 
 url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vRbPuAyJy74UmbF6kLXFGXDk2eX3N6zvRLzxPamG8FAA3E-SVqMOMSIht-eYEF_4qrNGOJuPbDjTsPD/pubhtml#"
 webpage <- read_html(url)
@@ -50,11 +51,16 @@ city$value <- city$value/100
 colnames(city)[names(city)=='variable'] <- 'report_date'
 colnames(city)[names(city)=='value'] <- 'yoy_pct_change'
 
-write.csv(country,'C:/users/redrabbit/desktop/opentable/opentable_country.csv',row.names = FALSE)
+write.csv(country,'C:/users/redrabbit/desktop/opentable/opentable_country_2.csv',row.names = FALSE)
 write.csv(state,'C:/users/redrabbit/desktop/opentable/opentable_state.csv',row.names = FALSE)
 write.csv(city,'C:/users/redrabbit/desktop/opentable/opentable_city.csv',row.names = FALSE)
 
-
+dir <- "C:/users/redrabbit/desktop/opentable/"
+setwd(dir)
+git2r::config(user.name = "balmajos",user.email = "balmajoseph@gmail.com")
+git2r::add(path="C:/users/redrabbit/desktop/opentable/")
+git2r::commit(message="Update Data")
+git2r::push()
 
 
 
