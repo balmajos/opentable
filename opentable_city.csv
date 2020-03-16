@@ -1,0 +1,1297 @@
+"City","State","Country","report_date","yoy_pct_change"
+"Calgary","Alberta","Canada",2020-02-18,0
+"Edmonton","Alberta","Canada",2020-02-18,0.08
+"Vancouver","British Columbia","Canada",2020-02-18,0.09
+"Toronto","Ontario","Canada",2020-02-18,-0.14
+"Montréal","Quebec","Canada",2020-02-18,0.16
+"Hamburg","","Germany",2020-02-18,0.13
+"München","","Germany",2020-02-18,0.08
+"Dublin","","Ireland",2020-02-18,-0.05
+"Ciudad de México","Mexico City","Mexico",2020-02-18,-0.08
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-18,-0.09
+"London","","United Kingdom",2020-02-18,0.04
+"Phoenix","Arizona","United States",2020-02-18,-0.04
+"Scottsdale","Arizona","United States",2020-02-18,-0.03
+"Los Angeles","California","United States",2020-02-18,0.07
+"San Diego","California","United States",2020-02-18,-0.01
+"San Francisco","California","United States",2020-02-18,-0.15
+"Denver","Colorado","United States",2020-02-18,-0.01
+"Washington","District of Columbia","United States",2020-02-18,-0.05
+"Fort Lauderdale","Florida","United States",2020-02-18,-0.08
+"Miami","Florida","United States",2020-02-18,0
+"Miami Beach","Florida","United States",2020-02-18,0.19
+"Naples","Florida","United States",2020-02-18,-0.02
+"Orlando","Florida","United States",2020-02-18,-0.06
+"Tampa","Florida","United States",2020-02-18,0.07
+"Atlanta","Georgia","United States",2020-02-18,0.06
+"Honolulu","Hawaii","United States",2020-02-18,-0.03
+"Chicago","Illinois","United States",2020-02-18,-0.07
+"Indianapolis","Indiana","United States",2020-02-18,0.52
+"Louisville","Kentucky","United States",2020-02-18,0.28
+"New Orleans","Louisiana","United States",2020-02-18,-0.09
+"Baltimore","Maryland","United States",2020-02-18,0.1
+"Boston","Massachusetts","United States",2020-02-18,0.05
+"Minneapolis","Minnesota","United States",2020-02-18,-0.14
+"Las Vegas","Nevada","United States",2020-02-18,-0.22
+"New York","New York","United States",2020-02-18,0.01
+"Charlotte","North Carolina","United States",2020-02-18,0.01
+"Raleigh","North Carolina","United States",2020-02-18,0.07
+"Cincinnati","Ohio","United States",2020-02-18,0.07
+"Columbus","Ohio","United States",2020-02-18,-0.1
+"Portland","Oregon","United States",2020-02-18,0.01
+"Philadelphia","Pennsylvania","United States",2020-02-18,0.1
+"Pittsburgh","Pennsylvania","United States",2020-02-18,0.1
+"Nashville","Tennessee","United States",2020-02-18,0.13
+"Austin","Texas","United States",2020-02-18,0
+"Dallas","Texas","United States",2020-02-18,0.06
+"Houston","Texas","United States",2020-02-18,-0.02
+"San Antonio","Texas","United States",2020-02-18,-0.06
+"Seattle","Washington","United States",2020-02-18,0.08
+"Calgary","Alberta","Canada",2020-02-19,0.04
+"Edmonton","Alberta","Canada",2020-02-19,0.17
+"Vancouver","British Columbia","Canada",2020-02-19,0.01
+"Toronto","Ontario","Canada",2020-02-19,-0.08
+"Montréal","Quebec","Canada",2020-02-19,0.14
+"Hamburg","","Germany",2020-02-19,0.12
+"München","","Germany",2020-02-19,0.14
+"Dublin","","Ireland",2020-02-19,-0.01
+"Ciudad de México","Mexico City","Mexico",2020-02-19,-0.09
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-19,-0.12
+"London","","United Kingdom",2020-02-19,0.01
+"Phoenix","Arizona","United States",2020-02-19,0
+"Scottsdale","Arizona","United States",2020-02-19,-0.03
+"Los Angeles","California","United States",2020-02-19,0.06
+"San Diego","California","United States",2020-02-19,0.09
+"San Francisco","California","United States",2020-02-19,-0.11
+"Denver","Colorado","United States",2020-02-19,-0.12
+"Washington","District of Columbia","United States",2020-02-19,0.57
+"Fort Lauderdale","Florida","United States",2020-02-19,-0.04
+"Miami","Florida","United States",2020-02-19,-0.08
+"Miami Beach","Florida","United States",2020-02-19,-0.02
+"Naples","Florida","United States",2020-02-19,-0.05
+"Orlando","Florida","United States",2020-02-19,-0.03
+"Tampa","Florida","United States",2020-02-19,0.05
+"Atlanta","Georgia","United States",2020-02-19,0.09
+"Honolulu","Hawaii","United States",2020-02-19,0.01
+"Chicago","Illinois","United States",2020-02-19,-0.03
+"Indianapolis","Indiana","United States",2020-02-19,0.14
+"Louisville","Kentucky","United States",2020-02-19,0.11
+"New Orleans","Louisiana","United States",2020-02-19,0.01
+"Baltimore","Maryland","United States",2020-02-19,0.42
+"Boston","Massachusetts","United States",2020-02-19,0.15
+"Minneapolis","Minnesota","United States",2020-02-19,0.27
+"Las Vegas","Nevada","United States",2020-02-19,-0.19
+"New York","New York","United States",2020-02-19,0.11
+"Charlotte","North Carolina","United States",2020-02-19,-0.03
+"Raleigh","North Carolina","United States",2020-02-19,0.1
+"Cincinnati","Ohio","United States",2020-02-19,0.01
+"Columbus","Ohio","United States",2020-02-19,0
+"Portland","Oregon","United States",2020-02-19,-0.04
+"Philadelphia","Pennsylvania","United States",2020-02-19,0.55
+"Pittsburgh","Pennsylvania","United States",2020-02-19,0.24
+"Nashville","Tennessee","United States",2020-02-19,0.07
+"Austin","Texas","United States",2020-02-19,-0.06
+"Dallas","Texas","United States",2020-02-19,-0.04
+"Houston","Texas","United States",2020-02-19,-0.08
+"San Antonio","Texas","United States",2020-02-19,-0.04
+"Seattle","Washington","United States",2020-02-19,0.11
+"Calgary","Alberta","Canada",2020-02-20,0.05
+"Edmonton","Alberta","Canada",2020-02-20,0.03
+"Vancouver","British Columbia","Canada",2020-02-20,0.07
+"Toronto","Ontario","Canada",2020-02-20,-0.09
+"Montréal","Quebec","Canada",2020-02-20,-0.05
+"Hamburg","","Germany",2020-02-20,0.04
+"München","","Germany",2020-02-20,0.04
+"Dublin","","Ireland",2020-02-20,0.07
+"Ciudad de México","Mexico City","Mexico",2020-02-20,-0.02
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-20,-0.05
+"London","","United Kingdom",2020-02-20,0.02
+"Phoenix","Arizona","United States",2020-02-20,0.11
+"Scottsdale","Arizona","United States",2020-02-20,0.05
+"Los Angeles","California","United States",2020-02-20,0.09
+"San Diego","California","United States",2020-02-20,0.07
+"San Francisco","California","United States",2020-02-20,-0.04
+"Denver","Colorado","United States",2020-02-20,-0.09
+"Washington","District of Columbia","United States",2020-02-20,0.09
+"Fort Lauderdale","Florida","United States",2020-02-20,-0.06
+"Miami","Florida","United States",2020-02-20,-0.05
+"Miami Beach","Florida","United States",2020-02-20,0.06
+"Naples","Florida","United States",2020-02-20,-0.03
+"Orlando","Florida","United States",2020-02-20,-0.12
+"Tampa","Florida","United States",2020-02-20,0.02
+"Atlanta","Georgia","United States",2020-02-20,-0.05
+"Honolulu","Hawaii","United States",2020-02-20,0.03
+"Chicago","Illinois","United States",2020-02-20,-0.05
+"Indianapolis","Indiana","United States",2020-02-20,-0.28
+"Louisville","Kentucky","United States",2020-02-20,0.07
+"New Orleans","Louisiana","United States",2020-02-20,0.14
+"Baltimore","Maryland","United States",2020-02-20,0.12
+"Boston","Massachusetts","United States",2020-02-20,-0.03
+"Minneapolis","Minnesota","United States",2020-02-20,-0.33
+"Las Vegas","Nevada","United States",2020-02-20,-0.06
+"New York","New York","United States",2020-02-20,0.03
+"Charlotte","North Carolina","United States",2020-02-20,-0.27
+"Raleigh","North Carolina","United States",2020-02-20,-0.49
+"Cincinnati","Ohio","United States",2020-02-20,-0.06
+"Columbus","Ohio","United States",2020-02-20,-0.03
+"Portland","Oregon","United States",2020-02-20,0.07
+"Philadelphia","Pennsylvania","United States",2020-02-20,0.11
+"Pittsburgh","Pennsylvania","United States",2020-02-20,-0.14
+"Nashville","Tennessee","United States",2020-02-20,-0.1
+"Austin","Texas","United States",2020-02-20,0.02
+"Dallas","Texas","United States",2020-02-20,0.01
+"Houston","Texas","United States",2020-02-20,-0.03
+"San Antonio","Texas","United States",2020-02-20,-0.05
+"Seattle","Washington","United States",2020-02-20,0.06
+"Calgary","Alberta","Canada",2020-02-21,0
+"Edmonton","Alberta","Canada",2020-02-21,0.04
+"Vancouver","British Columbia","Canada",2020-02-21,0.06
+"Toronto","Ontario","Canada",2020-02-21,-0.09
+"Montréal","Quebec","Canada",2020-02-21,-0.01
+"Hamburg","","Germany",2020-02-21,0.12
+"München","","Germany",2020-02-21,0.1
+"Dublin","","Ireland",2020-02-21,0
+"Ciudad de México","Mexico City","Mexico",2020-02-21,-0.03
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-21,0.04
+"London","","United Kingdom",2020-02-21,0.03
+"Phoenix","Arizona","United States",2020-02-21,-0.01
+"Scottsdale","Arizona","United States",2020-02-21,0.06
+"Los Angeles","California","United States",2020-02-21,0.01
+"San Diego","California","United States",2020-02-21,-0.01
+"San Francisco","California","United States",2020-02-21,-0.08
+"Denver","Colorado","United States",2020-02-21,0.14
+"Washington","District of Columbia","United States",2020-02-21,0
+"Fort Lauderdale","Florida","United States",2020-02-21,-0.14
+"Miami","Florida","United States",2020-02-21,0.01
+"Miami Beach","Florida","United States",2020-02-21,0.07
+"Naples","Florida","United States",2020-02-21,0.07
+"Orlando","Florida","United States",2020-02-21,-0.07
+"Tampa","Florida","United States",2020-02-21,-0.04
+"Atlanta","Georgia","United States",2020-02-21,-0.05
+"Honolulu","Hawaii","United States",2020-02-21,0.09
+"Chicago","Illinois","United States",2020-02-21,-0.04
+"Indianapolis","Indiana","United States",2020-02-21,-0.15
+"Louisville","Kentucky","United States",2020-02-21,0
+"New Orleans","Louisiana","United States",2020-02-21,0.23
+"Baltimore","Maryland","United States",2020-02-21,-0.09
+"Boston","Massachusetts","United States",2020-02-21,-0.12
+"Minneapolis","Minnesota","United States",2020-02-21,-0.15
+"Las Vegas","Nevada","United States",2020-02-21,0
+"New York","New York","United States",2020-02-21,0
+"Charlotte","North Carolina","United States",2020-02-21,-0.01
+"Raleigh","North Carolina","United States",2020-02-21,-0.09
+"Cincinnati","Ohio","United States",2020-02-21,-0.06
+"Columbus","Ohio","United States",2020-02-21,-0.06
+"Portland","Oregon","United States",2020-02-21,0.11
+"Philadelphia","Pennsylvania","United States",2020-02-21,0.01
+"Pittsburgh","Pennsylvania","United States",2020-02-21,-0.09
+"Nashville","Tennessee","United States",2020-02-21,0.07
+"Austin","Texas","United States",2020-02-21,0.03
+"Dallas","Texas","United States",2020-02-21,0.03
+"Houston","Texas","United States",2020-02-21,0.03
+"San Antonio","Texas","United States",2020-02-21,0.02
+"Seattle","Washington","United States",2020-02-21,0.01
+"Calgary","Alberta","Canada",2020-02-22,0.11
+"Edmonton","Alberta","Canada",2020-02-22,0.02
+"Vancouver","British Columbia","Canada",2020-02-22,0.07
+"Toronto","Ontario","Canada",2020-02-22,-0.04
+"Montréal","Quebec","Canada",2020-02-22,0.14
+"Hamburg","","Germany",2020-02-22,0.06
+"München","","Germany",2020-02-22,-0.01
+"Dublin","","Ireland",2020-02-22,-0.03
+"Ciudad de México","Mexico City","Mexico",2020-02-22,0
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-22,0.1
+"London","","United Kingdom",2020-02-22,-0.01
+"Phoenix","Arizona","United States",2020-02-22,0
+"Scottsdale","Arizona","United States",2020-02-22,-0.05
+"Los Angeles","California","United States",2020-02-22,0.08
+"San Diego","California","United States",2020-02-22,-0.12
+"San Francisco","California","United States",2020-02-22,-0.09
+"Denver","Colorado","United States",2020-02-22,0.02
+"Washington","District of Columbia","United States",2020-02-22,0.09
+"Fort Lauderdale","Florida","United States",2020-02-22,-0.08
+"Miami","Florida","United States",2020-02-22,0.05
+"Miami Beach","Florida","United States",2020-02-22,0.1
+"Naples","Florida","United States",2020-02-22,0.03
+"Orlando","Florida","United States",2020-02-22,0.02
+"Tampa","Florida","United States",2020-02-22,0.11
+"Atlanta","Georgia","United States",2020-02-22,-0.03
+"Honolulu","Hawaii","United States",2020-02-22,0.09
+"Chicago","Illinois","United States",2020-02-22,0.07
+"Indianapolis","Indiana","United States",2020-02-22,0.04
+"Louisville","Kentucky","United States",2020-02-22,0.06
+"New Orleans","Louisiana","United States",2020-02-22,0.1
+"Baltimore","Maryland","United States",2020-02-22,0.12
+"Boston","Massachusetts","United States",2020-02-22,-0.02
+"Minneapolis","Minnesota","United States",2020-02-22,0.12
+"Las Vegas","Nevada","United States",2020-02-22,-0.04
+"New York","New York","United States",2020-02-22,0.03
+"Charlotte","North Carolina","United States",2020-02-22,0
+"Raleigh","North Carolina","United States",2020-02-22,0.04
+"Cincinnati","Ohio","United States",2020-02-22,-0.08
+"Columbus","Ohio","United States",2020-02-22,-0.08
+"Portland","Oregon","United States",2020-02-22,0.06
+"Philadelphia","Pennsylvania","United States",2020-02-22,0.02
+"Pittsburgh","Pennsylvania","United States",2020-02-22,-0.04
+"Nashville","Tennessee","United States",2020-02-22,0.1
+"Austin","Texas","United States",2020-02-22,0.02
+"Dallas","Texas","United States",2020-02-22,-0.03
+"Houston","Texas","United States",2020-02-22,0.01
+"San Antonio","Texas","United States",2020-02-22,-0.06
+"Seattle","Washington","United States",2020-02-22,0.01
+"Calgary","Alberta","Canada",2020-02-23,0.06
+"Edmonton","Alberta","Canada",2020-02-23,0.1
+"Vancouver","British Columbia","Canada",2020-02-23,0.02
+"Toronto","Ontario","Canada",2020-02-23,0.12
+"Montréal","Quebec","Canada",2020-02-23,0.42
+"Hamburg","","Germany",2020-02-23,0.09
+"München","","Germany",2020-02-23,-0.06
+"Dublin","","Ireland",2020-02-23,-0.06
+"Ciudad de México","Mexico City","Mexico",2020-02-23,0.02
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-23,0.17
+"London","","United Kingdom",2020-02-23,-0.04
+"Phoenix","Arizona","United States",2020-02-23,0.01
+"Scottsdale","Arizona","United States",2020-02-23,0.05
+"Los Angeles","California","United States",2020-02-23,0.29
+"San Diego","California","United States",2020-02-23,-0.01
+"San Francisco","California","United States",2020-02-23,-0.09
+"Denver","Colorado","United States",2020-02-23,-0.03
+"Washington","District of Columbia","United States",2020-02-23,0.16
+"Fort Lauderdale","Florida","United States",2020-02-23,-0.08
+"Miami","Florida","United States",2020-02-23,-0.07
+"Miami Beach","Florida","United States",2020-02-23,0.09
+"Naples","Florida","United States",2020-02-23,0.02
+"Orlando","Florida","United States",2020-02-23,0.04
+"Tampa","Florida","United States",2020-02-23,-0.06
+"Atlanta","Georgia","United States",2020-02-23,-0.07
+"Honolulu","Hawaii","United States",2020-02-23,-0.01
+"Chicago","Illinois","United States",2020-02-23,0.11
+"Indianapolis","Indiana","United States",2020-02-23,0.17
+"Louisville","Kentucky","United States",2020-02-23,-0.11
+"New Orleans","Louisiana","United States",2020-02-23,0.21
+"Baltimore","Maryland","United States",2020-02-23,0.16
+"Boston","Massachusetts","United States",2020-02-23,0.14
+"Minneapolis","Minnesota","United States",2020-02-23,0.33
+"Las Vegas","Nevada","United States",2020-02-23,0.07
+"New York","New York","United States",2020-02-23,0.13
+"Charlotte","North Carolina","United States",2020-02-23,-0.11
+"Raleigh","North Carolina","United States",2020-02-23,0.01
+"Cincinnati","Ohio","United States",2020-02-23,-0.12
+"Columbus","Ohio","United States",2020-02-23,0.07
+"Portland","Oregon","United States",2020-02-23,0.22
+"Philadelphia","Pennsylvania","United States",2020-02-23,0.06
+"Pittsburgh","Pennsylvania","United States",2020-02-23,-0.04
+"Nashville","Tennessee","United States",2020-02-23,-0.12
+"Austin","Texas","United States",2020-02-23,0.05
+"Dallas","Texas","United States",2020-02-23,-0.02
+"Houston","Texas","United States",2020-02-23,-0.1
+"San Antonio","Texas","United States",2020-02-23,-0.15
+"Seattle","Washington","United States",2020-02-23,0.12
+"Calgary","Alberta","Canada",2020-02-24,-0.04
+"Edmonton","Alberta","Canada",2020-02-24,0
+"Vancouver","British Columbia","Canada",2020-02-24,0.01
+"Toronto","Ontario","Canada",2020-02-24,-0.08
+"Montréal","Quebec","Canada",2020-02-24,0.13
+"Hamburg","","Germany",2020-02-24,0.11
+"München","","Germany",2020-02-24,-0.04
+"Dublin","","Ireland",2020-02-24,-0.12
+"Ciudad de México","Mexico City","Mexico",2020-02-24,0
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-24,0.04
+"London","","United Kingdom",2020-02-24,-0.03
+"Phoenix","Arizona","United States",2020-02-24,0.07
+"Scottsdale","Arizona","United States",2020-02-24,-0.03
+"Los Angeles","California","United States",2020-02-24,0.12
+"San Diego","California","United States",2020-02-24,-0.11
+"San Francisco","California","United States",2020-02-24,0.09
+"Denver","Colorado","United States",2020-02-24,-0.1
+"Washington","District of Columbia","United States",2020-02-24,0.13
+"Fort Lauderdale","Florida","United States",2020-02-24,-0.05
+"Miami","Florida","United States",2020-02-24,0.17
+"Miami Beach","Florida","United States",2020-02-24,0.16
+"Naples","Florida","United States",2020-02-24,-0.01
+"Orlando","Florida","United States",2020-02-24,0.05
+"Tampa","Florida","United States",2020-02-24,-0.06
+"Atlanta","Georgia","United States",2020-02-24,-0.06
+"Honolulu","Hawaii","United States",2020-02-24,0.05
+"Chicago","Illinois","United States",2020-02-24,-0.06
+"Indianapolis","Indiana","United States",2020-02-24,0.1
+"Louisville","Kentucky","United States",2020-02-24,-0.05
+"New Orleans","Louisiana","United States",2020-02-24,1.09
+"Baltimore","Maryland","United States",2020-02-24,0.2
+"Boston","Massachusetts","United States",2020-02-24,0.05
+"Minneapolis","Minnesota","United States",2020-02-24,0.18
+"Las Vegas","Nevada","United States",2020-02-24,-0.02
+"New York","New York","United States",2020-02-24,0.07
+"Charlotte","North Carolina","United States",2020-02-24,-0.06
+"Raleigh","North Carolina","United States",2020-02-24,-0.11
+"Cincinnati","Ohio","United States",2020-02-24,-0.08
+"Columbus","Ohio","United States",2020-02-24,0
+"Portland","Oregon","United States",2020-02-24,0.14
+"Philadelphia","Pennsylvania","United States",2020-02-24,-0.02
+"Pittsburgh","Pennsylvania","United States",2020-02-24,0.14
+"Nashville","Tennessee","United States",2020-02-24,-0.14
+"Austin","Texas","United States",2020-02-24,0.03
+"Dallas","Texas","United States",2020-02-24,-0.02
+"Houston","Texas","United States",2020-02-24,0.04
+"San Antonio","Texas","United States",2020-02-24,-0.15
+"Seattle","Washington","United States",2020-02-24,0.01
+"Calgary","Alberta","Canada",2020-02-25,0.01
+"Edmonton","Alberta","Canada",2020-02-25,0.09
+"Vancouver","British Columbia","Canada",2020-02-25,0.03
+"Toronto","Ontario","Canada",2020-02-25,-0.07
+"Montréal","Quebec","Canada",2020-02-25,0.21
+"Hamburg","","Germany",2020-02-25,0.14
+"München","","Germany",2020-02-25,0.08
+"Dublin","","Ireland",2020-02-25,-0.11
+"Ciudad de México","Mexico City","Mexico",2020-02-25,-0.02
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-25,-0.05
+"London","","United Kingdom",2020-02-25,-0.03
+"Phoenix","Arizona","United States",2020-02-25,0.03
+"Scottsdale","Arizona","United States",2020-02-25,0.11
+"Los Angeles","California","United States",2020-02-25,0.15
+"San Diego","California","United States",2020-02-25,-0.02
+"San Francisco","California","United States",2020-02-25,0.16
+"Denver","Colorado","United States",2020-02-25,-0.12
+"Washington","District of Columbia","United States",2020-02-25,0.09
+"Fort Lauderdale","Florida","United States",2020-02-25,0.1
+"Miami","Florida","United States",2020-02-25,0.01
+"Miami Beach","Florida","United States",2020-02-25,0.26
+"Naples","Florida","United States",2020-02-25,0.08
+"Orlando","Florida","United States",2020-02-25,0
+"Tampa","Florida","United States",2020-02-25,0.15
+"Atlanta","Georgia","United States",2020-02-25,0.01
+"Honolulu","Hawaii","United States",2020-02-25,0
+"Chicago","Illinois","United States",2020-02-25,-0.16
+"Indianapolis","Indiana","United States",2020-02-25,0.16
+"Louisville","Kentucky","United States",2020-02-25,-0.05
+"New Orleans","Louisiana","United States",2020-02-25,1.02
+"Baltimore","Maryland","United States",2020-02-25,0.09
+"Boston","Massachusetts","United States",2020-02-25,0.03
+"Minneapolis","Minnesota","United States",2020-02-25,0.27
+"Las Vegas","Nevada","United States",2020-02-25,-0.03
+"New York","New York","United States",2020-02-25,0.01
+"Charlotte","North Carolina","United States",2020-02-25,0.05
+"Raleigh","North Carolina","United States",2020-02-25,-0.09
+"Cincinnati","Ohio","United States",2020-02-25,-0.07
+"Columbus","Ohio","United States",2020-02-25,-0.17
+"Portland","Oregon","United States",2020-02-25,-0.07
+"Philadelphia","Pennsylvania","United States",2020-02-25,-0.02
+"Pittsburgh","Pennsylvania","United States",2020-02-25,-0.03
+"Nashville","Tennessee","United States",2020-02-25,-0.12
+"Austin","Texas","United States",2020-02-25,0.05
+"Dallas","Texas","United States",2020-02-25,0.14
+"Houston","Texas","United States",2020-02-25,0.07
+"San Antonio","Texas","United States",2020-02-25,0.09
+"Seattle","Washington","United States",2020-02-25,0
+"Calgary","Alberta","Canada",2020-02-26,-0.03
+"Edmonton","Alberta","Canada",2020-02-26,0.01
+"Vancouver","British Columbia","Canada",2020-02-26,0.01
+"Toronto","Ontario","Canada",2020-02-26,-0.06
+"Montréal","Quebec","Canada",2020-02-26,0.04
+"Hamburg","","Germany",2020-02-26,0.13
+"München","","Germany",2020-02-26,-0.04
+"Dublin","","Ireland",2020-02-26,0
+"Ciudad de México","Mexico City","Mexico",2020-02-26,-0.1
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-26,0
+"London","","United Kingdom",2020-02-26,-0.01
+"Phoenix","Arizona","United States",2020-02-26,-0.02
+"Scottsdale","Arizona","United States",2020-02-26,0.02
+"Los Angeles","California","United States",2020-02-26,0.05
+"San Diego","California","United States",2020-02-26,-0.03
+"San Francisco","California","United States",2020-02-26,0.12
+"Denver","Colorado","United States",2020-02-26,-0.02
+"Washington","District of Columbia","United States",2020-02-26,0.09
+"Fort Lauderdale","Florida","United States",2020-02-26,0.06
+"Miami","Florida","United States",2020-02-26,-0.09
+"Miami Beach","Florida","United States",2020-02-26,0.03
+"Naples","Florida","United States",2020-02-26,0.07
+"Orlando","Florida","United States",2020-02-26,0.14
+"Tampa","Florida","United States",2020-02-26,0.05
+"Atlanta","Georgia","United States",2020-02-26,-0.03
+"Honolulu","Hawaii","United States",2020-02-26,0.07
+"Chicago","Illinois","United States",2020-02-26,-0.15
+"Indianapolis","Indiana","United States",2020-02-26,-0.04
+"Louisville","Kentucky","United States",2020-02-26,-0.11
+"New Orleans","Louisiana","United States",2020-02-26,0.09
+"Baltimore","Maryland","United States",2020-02-26,-0.04
+"Boston","Massachusetts","United States",2020-02-26,0.01
+"Minneapolis","Minnesota","United States",2020-02-26,0.12
+"Las Vegas","Nevada","United States",2020-02-26,-0.17
+"New York","New York","United States",2020-02-26,0.01
+"Charlotte","North Carolina","United States",2020-02-26,-0.03
+"Raleigh","North Carolina","United States",2020-02-26,-0.05
+"Cincinnati","Ohio","United States",2020-02-26,-0.33
+"Columbus","Ohio","United States",2020-02-26,-0.14
+"Portland","Oregon","United States",2020-02-26,0.17
+"Philadelphia","Pennsylvania","United States",2020-02-26,0.1
+"Pittsburgh","Pennsylvania","United States",2020-02-26,-0.1
+"Nashville","Tennessee","United States",2020-02-26,-0.14
+"Austin","Texas","United States",2020-02-26,-0.03
+"Dallas","Texas","United States",2020-02-26,0.01
+"Houston","Texas","United States",2020-02-26,0.09
+"San Antonio","Texas","United States",2020-02-26,-0.05
+"Seattle","Washington","United States",2020-02-26,0.03
+"Calgary","Alberta","Canada",2020-02-27,-0.04
+"Edmonton","Alberta","Canada",2020-02-27,-0.04
+"Vancouver","British Columbia","Canada",2020-02-27,-0.05
+"Toronto","Ontario","Canada",2020-02-27,-0.17
+"Montréal","Quebec","Canada",2020-02-27,0.01
+"Hamburg","","Germany",2020-02-27,0.01
+"München","","Germany",2020-02-27,-0.03
+"Dublin","","Ireland",2020-02-27,-0.04
+"Ciudad de México","Mexico City","Mexico",2020-02-27,-0.09
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-27,0.05
+"London","","United Kingdom",2020-02-27,-0.04
+"Phoenix","Arizona","United States",2020-02-27,-0.02
+"Scottsdale","Arizona","United States",2020-02-27,0.05
+"Los Angeles","California","United States",2020-02-27,0
+"San Diego","California","United States",2020-02-27,0.04
+"San Francisco","California","United States",2020-02-27,0.05
+"Denver","Colorado","United States",2020-02-27,-0.02
+"Washington","District of Columbia","United States",2020-02-27,0.02
+"Fort Lauderdale","Florida","United States",2020-02-27,-0.11
+"Miami","Florida","United States",2020-02-27,0
+"Miami Beach","Florida","United States",2020-02-27,0.03
+"Naples","Florida","United States",2020-02-27,0.02
+"Orlando","Florida","United States",2020-02-27,0.21
+"Tampa","Florida","United States",2020-02-27,0.05
+"Atlanta","Georgia","United States",2020-02-27,-0.04
+"Honolulu","Hawaii","United States",2020-02-27,0
+"Chicago","Illinois","United States",2020-02-27,-0.08
+"Indianapolis","Indiana","United States",2020-02-27,-0.03
+"Louisville","Kentucky","United States",2020-02-27,-0.09
+"New Orleans","Louisiana","United States",2020-02-27,-0.21
+"Baltimore","Maryland","United States",2020-02-27,-0.01
+"Boston","Massachusetts","United States",2020-02-27,0.12
+"Minneapolis","Minnesota","United States",2020-02-27,0.29
+"Las Vegas","Nevada","United States",2020-02-27,-0.09
+"New York","New York","United States",2020-02-27,-0.02
+"Charlotte","North Carolina","United States",2020-02-27,0.04
+"Raleigh","North Carolina","United States",2020-02-27,-0.01
+"Cincinnati","Ohio","United States",2020-02-27,-0.15
+"Columbus","Ohio","United States",2020-02-27,-0.15
+"Portland","Oregon","United States",2020-02-27,0.04
+"Philadelphia","Pennsylvania","United States",2020-02-27,0.13
+"Pittsburgh","Pennsylvania","United States",2020-02-27,-0.19
+"Nashville","Tennessee","United States",2020-02-27,0.04
+"Austin","Texas","United States",2020-02-27,0
+"Dallas","Texas","United States",2020-02-27,-0.07
+"Houston","Texas","United States",2020-02-27,0.01
+"San Antonio","Texas","United States",2020-02-27,0.05
+"Seattle","Washington","United States",2020-02-27,0.05
+"Calgary","Alberta","Canada",2020-02-28,0.03
+"Edmonton","Alberta","Canada",2020-02-28,0.11
+"Vancouver","British Columbia","Canada",2020-02-28,-0.01
+"Toronto","Ontario","Canada",2020-02-28,-0.16
+"Montréal","Quebec","Canada",2020-02-28,-0.07
+"Hamburg","","Germany",2020-02-28,0.12
+"München","","Germany",2020-02-28,0.04
+"Dublin","","Ireland",2020-02-28,-0.09
+"Ciudad de México","Mexico City","Mexico",2020-02-28,-0.08
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-28,-0.01
+"London","","United Kingdom",2020-02-28,-0.01
+"Phoenix","Arizona","United States",2020-02-28,0.07
+"Scottsdale","Arizona","United States",2020-02-28,0.02
+"Los Angeles","California","United States",2020-02-28,0.08
+"San Diego","California","United States",2020-02-28,0.03
+"San Francisco","California","United States",2020-02-28,-0.08
+"Denver","Colorado","United States",2020-02-28,0.01
+"Washington","District of Columbia","United States",2020-02-28,0.04
+"Fort Lauderdale","Florida","United States",2020-02-28,-0.07
+"Miami","Florida","United States",2020-02-28,0
+"Miami Beach","Florida","United States",2020-02-28,0
+"Naples","Florida","United States",2020-02-28,0.02
+"Orlando","Florida","United States",2020-02-28,0.05
+"Tampa","Florida","United States",2020-02-28,0.1
+"Atlanta","Georgia","United States",2020-02-28,0.07
+"Honolulu","Hawaii","United States",2020-02-28,0
+"Chicago","Illinois","United States",2020-02-28,-0.08
+"Indianapolis","Indiana","United States",2020-02-28,-0.08
+"Louisville","Kentucky","United States",2020-02-28,-0.13
+"New Orleans","Louisiana","United States",2020-02-28,-0.21
+"Baltimore","Maryland","United States",2020-02-28,0.14
+"Boston","Massachusetts","United States",2020-02-28,0.01
+"Minneapolis","Minnesota","United States",2020-02-28,0.39
+"Las Vegas","Nevada","United States",2020-02-28,-0.1
+"New York","New York","United States",2020-02-28,0.01
+"Charlotte","North Carolina","United States",2020-02-28,0.13
+"Raleigh","North Carolina","United States",2020-02-28,-0.04
+"Cincinnati","Ohio","United States",2020-02-28,-0.16
+"Columbus","Ohio","United States",2020-02-28,-0.15
+"Portland","Oregon","United States",2020-02-28,-0.04
+"Philadelphia","Pennsylvania","United States",2020-02-28,0.11
+"Pittsburgh","Pennsylvania","United States",2020-02-28,-0.16
+"Nashville","Tennessee","United States",2020-02-28,0.12
+"Austin","Texas","United States",2020-02-28,0.08
+"Dallas","Texas","United States",2020-02-28,0.06
+"Houston","Texas","United States",2020-02-28,-0.06
+"San Antonio","Texas","United States",2020-02-28,0.01
+"Seattle","Washington","United States",2020-02-28,0.07
+"Calgary","Alberta","Canada",2020-02-29,0.04
+"Edmonton","Alberta","Canada",2020-02-29,0.08
+"Vancouver","British Columbia","Canada",2020-02-29,0.01
+"Toronto","Ontario","Canada",2020-02-29,-0.05
+"Montréal","Quebec","Canada",2020-02-29,0.13
+"Hamburg","","Germany",2020-02-29,0
+"München","","Germany",2020-02-29,0.06
+"Dublin","","Ireland",2020-02-29,-0.06
+"Ciudad de México","Mexico City","Mexico",2020-02-29,-0.08
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-02-29,0.17
+"London","","United Kingdom",2020-02-29,-0.04
+"Phoenix","Arizona","United States",2020-02-29,-0.05
+"Scottsdale","Arizona","United States",2020-02-29,0.02
+"Los Angeles","California","United States",2020-02-29,0.13
+"San Diego","California","United States",2020-02-29,0.12
+"San Francisco","California","United States",2020-02-29,-0.1
+"Denver","Colorado","United States",2020-02-29,0.27
+"Washington","District of Columbia","United States",2020-02-29,0.02
+"Fort Lauderdale","Florida","United States",2020-02-29,-0.18
+"Miami","Florida","United States",2020-02-29,0.04
+"Miami Beach","Florida","United States",2020-02-29,0.05
+"Naples","Florida","United States",2020-02-29,0
+"Orlando","Florida","United States",2020-02-29,0.01
+"Tampa","Florida","United States",2020-02-29,0.05
+"Atlanta","Georgia","United States",2020-02-29,0.01
+"Honolulu","Hawaii","United States",2020-02-29,-0.06
+"Chicago","Illinois","United States",2020-02-29,-0.03
+"Indianapolis","Indiana","United States",2020-02-29,0.03
+"Louisville","Kentucky","United States",2020-02-29,0.02
+"New Orleans","Louisiana","United States",2020-02-29,-0.16
+"Baltimore","Maryland","United States",2020-02-29,0.04
+"Boston","Massachusetts","United States",2020-02-29,0.22
+"Minneapolis","Minnesota","United States",2020-02-29,0.11
+"Las Vegas","Nevada","United States",2020-02-29,-0.06
+"New York","New York","United States",2020-02-29,-0.02
+"Charlotte","North Carolina","United States",2020-02-29,0
+"Raleigh","North Carolina","United States",2020-02-29,-0.02
+"Cincinnati","Ohio","United States",2020-02-29,-0.11
+"Columbus","Ohio","United States",2020-02-29,-0.15
+"Portland","Oregon","United States",2020-02-29,0.04
+"Philadelphia","Pennsylvania","United States",2020-02-29,0.07
+"Pittsburgh","Pennsylvania","United States",2020-02-29,0.05
+"Nashville","Tennessee","United States",2020-02-29,0.03
+"Austin","Texas","United States",2020-02-29,0.09
+"Dallas","Texas","United States",2020-02-29,0.1
+"Houston","Texas","United States",2020-02-29,-0.06
+"San Antonio","Texas","United States",2020-02-29,-0.06
+"Seattle","Washington","United States",2020-02-29,0
+"Calgary","Alberta","Canada",2020-03-01,-0.09
+"Edmonton","Alberta","Canada",2020-03-01,0.09
+"Vancouver","British Columbia","Canada",2020-03-01,-0.02
+"Toronto","Ontario","Canada",2020-03-01,-0.09
+"Montréal","Quebec","Canada",2020-03-01,0.15
+"Hamburg","","Germany",2020-03-01,-0.03
+"München","","Germany",2020-03-01,0.19
+"Dublin","","Ireland",2020-03-01,0.04
+"Ciudad de México","Mexico City","Mexico",2020-03-01,-0.08
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-01,0.08
+"London","","United Kingdom",2020-03-01,-0.02
+"Phoenix","Arizona","United States",2020-03-01,-0.11
+"Scottsdale","Arizona","United States",2020-03-01,-0.04
+"Los Angeles","California","United States",2020-03-01,-0.03
+"San Diego","California","United States",2020-03-01,-0.02
+"San Francisco","California","United States",2020-03-01,-0.18
+"Denver","Colorado","United States",2020-03-01,0.38
+"Washington","District of Columbia","United States",2020-03-01,0.06
+"Fort Lauderdale","Florida","United States",2020-03-01,-0.17
+"Miami","Florida","United States",2020-03-01,-0.18
+"Miami Beach","Florida","United States",2020-03-01,0.05
+"Naples","Florida","United States",2020-03-01,0.05
+"Orlando","Florida","United States",2020-03-01,0.04
+"Tampa","Florida","United States",2020-03-01,-0.15
+"Atlanta","Georgia","United States",2020-03-01,0.08
+"Honolulu","Hawaii","United States",2020-03-01,-0.09
+"Chicago","Illinois","United States",2020-03-01,0.01
+"Indianapolis","Indiana","United States",2020-03-01,0.15
+"Louisville","Kentucky","United States",2020-03-01,0.13
+"New Orleans","Louisiana","United States",2020-03-01,-0.27
+"Baltimore","Maryland","United States",2020-03-01,0.16
+"Boston","Massachusetts","United States",2020-03-01,0.01
+"Minneapolis","Minnesota","United States",2020-03-01,0.14
+"Las Vegas","Nevada","United States",2020-03-01,-0.17
+"New York","New York","United States",2020-03-01,-0.02
+"Charlotte","North Carolina","United States",2020-03-01,0.06
+"Raleigh","North Carolina","United States",2020-03-01,0.01
+"Cincinnati","Ohio","United States",2020-03-01,0.04
+"Columbus","Ohio","United States",2020-03-01,0.22
+"Portland","Oregon","United States",2020-03-01,0.09
+"Philadelphia","Pennsylvania","United States",2020-03-01,0.21
+"Pittsburgh","Pennsylvania","United States",2020-03-01,0.32
+"Nashville","Tennessee","United States",2020-03-01,-0.03
+"Austin","Texas","United States",2020-03-01,0.02
+"Dallas","Texas","United States",2020-03-01,0.11
+"Houston","Texas","United States",2020-03-01,0.02
+"San Antonio","Texas","United States",2020-03-01,0
+"Seattle","Washington","United States",2020-03-01,-0.18
+"Calgary","Alberta","Canada",2020-03-02,-0.11
+"Edmonton","Alberta","Canada",2020-03-02,-0.05
+"Vancouver","British Columbia","Canada",2020-03-02,-0.1
+"Toronto","Ontario","Canada",2020-03-02,-0.1
+"Montréal","Quebec","Canada",2020-03-02,-0.32
+"Hamburg","","Germany",2020-03-02,-0.05
+"München","","Germany",2020-03-02,0.09
+"Dublin","","Ireland",2020-03-02,-0.03
+"Ciudad de México","Mexico City","Mexico",2020-03-02,-0.08
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-02,0.25
+"London","","United Kingdom",2020-03-02,-0.1
+"Phoenix","Arizona","United States",2020-03-02,-0.13
+"Scottsdale","Arizona","United States",2020-03-02,-0.07
+"Los Angeles","California","United States",2020-03-02,-0.01
+"San Diego","California","United States",2020-03-02,0.04
+"San Francisco","California","United States",2020-03-02,-0.22
+"Denver","Colorado","United States",2020-03-02,0.03
+"Washington","District of Columbia","United States",2020-03-02,0
+"Fort Lauderdale","Florida","United States",2020-03-02,-0.12
+"Miami","Florida","United States",2020-03-02,-0.13
+"Miami Beach","Florida","United States",2020-03-02,-0.08
+"Naples","Florida","United States",2020-03-02,-0.11
+"Orlando","Florida","United States",2020-03-02,-0.18
+"Tampa","Florida","United States",2020-03-02,0.12
+"Atlanta","Georgia","United States",2020-03-02,-0.17
+"Honolulu","Hawaii","United States",2020-03-02,-0.06
+"Chicago","Illinois","United States",2020-03-02,-0.21
+"Indianapolis","Indiana","United States",2020-03-02,-0.05
+"Louisville","Kentucky","United States",2020-03-02,-0.06
+"New Orleans","Louisiana","United States",2020-03-02,-0.47
+"Baltimore","Maryland","United States",2020-03-02,-0.19
+"Boston","Massachusetts","United States",2020-03-02,0.01
+"Minneapolis","Minnesota","United States",2020-03-02,-0.19
+"Las Vegas","Nevada","United States",2020-03-02,-0.28
+"New York","New York","United States",2020-03-02,-0.06
+"Charlotte","North Carolina","United States",2020-03-02,-0.02
+"Raleigh","North Carolina","United States",2020-03-02,-0.06
+"Cincinnati","Ohio","United States",2020-03-02,-0.05
+"Columbus","Ohio","United States",2020-03-02,-0.14
+"Portland","Oregon","United States",2020-03-02,0.05
+"Philadelphia","Pennsylvania","United States",2020-03-02,0.13
+"Pittsburgh","Pennsylvania","United States",2020-03-02,-0.12
+"Nashville","Tennessee","United States",2020-03-02,0.02
+"Austin","Texas","United States",2020-03-02,0
+"Dallas","Texas","United States",2020-03-02,0.01
+"Houston","Texas","United States",2020-03-02,0.02
+"San Antonio","Texas","United States",2020-03-02,-0.06
+"Seattle","Washington","United States",2020-03-02,-0.29
+"Calgary","Alberta","Canada",2020-03-03,-0.09
+"Edmonton","Alberta","Canada",2020-03-03,0.11
+"Vancouver","British Columbia","Canada",2020-03-03,-0.06
+"Toronto","Ontario","Canada",2020-03-03,-0.09
+"Montréal","Quebec","Canada",2020-03-03,-0.21
+"Hamburg","","Germany",2020-03-03,0.01
+"München","","Germany",2020-03-03,-0.02
+"Dublin","","Ireland",2020-03-03,-0.09
+"Ciudad de México","Mexico City","Mexico",2020-03-03,-0.08
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-03,0.14
+"London","","United Kingdom",2020-03-03,-0.1
+"Phoenix","Arizona","United States",2020-03-03,-0.21
+"Scottsdale","Arizona","United States",2020-03-03,-0.06
+"Los Angeles","California","United States",2020-03-03,0.04
+"San Diego","California","United States",2020-03-03,-0.02
+"San Francisco","California","United States",2020-03-03,-0.24
+"Denver","Colorado","United States",2020-03-03,-0.09
+"Washington","District of Columbia","United States",2020-03-03,-0.08
+"Fort Lauderdale","Florida","United States",2020-03-03,-0.15
+"Miami","Florida","United States",2020-03-03,-0.15
+"Miami Beach","Florida","United States",2020-03-03,-0.08
+"Naples","Florida","United States",2020-03-03,-0.05
+"Orlando","Florida","United States",2020-03-03,-0.18
+"Tampa","Florida","United States",2020-03-03,0.03
+"Atlanta","Georgia","United States",2020-03-03,-0.21
+"Honolulu","Hawaii","United States",2020-03-03,-0.09
+"Chicago","Illinois","United States",2020-03-03,-0.16
+"Indianapolis","Indiana","United States",2020-03-03,-0.07
+"Louisville","Kentucky","United States",2020-03-03,-0.13
+"New Orleans","Louisiana","United States",2020-03-03,-0.59
+"Baltimore","Maryland","United States",2020-03-03,-0.05
+"Boston","Massachusetts","United States",2020-03-03,-0.1
+"Minneapolis","Minnesota","United States",2020-03-03,-0.03
+"Las Vegas","Nevada","United States",2020-03-03,-0.31
+"New York","New York","United States",2020-03-03,-0.12
+"Charlotte","North Carolina","United States",2020-03-03,-0.08
+"Raleigh","North Carolina","United States",2020-03-03,-0.09
+"Cincinnati","Ohio","United States",2020-03-03,-0.16
+"Columbus","Ohio","United States",2020-03-03,-0.09
+"Portland","Oregon","United States",2020-03-03,-0.03
+"Philadelphia","Pennsylvania","United States",2020-03-03,0.04
+"Pittsburgh","Pennsylvania","United States",2020-03-03,-0.11
+"Nashville","Tennessee","United States",2020-03-03,-0.14
+"Austin","Texas","United States",2020-03-03,-0.08
+"Dallas","Texas","United States",2020-03-03,-0.06
+"Houston","Texas","United States",2020-03-03,-0.08
+"San Antonio","Texas","United States",2020-03-03,-0.22
+"Seattle","Washington","United States",2020-03-03,-0.31
+"Calgary","Alberta","Canada",2020-03-04,-0.04
+"Edmonton","Alberta","Canada",2020-03-04,0.06
+"Vancouver","British Columbia","Canada",2020-03-04,-0.06
+"Toronto","Ontario","Canada",2020-03-04,-0.02
+"Montréal","Quebec","Canada",2020-03-04,0.07
+"Hamburg","","Germany",2020-03-04,-0.05
+"München","","Germany",2020-03-04,0.08
+"Dublin","","Ireland",2020-03-04,-0.02
+"Ciudad de México","Mexico City","Mexico",2020-03-04,-0.04
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-04,0.09
+"London","","United Kingdom",2020-03-04,-0.1
+"Phoenix","Arizona","United States",2020-03-04,-0.08
+"Scottsdale","Arizona","United States",2020-03-04,0.01
+"Los Angeles","California","United States",2020-03-04,0.07
+"San Diego","California","United States",2020-03-04,-0.03
+"San Francisco","California","United States",2020-03-04,-0.24
+"Denver","Colorado","United States",2020-03-04,-0.03
+"Washington","District of Columbia","United States",2020-03-04,0.08
+"Fort Lauderdale","Florida","United States",2020-03-04,-0.08
+"Miami","Florida","United States",2020-03-04,-0.06
+"Miami Beach","Florida","United States",2020-03-04,-0.15
+"Naples","Florida","United States",2020-03-04,-0.07
+"Orlando","Florida","United States",2020-03-04,-0.18
+"Tampa","Florida","United States",2020-03-04,0.1
+"Atlanta","Georgia","United States",2020-03-04,-0.11
+"Honolulu","Hawaii","United States",2020-03-04,-0.11
+"Chicago","Illinois","United States",2020-03-04,-0.1
+"Indianapolis","Indiana","United States",2020-03-04,0.03
+"Louisville","Kentucky","United States",2020-03-04,-0.15
+"New Orleans","Louisiana","United States",2020-03-04,-0.32
+"Baltimore","Maryland","United States",2020-03-04,0.23
+"Boston","Massachusetts","United States",2020-03-04,-0.04
+"Minneapolis","Minnesota","United States",2020-03-04,0.06
+"Las Vegas","Nevada","United States",2020-03-04,-0.13
+"New York","New York","United States",2020-03-04,-0.12
+"Charlotte","North Carolina","United States",2020-03-04,-0.01
+"Raleigh","North Carolina","United States",2020-03-04,-0.08
+"Cincinnati","Ohio","United States",2020-03-04,-0.09
+"Columbus","Ohio","United States",2020-03-04,-0.11
+"Portland","Oregon","United States",2020-03-04,-0.01
+"Philadelphia","Pennsylvania","United States",2020-03-04,0.06
+"Pittsburgh","Pennsylvania","United States",2020-03-04,-0.02
+"Nashville","Tennessee","United States",2020-03-04,0.02
+"Austin","Texas","United States",2020-03-04,-0.11
+"Dallas","Texas","United States",2020-03-04,-0.08
+"Houston","Texas","United States",2020-03-04,-0.08
+"San Antonio","Texas","United States",2020-03-04,-0.1
+"Seattle","Washington","United States",2020-03-04,-0.31
+"Calgary","Alberta","Canada",2020-03-05,-0.02
+"Edmonton","Alberta","Canada",2020-03-05,-0.14
+"Vancouver","British Columbia","Canada",2020-03-05,-0.02
+"Toronto","Ontario","Canada",2020-03-05,-0.02
+"Montréal","Quebec","Canada",2020-03-05,0
+"Hamburg","","Germany",2020-03-05,-0.08
+"München","","Germany",2020-03-05,0.05
+"Dublin","","Ireland",2020-03-05,-0.11
+"Ciudad de México","Mexico City","Mexico",2020-03-05,-0.09
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-05,-0.05
+"London","","United Kingdom",2020-03-05,-0.13
+"Phoenix","Arizona","United States",2020-03-05,-0.08
+"Scottsdale","Arizona","United States",2020-03-05,-0.04
+"Los Angeles","California","United States",2020-03-05,-0.05
+"San Diego","California","United States",2020-03-05,-0.01
+"San Francisco","California","United States",2020-03-05,-0.22
+"Denver","Colorado","United States",2020-03-05,-0.1
+"Washington","District of Columbia","United States",2020-03-05,-0.04
+"Fort Lauderdale","Florida","United States",2020-03-05,-0.11
+"Miami","Florida","United States",2020-03-05,-0.02
+"Miami Beach","Florida","United States",2020-03-05,-0.16
+"Naples","Florida","United States",2020-03-05,-0.01
+"Orlando","Florida","United States",2020-03-05,-0.02
+"Tampa","Florida","United States",2020-03-05,-0.01
+"Atlanta","Georgia","United States",2020-03-05,-0.09
+"Honolulu","Hawaii","United States",2020-03-05,-0.13
+"Chicago","Illinois","United States",2020-03-05,-0.11
+"Indianapolis","Indiana","United States",2020-03-05,0.02
+"Louisville","Kentucky","United States",2020-03-05,-0.07
+"New Orleans","Louisiana","United States",2020-03-05,0.05
+"Baltimore","Maryland","United States",2020-03-05,0.08
+"Boston","Massachusetts","United States",2020-03-05,0.11
+"Minneapolis","Minnesota","United States",2020-03-05,-0.13
+"Las Vegas","Nevada","United States",2020-03-05,-0.09
+"New York","New York","United States",2020-03-05,-0.09
+"Charlotte","North Carolina","United States",2020-03-05,-0.07
+"Raleigh","North Carolina","United States",2020-03-05,-0.13
+"Cincinnati","Ohio","United States",2020-03-05,-0.06
+"Columbus","Ohio","United States",2020-03-05,-0.1
+"Portland","Oregon","United States",2020-03-05,0.03
+"Philadelphia","Pennsylvania","United States",2020-03-05,0.08
+"Pittsburgh","Pennsylvania","United States",2020-03-05,-0.1
+"Nashville","Tennessee","United States",2020-03-05,-0.03
+"Austin","Texas","United States",2020-03-05,-0.06
+"Dallas","Texas","United States",2020-03-05,0
+"Houston","Texas","United States",2020-03-05,0.07
+"San Antonio","Texas","United States",2020-03-05,-0.06
+"Seattle","Washington","United States",2020-03-05,-0.36
+"Calgary","Alberta","Canada",2020-03-06,0.02
+"Edmonton","Alberta","Canada",2020-03-06,0.05
+"Vancouver","British Columbia","Canada",2020-03-06,-0.05
+"Toronto","Ontario","Canada",2020-03-06,-0.15
+"Montréal","Quebec","Canada",2020-03-06,0.07
+"Hamburg","","Germany",2020-03-06,-0.03
+"München","","Germany",2020-03-06,-0.06
+"Dublin","","Ireland",2020-03-06,-0.1
+"Ciudad de México","Mexico City","Mexico",2020-03-06,-0.08
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-06,-0.01
+"London","","United Kingdom",2020-03-06,-0.07
+"Phoenix","Arizona","United States",2020-03-06,-0.07
+"Scottsdale","Arizona","United States",2020-03-06,-0.02
+"Los Angeles","California","United States",2020-03-06,0.01
+"San Diego","California","United States",2020-03-06,-0.01
+"San Francisco","California","United States",2020-03-06,-0.18
+"Denver","Colorado","United States",2020-03-06,-0.09
+"Washington","District of Columbia","United States",2020-03-06,-0.05
+"Fort Lauderdale","Florida","United States",2020-03-06,-0.13
+"Miami","Florida","United States",2020-03-06,-0.11
+"Miami Beach","Florida","United States",2020-03-06,-0.08
+"Naples","Florida","United States",2020-03-06,0
+"Orlando","Florida","United States",2020-03-06,-0.01
+"Tampa","Florida","United States",2020-03-06,-0.01
+"Atlanta","Georgia","United States",2020-03-06,-0.02
+"Honolulu","Hawaii","United States",2020-03-06,-0.12
+"Chicago","Illinois","United States",2020-03-06,-0.08
+"Indianapolis","Indiana","United States",2020-03-06,0
+"Louisville","Kentucky","United States",2020-03-06,-0.07
+"New Orleans","Louisiana","United States",2020-03-06,0.06
+"Baltimore","Maryland","United States",2020-03-06,0.08
+"Boston","Massachusetts","United States",2020-03-06,0.07
+"Minneapolis","Minnesota","United States",2020-03-06,-0.06
+"Las Vegas","Nevada","United States",2020-03-06,-0.08
+"New York","New York","United States",2020-03-06,-0.15
+"Charlotte","North Carolina","United States",2020-03-06,0.04
+"Raleigh","North Carolina","United States",2020-03-06,-0.09
+"Cincinnati","Ohio","United States",2020-03-06,-0.21
+"Columbus","Ohio","United States",2020-03-06,-0.09
+"Portland","Oregon","United States",2020-03-06,0
+"Philadelphia","Pennsylvania","United States",2020-03-06,-0.07
+"Pittsburgh","Pennsylvania","United States",2020-03-06,-0.17
+"Nashville","Tennessee","United States",2020-03-06,0
+"Austin","Texas","United States",2020-03-06,0
+"Dallas","Texas","United States",2020-03-06,0.03
+"Houston","Texas","United States",2020-03-06,0.06
+"San Antonio","Texas","United States",2020-03-06,-0.08
+"Seattle","Washington","United States",2020-03-06,-0.34
+"Calgary","Alberta","Canada",2020-03-07,-0.1
+"Edmonton","Alberta","Canada",2020-03-07,-0.14
+"Vancouver","British Columbia","Canada",2020-03-07,-0.15
+"Toronto","Ontario","Canada",2020-03-07,-0.07
+"Montréal","Quebec","Canada",2020-03-07,0.14
+"Hamburg","","Germany",2020-03-07,0.04
+"München","","Germany",2020-03-07,0.13
+"Dublin","","Ireland",2020-03-07,-0.04
+"Ciudad de México","Mexico City","Mexico",2020-03-07,-0.01
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-07,0.19
+"London","","United Kingdom",2020-03-07,-0.07
+"Phoenix","Arizona","United States",2020-03-07,-0.06
+"Scottsdale","Arizona","United States",2020-03-07,-0.01
+"Los Angeles","California","United States",2020-03-07,-0.02
+"San Diego","California","United States",2020-03-07,-0.01
+"San Francisco","California","United States",2020-03-07,-0.18
+"Denver","Colorado","United States",2020-03-07,-0.06
+"Washington","District of Columbia","United States",2020-03-07,0.01
+"Fort Lauderdale","Florida","United States",2020-03-07,-0.03
+"Miami","Florida","United States",2020-03-07,-0.02
+"Miami Beach","Florida","United States",2020-03-07,-0.03
+"Naples","Florida","United States",2020-03-07,0.02
+"Orlando","Florida","United States",2020-03-07,0.01
+"Tampa","Florida","United States",2020-03-07,0
+"Atlanta","Georgia","United States",2020-03-07,0.01
+"Honolulu","Hawaii","United States",2020-03-07,-0.09
+"Chicago","Illinois","United States",2020-03-07,0.04
+"Indianapolis","Indiana","United States",2020-03-07,0.01
+"Louisville","Kentucky","United States",2020-03-07,-0.05
+"New Orleans","Louisiana","United States",2020-03-07,0.03
+"Baltimore","Maryland","United States",2020-03-07,0.14
+"Boston","Massachusetts","United States",2020-03-07,-0.01
+"Minneapolis","Minnesota","United States",2020-03-07,0.61
+"Las Vegas","Nevada","United States",2020-03-07,-0.07
+"New York","New York","United States",2020-03-07,-0.1
+"Charlotte","North Carolina","United States",2020-03-07,-0.05
+"Raleigh","North Carolina","United States",2020-03-07,-0.09
+"Cincinnati","Ohio","United States",2020-03-07,-0.14
+"Columbus","Ohio","United States",2020-03-07,-0.05
+"Portland","Oregon","United States",2020-03-07,-0.03
+"Philadelphia","Pennsylvania","United States",2020-03-07,0.01
+"Pittsburgh","Pennsylvania","United States",2020-03-07,0.09
+"Nashville","Tennessee","United States",2020-03-07,0.05
+"Austin","Texas","United States",2020-03-07,-0.13
+"Dallas","Texas","United States",2020-03-07,-0.01
+"Houston","Texas","United States",2020-03-07,0.1
+"San Antonio","Texas","United States",2020-03-07,-0.15
+"Seattle","Washington","United States",2020-03-07,-0.35
+"Calgary","Alberta","Canada",2020-03-08,-0.04
+"Edmonton","Alberta","Canada",2020-03-08,0.04
+"Vancouver","British Columbia","Canada",2020-03-08,-0.01
+"Toronto","Ontario","Canada",2020-03-08,0.05
+"Montréal","Quebec","Canada",2020-03-08,0.38
+"Hamburg","","Germany",2020-03-08,0
+"München","","Germany",2020-03-08,-0.09
+"Dublin","","Ireland",2020-03-08,-0.07
+"Ciudad de México","Mexico City","Mexico",2020-03-08,-0.09
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-08,-0.03
+"London","","United Kingdom",2020-03-08,-0.07
+"Phoenix","Arizona","United States",2020-03-08,-0.08
+"Scottsdale","Arizona","United States",2020-03-08,-0.1
+"Los Angeles","California","United States",2020-03-08,-0.15
+"San Diego","California","United States",2020-03-08,-0.07
+"San Francisco","California","United States",2020-03-08,-0.26
+"Denver","Colorado","United States",2020-03-08,0.02
+"Washington","District of Columbia","United States",2020-03-08,0
+"Fort Lauderdale","Florida","United States",2020-03-08,-0.14
+"Miami","Florida","United States",2020-03-08,0.1
+"Miami Beach","Florida","United States",2020-03-08,-0.1
+"Naples","Florida","United States",2020-03-08,-0.06
+"Orlando","Florida","United States",2020-03-08,-0.08
+"Tampa","Florida","United States",2020-03-08,-0.02
+"Atlanta","Georgia","United States",2020-03-08,0.13
+"Honolulu","Hawaii","United States",2020-03-08,-0.18
+"Chicago","Illinois","United States",2020-03-08,0.13
+"Indianapolis","Indiana","United States",2020-03-08,-0.01
+"Louisville","Kentucky","United States",2020-03-08,0.03
+"New Orleans","Louisiana","United States",2020-03-08,-0.03
+"Baltimore","Maryland","United States",2020-03-08,-0.04
+"Boston","Massachusetts","United States",2020-03-08,0.1
+"Minneapolis","Minnesota","United States",2020-03-08,0.23
+"Las Vegas","Nevada","United States",2020-03-08,-0.08
+"New York","New York","United States",2020-03-08,-0.04
+"Charlotte","North Carolina","United States",2020-03-08,-0.1
+"Raleigh","North Carolina","United States",2020-03-08,-0.11
+"Cincinnati","Ohio","United States",2020-03-08,-0.23
+"Columbus","Ohio","United States",2020-03-08,0.03
+"Portland","Oregon","United States",2020-03-08,0.05
+"Philadelphia","Pennsylvania","United States",2020-03-08,0.03
+"Pittsburgh","Pennsylvania","United States",2020-03-08,0.01
+"Nashville","Tennessee","United States",2020-03-08,-0.04
+"Austin","Texas","United States",2020-03-08,-0.23
+"Dallas","Texas","United States",2020-03-08,-0.02
+"Houston","Texas","United States",2020-03-08,0.07
+"San Antonio","Texas","United States",2020-03-08,-0.23
+"Seattle","Washington","United States",2020-03-08,-0.25
+"Calgary","Alberta","Canada",2020-03-09,-0.11
+"Edmonton","Alberta","Canada",2020-03-09,-0.19
+"Vancouver","British Columbia","Canada",2020-03-09,0.01
+"Toronto","Ontario","Canada",2020-03-09,-0.18
+"Montréal","Quebec","Canada",2020-03-09,-0.14
+"Hamburg","","Germany",2020-03-09,-0.13
+"München","","Germany",2020-03-09,-0.15
+"Dublin","","Ireland",2020-03-09,-0.11
+"Ciudad de México","Mexico City","Mexico",2020-03-09,-0.29
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-09,-0.22
+"London","","United Kingdom",2020-03-09,-0.22
+"Phoenix","Arizona","United States",2020-03-09,-0.18
+"Scottsdale","Arizona","United States",2020-03-09,-0.04
+"Los Angeles","California","United States",2020-03-09,-0.27
+"San Diego","California","United States",2020-03-09,-0.13
+"San Francisco","California","United States",2020-03-09,-0.41
+"Denver","Colorado","United States",2020-03-09,-0.2
+"Washington","District of Columbia","United States",2020-03-09,-0.09
+"Fort Lauderdale","Florida","United States",2020-03-09,-0.15
+"Miami","Florida","United States",2020-03-09,-0.09
+"Miami Beach","Florida","United States",2020-03-09,-0.11
+"Naples","Florida","United States",2020-03-09,-0.18
+"Orlando","Florida","United States",2020-03-09,-0.34
+"Tampa","Florida","United States",2020-03-09,0
+"Atlanta","Georgia","United States",2020-03-09,0.01
+"Honolulu","Hawaii","United States",2020-03-09,-0.15
+"Chicago","Illinois","United States",2020-03-09,-0.25
+"Indianapolis","Indiana","United States",2020-03-09,-0.29
+"Louisville","Kentucky","United States",2020-03-09,-0.22
+"New Orleans","Louisiana","United States",2020-03-09,-0.13
+"Baltimore","Maryland","United States",2020-03-09,-0.17
+"Boston","Massachusetts","United States",2020-03-09,-0.14
+"Minneapolis","Minnesota","United States",2020-03-09,-0.19
+"Las Vegas","Nevada","United States",2020-03-09,-0.11
+"New York","New York","United States",2020-03-09,-0.18
+"Charlotte","North Carolina","United States",2020-03-09,-0.08
+"Raleigh","North Carolina","United States",2020-03-09,-0.18
+"Cincinnati","Ohio","United States",2020-03-09,-0.18
+"Columbus","Ohio","United States",2020-03-09,-0.26
+"Portland","Oregon","United States",2020-03-09,-0.16
+"Philadelphia","Pennsylvania","United States",2020-03-09,-0.07
+"Pittsburgh","Pennsylvania","United States",2020-03-09,-0.13
+"Nashville","Tennessee","United States",2020-03-09,-0.13
+"Austin","Texas","United States",2020-03-09,-0.41
+"Dallas","Texas","United States",2020-03-09,-0.15
+"Houston","Texas","United States",2020-03-09,-0.14
+"San Antonio","Texas","United States",2020-03-09,-0.32
+"Seattle","Washington","United States",2020-03-09,-0.47
+"Calgary","Alberta","Canada",2020-03-10,-0.08
+"Edmonton","Alberta","Canada",2020-03-10,-0.14
+"Vancouver","British Columbia","Canada",2020-03-10,-0.06
+"Toronto","Ontario","Canada",2020-03-10,-0.21
+"Montréal","Quebec","Canada",2020-03-10,-0.22
+"Hamburg","","Germany",2020-03-10,-0.16
+"München","","Germany",2020-03-10,-0.19
+"Dublin","","Ireland",2020-03-10,-0.29
+"Ciudad de México","Mexico City","Mexico",2020-03-10,-0.16
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-10,0.01
+"London","","United Kingdom",2020-03-10,-0.23
+"Phoenix","Arizona","United States",2020-03-10,-0.13
+"Scottsdale","Arizona","United States",2020-03-10,-0.16
+"Los Angeles","California","United States",2020-03-10,-0.23
+"San Diego","California","United States",2020-03-10,-0.34
+"San Francisco","California","United States",2020-03-10,-0.43
+"Denver","Colorado","United States",2020-03-10,-0.19
+"Washington","District of Columbia","United States",2020-03-10,-0.18
+"Fort Lauderdale","Florida","United States",2020-03-10,-0.19
+"Miami","Florida","United States",2020-03-10,-0.15
+"Miami Beach","Florida","United States",2020-03-10,-0.17
+"Naples","Florida","United States",2020-03-10,-0.14
+"Orlando","Florida","United States",2020-03-10,-0.37
+"Tampa","Florida","United States",2020-03-10,-0.15
+"Atlanta","Georgia","United States",2020-03-10,-0.14
+"Honolulu","Hawaii","United States",2020-03-10,-0.16
+"Chicago","Illinois","United States",2020-03-10,-0.23
+"Indianapolis","Indiana","United States",2020-03-10,-0.2
+"Louisville","Kentucky","United States",2020-03-10,-0.21
+"New Orleans","Louisiana","United States",2020-03-10,-0.13
+"Baltimore","Maryland","United States",2020-03-10,-0.34
+"Boston","Massachusetts","United States",2020-03-10,-0.29
+"Minneapolis","Minnesota","United States",2020-03-10,-0.14
+"Las Vegas","Nevada","United States",2020-03-10,-0.19
+"New York","New York","United States",2020-03-10,-0.3
+"Charlotte","North Carolina","United States",2020-03-10,-0.12
+"Raleigh","North Carolina","United States",2020-03-10,-0.18
+"Cincinnati","Ohio","United States",2020-03-10,-0.13
+"Columbus","Ohio","United States",2020-03-10,-0.19
+"Portland","Oregon","United States",2020-03-10,-0.07
+"Philadelphia","Pennsylvania","United States",2020-03-10,-0.14
+"Pittsburgh","Pennsylvania","United States",2020-03-10,-0.31
+"Nashville","Tennessee","United States",2020-03-10,-0.07
+"Austin","Texas","United States",2020-03-10,-0.31
+"Dallas","Texas","United States",2020-03-10,-0.1
+"Houston","Texas","United States",2020-03-10,-0.17
+"San Antonio","Texas","United States",2020-03-10,-0.22
+"Seattle","Washington","United States",2020-03-10,-0.49
+"Calgary","Alberta","Canada",2020-03-11,-0.07
+"Edmonton","Alberta","Canada",2020-03-11,-0.1
+"Vancouver","British Columbia","Canada",2020-03-11,-0.17
+"Toronto","Ontario","Canada",2020-03-11,-0.28
+"Montréal","Quebec","Canada",2020-03-11,-0.26
+"Hamburg","","Germany",2020-03-11,-0.05
+"München","","Germany",2020-03-11,-0.21
+"Dublin","","Ireland",2020-03-11,-0.3
+"Ciudad de México","Mexico City","Mexico",2020-03-11,-0.18
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-11,-0.11
+"London","","United Kingdom",2020-03-11,-0.19
+"Phoenix","Arizona","United States",2020-03-11,-0.28
+"Scottsdale","Arizona","United States",2020-03-11,-0.23
+"Los Angeles","California","United States",2020-03-11,-0.26
+"San Diego","California","United States",2020-03-11,-0.31
+"San Francisco","California","United States",2020-03-11,-0.43
+"Denver","Colorado","United States",2020-03-11,-0.04
+"Washington","District of Columbia","United States",2020-03-11,-0.22
+"Fort Lauderdale","Florida","United States",2020-03-11,-0.15
+"Miami","Florida","United States",2020-03-11,-0.18
+"Miami Beach","Florida","United States",2020-03-11,-0.2
+"Naples","Florida","United States",2020-03-11,-0.13
+"Orlando","Florida","United States",2020-03-11,-0.3
+"Tampa","Florida","United States",2020-03-11,-0.14
+"Atlanta","Georgia","United States",2020-03-11,-0.14
+"Honolulu","Hawaii","United States",2020-03-11,-0.17
+"Chicago","Illinois","United States",2020-03-11,-0.27
+"Indianapolis","Indiana","United States",2020-03-11,-0.25
+"Louisville","Kentucky","United States",2020-03-11,-0.24
+"New Orleans","Louisiana","United States",2020-03-11,-0.21
+"Baltimore","Maryland","United States",2020-03-11,-0.22
+"Boston","Massachusetts","United States",2020-03-11,-0.3
+"Minneapolis","Minnesota","United States",2020-03-11,-0.17
+"Las Vegas","Nevada","United States",2020-03-11,-0.13
+"New York","New York","United States",2020-03-11,-0.36
+"Charlotte","North Carolina","United States",2020-03-11,-0.18
+"Raleigh","North Carolina","United States",2020-03-11,-0.15
+"Cincinnati","Ohio","United States",2020-03-11,-0.2
+"Columbus","Ohio","United States",2020-03-11,-0.19
+"Portland","Oregon","United States",2020-03-11,-0.2
+"Philadelphia","Pennsylvania","United States",2020-03-11,-0.16
+"Pittsburgh","Pennsylvania","United States",2020-03-11,-0.24
+"Nashville","Tennessee","United States",2020-03-11,-0.21
+"Austin","Texas","United States",2020-03-11,-0.3
+"Dallas","Texas","United States",2020-03-11,-0.12
+"Houston","Texas","United States",2020-03-11,-0.08
+"San Antonio","Texas","United States",2020-03-11,-0.27
+"Seattle","Washington","United States",2020-03-11,-0.54
+"Calgary","Alberta","Canada",2020-03-12,-0.27
+"Edmonton","Alberta","Canada",2020-03-12,-0.23
+"Vancouver","British Columbia","Canada",2020-03-12,-0.24
+"Toronto","Ontario","Canada",2020-03-12,-0.37
+"Montréal","Quebec","Canada",2020-03-12,-0.24
+"Hamburg","","Germany",2020-03-12,-0.22
+"München","","Germany",2020-03-12,-0.17
+"Dublin","","Ireland",2020-03-12,-0.46
+"Ciudad de México","Mexico City","Mexico",2020-03-12,-0.16
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-12,-0.22
+"London","","United Kingdom",2020-03-12,-0.29
+"Phoenix","Arizona","United States",2020-03-12,-0.22
+"Scottsdale","Arizona","United States",2020-03-12,-0.22
+"Los Angeles","California","United States",2020-03-12,-0.38
+"San Diego","California","United States",2020-03-12,-0.43
+"San Francisco","California","United States",2020-03-12,-0.51
+"Denver","Colorado","United States",2020-03-12,-0.17
+"Washington","District of Columbia","United States",2020-03-12,-0.37
+"Fort Lauderdale","Florida","United States",2020-03-12,-0.25
+"Miami","Florida","United States",2020-03-12,-0.22
+"Miami Beach","Florida","United States",2020-03-12,-0.22
+"Naples","Florida","United States",2020-03-12,-0.17
+"Orlando","Florida","United States",2020-03-12,-0.3
+"Tampa","Florida","United States",2020-03-12,-0.16
+"Atlanta","Georgia","United States",2020-03-12,-0.26
+"Honolulu","Hawaii","United States",2020-03-12,-0.2
+"Chicago","Illinois","United States",2020-03-12,-0.31
+"Indianapolis","Indiana","United States",2020-03-12,-0.35
+"Louisville","Kentucky","United States",2020-03-12,-0.31
+"New Orleans","Louisiana","United States",2020-03-12,-0.28
+"Baltimore","Maryland","United States",2020-03-12,-0.3
+"Boston","Massachusetts","United States",2020-03-12,-0.47
+"Minneapolis","Minnesota","United States",2020-03-12,-0.28
+"Las Vegas","Nevada","United States",2020-03-12,-0.2
+"New York","New York","United States",2020-03-12,-0.52
+"Charlotte","North Carolina","United States",2020-03-12,-0.3
+"Raleigh","North Carolina","United States",2020-03-12,-0.21
+"Cincinnati","Ohio","United States",2020-03-12,-0.19
+"Columbus","Ohio","United States",2020-03-12,-0.37
+"Portland","Oregon","United States",2020-03-12,-0.36
+"Philadelphia","Pennsylvania","United States",2020-03-12,-0.4
+"Pittsburgh","Pennsylvania","United States",2020-03-12,-0.42
+"Nashville","Tennessee","United States",2020-03-12,-0.3
+"Austin","Texas","United States",2020-03-12,-0.27
+"Dallas","Texas","United States",2020-03-12,-0.25
+"Houston","Texas","United States",2020-03-12,-0.24
+"San Antonio","Texas","United States",2020-03-12,-0.28
+"Seattle","Washington","United States",2020-03-12,-0.58
+"Calgary","Alberta","Canada",2020-03-13,-0.48
+"Edmonton","Alberta","Canada",2020-03-13,-0.33
+"Vancouver","British Columbia","Canada",2020-03-13,-0.36
+"Toronto","Ontario","Canada",2020-03-13,-0.49
+"Montréal","Quebec","Canada",2020-03-13,-0.48
+"Hamburg","","Germany",2020-03-13,-0.28
+"München","","Germany",2020-03-13,-0.28
+"Dublin","","Ireland",2020-03-13,-0.46
+"Ciudad de México","Mexico City","Mexico",2020-03-13,-0.16
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-13,-0.28
+"London","","United Kingdom",2020-03-13,-0.36
+"Phoenix","Arizona","United States",2020-03-13,-0.28
+"Scottsdale","Arizona","United States",2020-03-13,-0.29
+"Los Angeles","California","United States",2020-03-13,-0.48
+"San Diego","California","United States",2020-03-13,-0.43
+"San Francisco","California","United States",2020-03-13,-0.53
+"Denver","Colorado","United States",2020-03-13,-0.46
+"Washington","District of Columbia","United States",2020-03-13,-0.44
+"Fort Lauderdale","Florida","United States",2020-03-13,-0.28
+"Miami","Florida","United States",2020-03-13,-0.27
+"Miami Beach","Florida","United States",2020-03-13,-0.21
+"Naples","Florida","United States",2020-03-13,-0.24
+"Orlando","Florida","United States",2020-03-13,-0.33
+"Tampa","Florida","United States",2020-03-13,-0.22
+"Atlanta","Georgia","United States",2020-03-13,-0.35
+"Honolulu","Hawaii","United States",2020-03-13,-0.18
+"Chicago","Illinois","United States",2020-03-13,-0.37
+"Indianapolis","Indiana","United States",2020-03-13,-0.47
+"Louisville","Kentucky","United States",2020-03-13,-0.33
+"New Orleans","Louisiana","United States",2020-03-13,-0.32
+"Baltimore","Maryland","United States",2020-03-13,-0.3
+"Boston","Massachusetts","United States",2020-03-13,-0.56
+"Minneapolis","Minnesota","United States",2020-03-13,-0.22
+"Las Vegas","Nevada","United States",2020-03-13,-0.32
+"New York","New York","United States",2020-03-13,-0.61
+"Charlotte","North Carolina","United States",2020-03-13,-0.35
+"Raleigh","North Carolina","United States",2020-03-13,-0.29
+"Cincinnati","Ohio","United States",2020-03-13,-0.37
+"Columbus","Ohio","United States",2020-03-13,-0.38
+"Portland","Oregon","United States",2020-03-13,-0.41
+"Philadelphia","Pennsylvania","United States",2020-03-13,-0.4
+"Pittsburgh","Pennsylvania","United States",2020-03-13,-0.42
+"Nashville","Tennessee","United States",2020-03-13,-0.37
+"Austin","Texas","United States",2020-03-13,-0.35
+"Dallas","Texas","United States",2020-03-13,-0.35
+"Houston","Texas","United States",2020-03-13,-0.33
+"San Antonio","Texas","United States",2020-03-13,-0.41
+"Seattle","Washington","United States",2020-03-13,-0.63
+"Calgary","Alberta","Canada",2020-03-14,-0.51
+"Edmonton","Alberta","Canada",2020-03-14,-0.4
+"Vancouver","British Columbia","Canada",2020-03-14,-0.33
+"Toronto","Ontario","Canada",2020-03-14,-0.49
+"Montréal","Quebec","Canada",2020-03-14,-0.43
+"Hamburg","","Germany",2020-03-14,-0.4
+"München","","Germany",2020-03-14,-0.44
+"Dublin","","Ireland",2020-03-14,-0.54
+"Ciudad de México","Mexico City","Mexico",2020-03-14,-0.2
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-14,-0.34
+"London","","United Kingdom",2020-03-14,-0.31
+"Phoenix","Arizona","United States",2020-03-14,-0.27
+"Scottsdale","Arizona","United States",2020-03-14,-0.25
+"Los Angeles","California","United States",2020-03-14,-0.47
+"San Diego","California","United States",2020-03-14,-0.42
+"San Francisco","California","United States",2020-03-14,-0.58
+"Denver","Colorado","United States",2020-03-14,-0.46
+"Washington","District of Columbia","United States",2020-03-14,-0.44
+"Fort Lauderdale","Florida","United States",2020-03-14,-0.3
+"Miami","Florida","United States",2020-03-14,-0.3
+"Miami Beach","Florida","United States",2020-03-14,-0.24
+"Naples","Florida","United States",2020-03-14,-0.3
+"Orlando","Florida","United States",2020-03-14,-0.32
+"Tampa","Florida","United States",2020-03-14,-0.23
+"Atlanta","Georgia","United States",2020-03-14,-0.34
+"Honolulu","Hawaii","United States",2020-03-14,-0.22
+"Chicago","Illinois","United States",2020-03-14,-0.49
+"Indianapolis","Indiana","United States",2020-03-14,-0.58
+"Louisville","Kentucky","United States",2020-03-14,-0.52
+"New Orleans","Louisiana","United States",2020-03-14,-0.39
+"Baltimore","Maryland","United States",2020-03-14,-0.39
+"Boston","Massachusetts","United States",2020-03-14,-0.64
+"Minneapolis","Minnesota","United States",2020-03-14,-0.35
+"Las Vegas","Nevada","United States",2020-03-14,-0.36
+"New York","New York","United States",2020-03-14,-0.64
+"Charlotte","North Carolina","United States",2020-03-14,-0.34
+"Raleigh","North Carolina","United States",2020-03-14,-0.39
+"Cincinnati","Ohio","United States",2020-03-14,-0.52
+"Columbus","Ohio","United States",2020-03-14,-0.53
+"Portland","Oregon","United States",2020-03-14,-0.39
+"Philadelphia","Pennsylvania","United States",2020-03-14,-0.48
+"Pittsburgh","Pennsylvania","United States",2020-03-14,-0.48
+"Nashville","Tennessee","United States",2020-03-14,-0.4
+"Austin","Texas","United States",2020-03-14,-0.36
+"Dallas","Texas","United States",2020-03-14,-0.35
+"Houston","Texas","United States",2020-03-14,-0.34
+"San Antonio","Texas","United States",2020-03-14,-0.39
+"Seattle","Washington","United States",2020-03-14,-0.63
+"Calgary","Alberta","Canada",2020-03-15,-0.54
+"Edmonton","Alberta","Canada",2020-03-15,-0.46
+"Vancouver","British Columbia","Canada",2020-03-15,-0.36
+"Toronto","Ontario","Canada",2020-03-15,-0.54
+"Montréal","Quebec","Canada",2020-03-15,-0.42
+"Hamburg","","Germany",2020-03-15,-0.55
+"München","","Germany",2020-03-15,-0.53
+"Dublin","","Ireland",2020-03-15,-0.7
+"Ciudad de México","Mexico City","Mexico",2020-03-15,-0.38
+"San Pedro Garza García","Nuevo Leon","Mexico",2020-03-15,-0.6
+"London","","United Kingdom",2020-03-15,-0.43
+"Phoenix","Arizona","United States",2020-03-15,-0.45
+"Scottsdale","Arizona","United States",2020-03-15,-0.38
+"Los Angeles","California","United States",2020-03-15,-0.57
+"San Diego","California","United States",2020-03-15,-0.49
+"San Francisco","California","United States",2020-03-15,-0.72
+"Denver","Colorado","United States",2020-03-15,-0.5
+"Washington","District of Columbia","United States",2020-03-15,-0.55
+"Fort Lauderdale","Florida","United States",2020-03-15,-0.44
+"Miami","Florida","United States",2020-03-15,-0.36
+"Miami Beach","Florida","United States",2020-03-15,-0.23
+"Naples","Florida","United States",2020-03-15,-0.38
+"Orlando","Florida","United States",2020-03-15,-0.47
+"Tampa","Florida","United States",2020-03-15,-0.2
+"Atlanta","Georgia","United States",2020-03-15,-0.44
+"Honolulu","Hawaii","United States",2020-03-15,-0.32
+"Chicago","Illinois","United States",2020-03-15,-0.53
+"Indianapolis","Indiana","United States",2020-03-15,-0.49
+"Louisville","Kentucky","United States",2020-03-15,-0.57
+"New Orleans","Louisiana","United States",2020-03-15,-0.54
+"Baltimore","Maryland","United States",2020-03-15,-0.48
+"Boston","Massachusetts","United States",2020-03-15,-0.7
+"Minneapolis","Minnesota","United States",2020-03-15,-0.33
+"Las Vegas","Nevada","United States",2020-03-15,-0.48
+"New York","New York","United States",2020-03-15,-0.69
+"Charlotte","North Carolina","United States",2020-03-15,-0.36
+"Raleigh","North Carolina","United States",2020-03-15,-0.55
+"Cincinnati","Ohio","United States",2020-03-15,-0.53
+"Columbus","Ohio","United States",2020-03-15,-0.49
+"Portland","Oregon","United States",2020-03-15,-0.54
+"Philadelphia","Pennsylvania","United States",2020-03-15,-0.54
+"Pittsburgh","Pennsylvania","United States",2020-03-15,-0.48
+"Nashville","Tennessee","United States",2020-03-15,-0.54
+"Austin","Texas","United States",2020-03-15,-0.54
+"Dallas","Texas","United States",2020-03-15,-0.42
+"Houston","Texas","United States",2020-03-15,-0.4
+"San Antonio","Texas","United States",2020-03-15,-0.45
+"Seattle","Washington","United States",2020-03-15,-0.62
