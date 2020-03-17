@@ -1,1324 +1,1372 @@
-"State","Country","report_date","yoy_pct_change"
-"New South Wales","Australia",2020-02-18,0.04
-"Queensland","Australia",2020-02-18,0.05
-"Victoria","Australia",2020-02-18,-0.1
-"Alberta","Canada",2020-02-18,0.02
-"British Columbia","Canada",2020-02-18,0.08
-"Ontario","Canada",2020-02-18,-0.16
-"Quebec","Canada",2020-02-18,0.06
-"Baja California Sur","Mexico",2020-02-18,-0.06
-"Jalisco","Mexico",2020-02-18,0.08
-"Mexico City","Mexico",2020-02-18,-0.08
-"Nuevo Leon","Mexico",2020-02-18,-0.12
-"Quintana Roo","Mexico",2020-02-18,0.02
-"Alabama","United States",2020-02-18,-0.14
-"Arizona","United States",2020-02-18,0
-"California","United States",2020-02-18,-0.02
-"Colorado","United States",2020-02-18,0.01
-"Connecticut","United States",2020-02-18,0.08
-"District of Columbia","United States",2020-02-18,-0.05
-"Florida","United States",2020-02-18,0
-"Georgia","United States",2020-02-18,0
-"Hawaii","United States",2020-02-18,0
-"Illinois","United States",2020-02-18,-0.04
-"Indiana","United States",2020-02-18,0.21
-"Kansas","United States",2020-02-18,0.39
-"Kentucky","United States",2020-02-18,0.11
-"Louisiana","United States",2020-02-18,-0.06
-"Maryland","United States",2020-02-18,0.06
-"Massachusetts","United States",2020-02-18,0
-"Michigan","United States",2020-02-18,-0.12
-"Minnesota","United States",2020-02-18,-0.11
-"Missouri","United States",2020-02-18,0.32
-"Nebraska","United States",2020-02-18,0.3
-"Nevada","United States",2020-02-18,-0.19
-"New Jersey","United States",2020-02-18,0.03
-"New Mexico","United States",2020-02-18,0.18
-"New York","United States",2020-02-18,-0.01
-"North Carolina","United States",2020-02-18,0.04
-"Ohio","United States",2020-02-18,-0.08
-"Oklahoma","United States",2020-02-18,0.51
-"Oregon","United States",2020-02-18,0.04
-"Pennsylvania","United States",2020-02-18,0.03
-"Rhode Island","United States",2020-02-18,0.08
-"South Carolina","United States",2020-02-18,0.08
-"Tennessee","United States",2020-02-18,0.01
-"Texas","United States",2020-02-18,0
-"Utah","United States",2020-02-18,0
-"Virginia","United States",2020-02-18,0.06
-"Washington","United States",2020-02-18,0.09
-"Wisconsin","United States",2020-02-18,0.03
-"New South Wales","Australia",2020-02-19,-0.07
-"Queensland","Australia",2020-02-19,0.02
-"Victoria","Australia",2020-02-19,-0.07
-"Alberta","Canada",2020-02-19,0.1
-"British Columbia","Canada",2020-02-19,-0.03
-"Ontario","Canada",2020-02-19,-0.04
-"Quebec","Canada",2020-02-19,0.09
-"Baja California Sur","Mexico",2020-02-19,-0.02
-"Jalisco","Mexico",2020-02-19,0.09
-"Mexico City","Mexico",2020-02-19,-0.09
-"Nuevo Leon","Mexico",2020-02-19,-0.12
-"Quintana Roo","Mexico",2020-02-19,0
-"Alabama","United States",2020-02-19,0.07
-"Arizona","United States",2020-02-19,0.01
-"California","United States",2020-02-19,0.02
-"Colorado","United States",2020-02-19,-0.08
-"Connecticut","United States",2020-02-19,0.26
-"District of Columbia","United States",2020-02-19,0.55
-"Florida","United States",2020-02-19,-0.03
-"Georgia","United States",2020-02-19,0.04
-"Hawaii","United States",2020-02-19,0.02
-"Illinois","United States",2020-02-19,0.04
-"Indiana","United States",2020-02-19,0.13
-"Kansas","United States",2020-02-19,0.02
-"Kentucky","United States",2020-02-19,0.14
-"Louisiana","United States",2020-02-19,0.02
-"Maryland","United States",2020-02-19,0.7
-"Massachusetts","United States",2020-02-19,0.07
-"Michigan","United States",2020-02-19,0
-"Minnesota","United States",2020-02-19,0.51
-"Missouri","United States",2020-02-19,0.17
-"Nebraska","United States",2020-02-19,0.08
-"Nevada","United States",2020-02-19,-0.18
-"New Jersey","United States",2020-02-19,0.7
-"New Mexico","United States",2020-02-19,-0.03
-"New York","United States",2020-02-19,0.11
-"North Carolina","United States",2020-02-19,0.01
-"Ohio","United States",2020-02-19,0.01
-"Oklahoma","United States",2020-02-19,0.13
-"Oregon","United States",2020-02-19,-0.01
-"Pennsylvania","United States",2020-02-19,0.63
-"Rhode Island","United States",2020-02-19,0
-"South Carolina","United States",2020-02-19,-0.02
-"Tennessee","United States",2020-02-19,0.08
-"Texas","United States",2020-02-19,-0.06
-"Utah","United States",2020-02-19,0.03
-"Virginia","United States",2020-02-19,0.58
-"Washington","United States",2020-02-19,0.08
-"Wisconsin","United States",2020-02-19,0.21
-"New South Wales","Australia",2020-02-20,-0.01
-"Queensland","Australia",2020-02-20,0
-"Victoria","Australia",2020-02-20,-0.05
-"Alberta","Canada",2020-02-20,0.02
-"British Columbia","Canada",2020-02-20,0.01
-"Ontario","Canada",2020-02-20,-0.06
-"Quebec","Canada",2020-02-20,-0.04
-"Baja California Sur","Mexico",2020-02-20,-0.02
-"Jalisco","Mexico",2020-02-20,0
-"Mexico City","Mexico",2020-02-20,-0.01
-"Nuevo Leon","Mexico",2020-02-20,-0.1
-"Quintana Roo","Mexico",2020-02-20,-0.06
-"Alabama","United States",2020-02-20,0.01
-"Arizona","United States",2020-02-20,0.08
-"California","United States",2020-02-20,0.05
-"Colorado","United States",2020-02-20,-0.04
-"Connecticut","United States",2020-02-20,0.01
-"District of Columbia","United States",2020-02-20,0.08
-"Florida","United States",2020-02-20,-0.04
-"Georgia","United States",2020-02-20,-0.06
-"Hawaii","United States",2020-02-20,0.04
-"Illinois","United States",2020-02-20,-0.02
-"Indiana","United States",2020-02-20,-0.15
-"Kansas","United States",2020-02-20,-0.14
-"Kentucky","United States",2020-02-20,0.02
-"Louisiana","United States",2020-02-20,0.09
-"Maryland","United States",2020-02-20,0.04
-"Massachusetts","United States",2020-02-20,0.05
-"Michigan","United States",2020-02-20,-0.09
-"Minnesota","United States",2020-02-20,-0.15
-"Missouri","United States",2020-02-20,-0.01
-"Nebraska","United States",2020-02-20,0.06
-"Nevada","United States",2020-02-20,-0.01
-"New Jersey","United States",2020-02-20,-0.04
-"New Mexico","United States",2020-02-20,0.05
-"New York","United States",2020-02-20,0.01
-"North Carolina","United States",2020-02-20,-0.3
-"Ohio","United States",2020-02-20,-0.05
-"Oklahoma","United States",2020-02-20,-0.04
-"Oregon","United States",2020-02-20,0.04
-"Pennsylvania","United States",2020-02-20,0
-"Rhode Island","United States",2020-02-20,0.07
-"South Carolina","United States",2020-02-20,-0.11
-"Tennessee","United States",2020-02-20,-0.09
-"Texas","United States",2020-02-20,0
-"Utah","United States",2020-02-20,0.02
-"Virginia","United States",2020-02-20,-0.01
-"Washington","United States",2020-02-20,0.06
-"Wisconsin","United States",2020-02-20,-0.01
-"New South Wales","Australia",2020-02-21,0.05
-"Queensland","Australia",2020-02-21,0.04
-"Victoria","Australia",2020-02-21,-0.07
-"Alberta","Canada",2020-02-21,0.01
-"British Columbia","Canada",2020-02-21,0.06
-"Ontario","Canada",2020-02-21,-0.07
-"Quebec","Canada",2020-02-21,-0.05
-"Baja California Sur","Mexico",2020-02-21,-0.09
-"Jalisco","Mexico",2020-02-21,0.05
-"Mexico City","Mexico",2020-02-21,-0.02
-"Nuevo Leon","Mexico",2020-02-21,0.04
-"Quintana Roo","Mexico",2020-02-21,-0.07
-"Alabama","United States",2020-02-21,-0.02
-"Arizona","United States",2020-02-21,0.04
-"California","United States",2020-02-21,0
-"Colorado","United States",2020-02-21,0.07
-"Connecticut","United States",2020-02-21,-0.03
-"District of Columbia","United States",2020-02-21,0
-"Florida","United States",2020-02-21,-0.05
-"Georgia","United States",2020-02-21,-0.05
-"Hawaii","United States",2020-02-21,0.05
-"Illinois","United States",2020-02-21,-0.03
-"Indiana","United States",2020-02-21,-0.08
-"Kansas","United States",2020-02-21,-0.11
-"Kentucky","United States",2020-02-21,0.06
-"Louisiana","United States",2020-02-21,0.1
-"Maryland","United States",2020-02-21,0.01
-"Massachusetts","United States",2020-02-21,-0.07
-"Michigan","United States",2020-02-21,-0.12
-"Minnesota","United States",2020-02-21,-0.09
-"Missouri","United States",2020-02-21,0.03
-"Nebraska","United States",2020-02-21,-0.01
-"Nevada","United States",2020-02-21,0.01
-"New Jersey","United States",2020-02-21,-0.02
-"New Mexico","United States",2020-02-21,0.08
-"New York","United States",2020-02-21,-0.04
-"North Carolina","United States",2020-02-21,-0.01
-"Ohio","United States",2020-02-21,-0.07
-"Oklahoma","United States",2020-02-21,0.04
-"Oregon","United States",2020-02-21,0.09
-"Pennsylvania","United States",2020-02-21,-0.03
-"Rhode Island","United States",2020-02-21,-0.15
-"South Carolina","United States",2020-02-21,0
-"Tennessee","United States",2020-02-21,0.03
-"Texas","United States",2020-02-21,0.02
-"Utah","United States",2020-02-21,0.04
-"Virginia","United States",2020-02-21,-0.03
-"Washington","United States",2020-02-21,0.03
-"Wisconsin","United States",2020-02-21,-0.03
-"New South Wales","Australia",2020-02-22,0.08
-"Queensland","Australia",2020-02-22,0.02
-"Victoria","Australia",2020-02-22,-0.05
-"Alberta","Canada",2020-02-22,0.05
-"British Columbia","Canada",2020-02-22,0.03
-"Ontario","Canada",2020-02-22,-0.05
-"Quebec","Canada",2020-02-22,0.05
-"Baja California Sur","Mexico",2020-02-22,0.01
-"Jalisco","Mexico",2020-02-22,-0.06
-"Mexico City","Mexico",2020-02-22,0
-"Nuevo Leon","Mexico",2020-02-22,0.09
-"Quintana Roo","Mexico",2020-02-22,0.02
-"Alabama","United States",2020-02-22,0.08
-"Arizona","United States",2020-02-22,-0.03
-"California","United States",2020-02-22,-0.02
-"Colorado","United States",2020-02-22,0.01
-"Connecticut","United States",2020-02-22,-0.06
-"District of Columbia","United States",2020-02-22,0.08
-"Florida","United States",2020-02-22,0.02
-"Georgia","United States",2020-02-22,-0.02
-"Hawaii","United States",2020-02-22,0.04
-"Illinois","United States",2020-02-22,0.06
-"Indiana","United States",2020-02-22,0.03
-"Kansas","United States",2020-02-22,-0.04
-"Kentucky","United States",2020-02-22,0.11
-"Louisiana","United States",2020-02-22,0.02
-"Maryland","United States",2020-02-22,0.08
-"Massachusetts","United States",2020-02-22,-0.01
-"Michigan","United States",2020-02-22,0
-"Minnesota","United States",2020-02-22,0.17
-"Missouri","United States",2020-02-22,0.01
-"Nebraska","United States",2020-02-22,1.63
-"Nevada","United States",2020-02-22,-0.04
-"New Jersey","United States",2020-02-22,0.03
-"New Mexico","United States",2020-02-22,-0.04
-"New York","United States",2020-02-22,0.01
-"North Carolina","United States",2020-02-22,0.04
-"Ohio","United States",2020-02-22,-0.07
-"Oklahoma","United States",2020-02-22,-0.02
-"Oregon","United States",2020-02-22,0.07
-"Pennsylvania","United States",2020-02-22,0.01
-"Rhode Island","United States",2020-02-22,-0.06
-"South Carolina","United States",2020-02-22,0.1
-"Tennessee","United States",2020-02-22,0.07
-"Texas","United States",2020-02-22,0.01
-"Utah","United States",2020-02-22,0.05
-"Virginia","United States",2020-02-22,0.06
-"Washington","United States",2020-02-22,0.02
-"Wisconsin","United States",2020-02-22,0.14
-"New South Wales","Australia",2020-02-23,-0.05
-"Queensland","Australia",2020-02-23,0.04
-"Victoria","Australia",2020-02-23,-0.02
-"Alberta","Canada",2020-02-23,0
-"British Columbia","Canada",2020-02-23,-0.02
-"Ontario","Canada",2020-02-23,0.14
-"Quebec","Canada",2020-02-23,0.29
-"Baja California Sur","Mexico",2020-02-23,0.01
-"Jalisco","Mexico",2020-02-23,0.02
-"Mexico City","Mexico",2020-02-23,0.02
-"Nuevo Leon","Mexico",2020-02-23,0.1
-"Quintana Roo","Mexico",2020-02-23,-0.01
-"Alabama","United States",2020-02-23,0.02
-"Arizona","United States",2020-02-23,0.05
-"California","United States",2020-02-23,0.07
-"Colorado","United States",2020-02-23,-0.08
-"Connecticut","United States",2020-02-23,0.02
-"District of Columbia","United States",2020-02-23,0.15
-"Florida","United States",2020-02-23,0.02
-"Georgia","United States",2020-02-23,-0.09
-"Hawaii","United States",2020-02-23,0.03
-"Illinois","United States",2020-02-23,0.11
-"Indiana","United States",2020-02-23,0.13
-"Kansas","United States",2020-02-23,-0.06
-"Kentucky","United States",2020-02-23,-0.02
-"Louisiana","United States",2020-02-23,0.11
-"Maryland","United States",2020-02-23,0.08
-"Massachusetts","United States",2020-02-23,0.11
-"Michigan","United States",2020-02-23,0.18
-"Minnesota","United States",2020-02-23,0.22
-"Missouri","United States",2020-02-23,-0.03
-"Nebraska","United States",2020-02-23,0.6
-"Nevada","United States",2020-02-23,0.08
-"New Jersey","United States",2020-02-23,0.12
-"New Mexico","United States",2020-02-23,0.03
-"New York","United States",2020-02-23,0.13
-"North Carolina","United States",2020-02-23,0.02
-"Ohio","United States",2020-02-23,0
-"Oklahoma","United States",2020-02-23,-0.08
-"Oregon","United States",2020-02-23,0.2
-"Pennsylvania","United States",2020-02-23,0.03
-"Rhode Island","United States",2020-02-23,0.24
-"South Carolina","United States",2020-02-23,0.04
-"Tennessee","United States",2020-02-23,-0.14
-"Texas","United States",2020-02-23,-0.03
-"Utah","United States",2020-02-23,0.04
-"Virginia","United States",2020-02-23,0.07
-"Washington","United States",2020-02-23,0.1
-"Wisconsin","United States",2020-02-23,0.25
-"New South Wales","Australia",2020-02-24,0.04
-"Queensland","Australia",2020-02-24,0.09
-"Victoria","Australia",2020-02-24,-0.07
-"Alberta","Canada",2020-02-24,-0.01
-"British Columbia","Canada",2020-02-24,-0.03
-"Ontario","Canada",2020-02-24,-0.02
-"Quebec","Canada",2020-02-24,0.14
-"Baja California Sur","Mexico",2020-02-24,0.29
-"Jalisco","Mexico",2020-02-24,-0.09
-"Mexico City","Mexico",2020-02-24,0
-"Nuevo Leon","Mexico",2020-02-24,0
-"Quintana Roo","Mexico",2020-02-24,-0.02
-"Alabama","United States",2020-02-24,0.01
-"Arizona","United States",2020-02-24,0.02
-"California","United States",2020-02-24,0.03
-"Colorado","United States",2020-02-24,-0.02
-"Connecticut","United States",2020-02-24,-0.02
-"District of Columbia","United States",2020-02-24,0.11
-"Florida","United States",2020-02-24,0.02
-"Georgia","United States",2020-02-24,-0.09
-"Hawaii","United States",2020-02-24,0.02
-"Illinois","United States",2020-02-24,-0.05
-"Indiana","United States",2020-02-24,0.06
-"Kansas","United States",2020-02-24,-0.12
-"Kentucky","United States",2020-02-24,0.02
-"Louisiana","United States",2020-02-24,0.8
-"Maryland","United States",2020-02-24,0.08
-"Massachusetts","United States",2020-02-24,0.04
-"Michigan","United States",2020-02-24,0.01
-"Minnesota","United States",2020-02-24,0.02
-"Missouri","United States",2020-02-24,-0.07
-"Nebraska","United States",2020-02-24,0.04
-"Nevada","United States",2020-02-24,0.01
-"New Jersey","United States",2020-02-24,0.06
-"New Mexico","United States",2020-02-24,-0.03
-"New York","United States",2020-02-24,0.06
-"North Carolina","United States",2020-02-24,-0.09
-"Ohio","United States",2020-02-24,-0.08
-"Oklahoma","United States",2020-02-24,-0.05
-"Oregon","United States",2020-02-24,0.12
-"Pennsylvania","United States",2020-02-24,0
-"Rhode Island","United States",2020-02-24,0.14
-"South Carolina","United States",2020-02-24,0.03
-"Tennessee","United States",2020-02-24,-0.09
-"Texas","United States",2020-02-24,0
-"Utah","United States",2020-02-24,0.04
-"Virginia","United States",2020-02-24,0.02
-"Washington","United States",2020-02-24,-0.01
-"Wisconsin","United States",2020-02-24,0
-"New South Wales","Australia",2020-02-25,0.03
-"Queensland","Australia",2020-02-25,0.07
-"Victoria","Australia",2020-02-25,-0.06
-"Alberta","Canada",2020-02-25,0.03
-"British Columbia","Canada",2020-02-25,-0.05
-"Ontario","Canada",2020-02-25,-0.06
-"Quebec","Canada",2020-02-25,0.2
-"Baja California Sur","Mexico",2020-02-25,0.06
-"Jalisco","Mexico",2020-02-25,-0.04
-"Mexico City","Mexico",2020-02-25,-0.02
-"Nuevo Leon","Mexico",2020-02-25,-0.12
-"Quintana Roo","Mexico",2020-02-25,0.02
-"Alabama","United States",2020-02-25,0
-"Arizona","United States",2020-02-25,0.05
-"California","United States",2020-02-25,0.06
-"Colorado","United States",2020-02-25,-0.04
-"Connecticut","United States",2020-02-25,0.06
-"District of Columbia","United States",2020-02-25,0.08
-"Florida","United States",2020-02-25,0.05
-"Georgia","United States",2020-02-25,0.02
-"Hawaii","United States",2020-02-25,-0.01
-"Illinois","United States",2020-02-25,-0.14
-"Indiana","United States",2020-02-25,0.03
-"Kansas","United States",2020-02-25,-0.03
-"Kentucky","United States",2020-02-25,-0.07
-"Louisiana","United States",2020-02-25,0.78
-"Maryland","United States",2020-02-25,-0.03
-"Massachusetts","United States",2020-02-25,0.01
-"Michigan","United States",2020-02-25,-0.08
-"Minnesota","United States",2020-02-25,0.19
-"Missouri","United States",2020-02-25,-0.02
-"Nebraska","United States",2020-02-25,0.03
-"Nevada","United States",2020-02-25,-0.01
-"New Jersey","United States",2020-02-25,-0.07
-"New Mexico","United States",2020-02-25,-0.04
-"New York","United States",2020-02-25,0.01
-"North Carolina","United States",2020-02-25,0.01
-"Ohio","United States",2020-02-25,-0.06
-"Oklahoma","United States",2020-02-25,0.03
-"Oregon","United States",2020-02-25,-0.01
-"Pennsylvania","United States",2020-02-25,-0.05
-"Rhode Island","United States",2020-02-25,-0.13
-"South Carolina","United States",2020-02-25,0.02
-"Tennessee","United States",2020-02-25,-0.07
-"Texas","United States",2020-02-25,0.09
-"Utah","United States",2020-02-25,0.13
-"Virginia","United States",2020-02-25,0.02
-"Washington","United States",2020-02-25,-0.02
-"Wisconsin","United States",2020-02-25,0.09
-"New South Wales","Australia",2020-02-26,-0.01
-"Queensland","Australia",2020-02-26,0.03
-"Victoria","Australia",2020-02-26,-0.08
-"Alberta","Canada",2020-02-26,-0.01
-"British Columbia","Canada",2020-02-26,0
-"Ontario","Canada",2020-02-26,0.05
-"Quebec","Canada",2020-02-26,-0.01
-"Baja California Sur","Mexico",2020-02-26,0.09
-"Jalisco","Mexico",2020-02-26,-0.13
-"Mexico City","Mexico",2020-02-26,-0.1
-"Nuevo Leon","Mexico",2020-02-26,-0.1
-"Quintana Roo","Mexico",2020-02-26,-0.05
-"Alabama","United States",2020-02-26,-0.08
-"Arizona","United States",2020-02-26,0.01
-"California","United States",2020-02-26,0.04
-"Colorado","United States",2020-02-26,-0.01
-"Connecticut","United States",2020-02-26,0.09
-"District of Columbia","United States",2020-02-26,0.08
-"Florida","United States",2020-02-26,0.03
-"Georgia","United States",2020-02-26,-0.04
-"Hawaii","United States",2020-02-26,0.09
-"Illinois","United States",2020-02-26,-0.14
-"Indiana","United States",2020-02-26,-0.05
-"Kansas","United States",2020-02-26,0.05
-"Kentucky","United States",2020-02-26,-0.14
-"Louisiana","United States",2020-02-26,0.04
-"Maryland","United States",2020-02-26,-0.08
-"Massachusetts","United States",2020-02-26,0.01
-"Michigan","United States",2020-02-26,-0.27
-"Minnesota","United States",2020-02-26,-0.01
-"Missouri","United States",2020-02-26,-0.11
-"Nebraska","United States",2020-02-26,-0.16
-"Nevada","United States",2020-02-26,-0.14
-"New Jersey","United States",2020-02-26,-0.09
-"New Mexico","United States",2020-02-26,0.17
-"New York","United States",2020-02-26,-0.01
-"North Carolina","United States",2020-02-26,0.05
-"Ohio","United States",2020-02-26,-0.22
-"Oklahoma","United States",2020-02-26,0.4
-"Oregon","United States",2020-02-26,0.15
-"Pennsylvania","United States",2020-02-26,-0.03
-"Rhode Island","United States",2020-02-26,-0.13
-"South Carolina","United States",2020-02-26,0.06
-"Tennessee","United States",2020-02-26,-0.11
-"Texas","United States",2020-02-26,0
-"Utah","United States",2020-02-26,0.15
-"Virginia","United States",2020-02-26,-0.05
-"Washington","United States",2020-02-26,0.05
-"Wisconsin","United States",2020-02-26,-0.04
-"New South Wales","Australia",2020-02-27,-0.11
-"Queensland","Australia",2020-02-27,0.07
-"Victoria","Australia",2020-02-27,-0.12
-"Alberta","Canada",2020-02-27,-0.04
-"British Columbia","Canada",2020-02-27,-0.04
-"Ontario","Canada",2020-02-27,-0.21
-"Quebec","Canada",2020-02-27,-0.11
-"Baja California Sur","Mexico",2020-02-27,0.1
-"Jalisco","Mexico",2020-02-27,-0.16
-"Mexico City","Mexico",2020-02-27,-0.08
-"Nuevo Leon","Mexico",2020-02-27,0.01
-"Quintana Roo","Mexico",2020-02-27,0.03
-"Alabama","United States",2020-02-27,-0.03
-"Arizona","United States",2020-02-27,0.03
-"California","United States",2020-02-27,0.03
-"Colorado","United States",2020-02-27,-0.02
-"Connecticut","United States",2020-02-27,-0.08
-"District of Columbia","United States",2020-02-27,0.01
-"Florida","United States",2020-02-27,0.04
-"Georgia","United States",2020-02-27,-0.04
-"Hawaii","United States",2020-02-27,0.06
-"Illinois","United States",2020-02-27,-0.09
-"Indiana","United States",2020-02-27,-0.08
-"Kansas","United States",2020-02-27,-0.2
-"Kentucky","United States",2020-02-27,-0.08
-"Louisiana","United States",2020-02-27,-0.15
-"Maryland","United States",2020-02-27,-0.01
-"Massachusetts","United States",2020-02-27,0.05
-"Michigan","United States",2020-02-27,-0.19
-"Minnesota","United States",2020-02-27,0.07
-"Missouri","United States",2020-02-27,-0.08
-"Nebraska","United States",2020-02-27,-0.06
-"Nevada","United States",2020-02-27,-0.07
-"New Jersey","United States",2020-02-27,-0.08
-"New Mexico","United States",2020-02-27,0.03
-"New York","United States",2020-02-27,-0.05
-"North Carolina","United States",2020-02-27,-0.01
-"Ohio","United States",2020-02-27,-0.13
-"Oklahoma","United States",2020-02-27,0.01
-"Oregon","United States",2020-02-27,0.03
-"Pennsylvania","United States",2020-02-27,-0.03
-"Rhode Island","United States",2020-02-27,-0.09
-"South Carolina","United States",2020-02-27,0.08
-"Tennessee","United States",2020-02-27,-0.01
-"Texas","United States",2020-02-27,0
-"Utah","United States",2020-02-27,0.01
-"Virginia","United States",2020-02-27,-0.03
-"Washington","United States",2020-02-27,0
-"Wisconsin","United States",2020-02-27,-0.01
-"New South Wales","Australia",2020-02-28,0.04
-"Queensland","Australia",2020-02-28,0.06
-"Victoria","Australia",2020-02-28,-0.07
-"Alberta","Canada",2020-02-28,0.03
-"British Columbia","Canada",2020-02-28,-0.02
-"Ontario","Canada",2020-02-28,-0.15
-"Quebec","Canada",2020-02-28,-0.1
-"Baja California Sur","Mexico",2020-02-28,-0.18
-"Jalisco","Mexico",2020-02-28,-0.15
-"Mexico City","Mexico",2020-02-28,-0.08
-"Nuevo Leon","Mexico",2020-02-28,-0.03
-"Quintana Roo","Mexico",2020-02-28,-0.03
-"Alabama","United States",2020-02-28,-0.03
-"Arizona","United States",2020-02-28,0.02
-"California","United States",2020-02-28,0.05
-"Colorado","United States",2020-02-28,0
-"Connecticut","United States",2020-02-28,-0.01
-"District of Columbia","United States",2020-02-28,0.03
-"Florida","United States",2020-02-28,0.02
-"Georgia","United States",2020-02-28,0.02
-"Hawaii","United States",2020-02-28,0.04
-"Illinois","United States",2020-02-28,-0.06
-"Indiana","United States",2020-02-28,-0.01
-"Kansas","United States",2020-02-28,-0.14
-"Kentucky","United States",2020-02-28,0
-"Louisiana","United States",2020-02-28,-0.1
-"Maryland","United States",2020-02-28,0.1
-"Massachusetts","United States",2020-02-28,-0.02
-"Michigan","United States",2020-02-28,-0.12
-"Minnesota","United States",2020-02-28,0.33
-"Missouri","United States",2020-02-28,-0.13
-"Nebraska","United States",2020-02-28,-0.15
-"Nevada","United States",2020-02-28,-0.06
-"New Jersey","United States",2020-02-28,0.01
-"New Mexico","United States",2020-02-28,0.04
-"New York","United States",2020-02-28,-0.02
-"North Carolina","United States",2020-02-28,0.03
-"Ohio","United States",2020-02-28,-0.15
-"Oklahoma","United States",2020-02-28,0.02
-"Oregon","United States",2020-02-28,-0.03
-"Pennsylvania","United States",2020-02-28,0.01
-"Rhode Island","United States",2020-02-28,-0.02
-"South Carolina","United States",2020-02-28,0.11
-"Tennessee","United States",2020-02-28,0
-"Texas","United States",2020-02-28,0.04
-"Utah","United States",2020-02-28,0.01
-"Virginia","United States",2020-02-28,0.08
-"Washington","United States",2020-02-28,0.01
-"Wisconsin","United States",2020-02-28,0.09
-"New South Wales","Australia",2020-02-29,0.08
-"Queensland","Australia",2020-02-29,-0.08
-"Victoria","Australia",2020-02-29,-0.04
-"Alberta","Canada",2020-02-29,0.02
-"British Columbia","Canada",2020-02-29,-0.02
-"Ontario","Canada",2020-02-29,-0.08
-"Quebec","Canada",2020-02-29,0.01
-"Baja California Sur","Mexico",2020-02-29,-0.13
-"Jalisco","Mexico",2020-02-29,-0.12
-"Mexico City","Mexico",2020-02-29,-0.09
-"Nuevo Leon","Mexico",2020-02-29,0.15
-"Quintana Roo","Mexico",2020-02-29,0.06
-"Alabama","United States",2020-02-29,-0.11
-"Arizona","United States",2020-02-29,0.01
-"California","United States",2020-02-29,0.09
-"Colorado","United States",2020-02-29,0.22
-"Connecticut","United States",2020-02-29,0.04
-"District of Columbia","United States",2020-02-29,0.02
-"Florida","United States",2020-02-29,0
-"Georgia","United States",2020-02-29,-0.03
-"Hawaii","United States",2020-02-29,-0.02
-"Illinois","United States",2020-02-29,0
-"Indiana","United States",2020-02-29,0.04
-"Kansas","United States",2020-02-29,0.02
-"Kentucky","United States",2020-02-29,0.17
-"Louisiana","United States",2020-02-29,-0.01
-"Maryland","United States",2020-02-29,0
-"Massachusetts","United States",2020-02-29,0.26
-"Michigan","United States",2020-02-29,-0.06
-"Minnesota","United States",2020-02-29,0.01
-"Missouri","United States",2020-02-29,0.02
-"Nebraska","United States",2020-02-29,0.05
-"Nevada","United States",2020-02-29,-0.04
-"New Jersey","United States",2020-02-29,0.03
-"New Mexico","United States",2020-02-29,0.04
-"New York","United States",2020-02-29,-0.01
-"North Carolina","United States",2020-02-29,-0.03
-"Ohio","United States",2020-02-29,-0.12
-"Oklahoma","United States",2020-02-29,0.08
-"Oregon","United States",2020-02-29,0.03
-"Pennsylvania","United States",2020-02-29,0.01
-"Rhode Island","United States",2020-02-29,0.21
-"South Carolina","United States",2020-02-29,0.05
-"Tennessee","United States",2020-02-29,-0.02
-"Texas","United States",2020-02-29,0.06
-"Utah","United States",2020-02-29,-0.01
-"Virginia","United States",2020-02-29,-0.03
-"Washington","United States",2020-02-29,-0.04
-"Wisconsin","United States",2020-02-29,0.03
-"New South Wales","Australia",2020-03-01,0.05
-"Queensland","Australia",2020-03-01,0.1
-"Victoria","Australia",2020-03-01,-0.01
-"Alberta","Canada",2020-03-01,-0.04
-"British Columbia","Canada",2020-03-01,-0.08
-"Ontario","Canada",2020-03-01,-0.09
-"Quebec","Canada",2020-03-01,0.01
-"Baja California Sur","Mexico",2020-03-01,-0.15
-"Jalisco","Mexico",2020-03-01,-0.06
-"Mexico City","Mexico",2020-03-01,-0.09
-"Nuevo Leon","Mexico",2020-03-01,0.07
-"Quintana Roo","Mexico",2020-03-01,-0.08
-"Alabama","United States",2020-03-01,0.02
-"Arizona","United States",2020-03-01,-0.02
-"California","United States",2020-03-01,-0.03
-"Colorado","United States",2020-03-01,0.26
-"Connecticut","United States",2020-03-01,0.13
-"District of Columbia","United States",2020-03-01,0.05
-"Florida","United States",2020-03-01,-0.05
-"Georgia","United States",2020-03-01,0.08
-"Hawaii","United States",2020-03-01,-0.02
-"Illinois","United States",2020-03-01,0.02
-"Indiana","United States",2020-03-01,0.18
-"Kansas","United States",2020-03-01,0.69
-"Kentucky","United States",2020-03-01,0.19
-"Louisiana","United States",2020-03-01,-0.19
-"Maryland","United States",2020-03-01,0.25
-"Massachusetts","United States",2020-03-01,-0.01
-"Michigan","United States",2020-03-01,-0.04
-"Minnesota","United States",2020-03-01,-0.01
-"Missouri","United States",2020-03-01,0.72
-"Nebraska","United States",2020-03-01,-0.02
-"Nevada","United States",2020-03-01,-0.15
-"New Jersey","United States",2020-03-01,0.1
-"New Mexico","United States",2020-03-01,-0.02
-"New York","United States",2020-03-01,0
-"North Carolina","United States",2020-03-01,0.02
-"Ohio","United States",2020-03-01,0.06
-"Oklahoma","United States",2020-03-01,0.4
-"Oregon","United States",2020-03-01,0.06
-"Pennsylvania","United States",2020-03-01,0.3
-"Rhode Island","United States",2020-03-01,-0.11
-"South Carolina","United States",2020-03-01,0.08
-"Tennessee","United States",2020-03-01,-0.06
-"Texas","United States",2020-03-01,0.07
-"Utah","United States",2020-03-01,-0.12
-"Virginia","United States",2020-03-01,0.14
-"Washington","United States",2020-03-01,-0.12
-"Wisconsin","United States",2020-03-01,0.05
-"New South Wales","Australia",2020-03-02,-0.31
-"Queensland","Australia",2020-03-02,-0.01
-"Victoria","Australia",2020-03-02,-0.13
-"Alberta","Canada",2020-03-02,-0.1
-"British Columbia","Canada",2020-03-02,-0.11
-"Ontario","Canada",2020-03-02,-0.09
-"Quebec","Canada",2020-03-02,-0.26
-"Baja California Sur","Mexico",2020-03-02,0.03
-"Jalisco","Mexico",2020-03-02,-0.18
-"Mexico City","Mexico",2020-03-02,-0.09
-"Nuevo Leon","Mexico",2020-03-02,0.14
-"Quintana Roo","Mexico",2020-03-02,-0.14
-"Alabama","United States",2020-03-02,-0.32
-"Arizona","United States",2020-03-02,-0.07
-"California","United States",2020-03-02,-0.06
-"Colorado","United States",2020-03-02,-0.01
-"Connecticut","United States",2020-03-02,0.13
-"District of Columbia","United States",2020-03-02,0
-"Florida","United States",2020-03-02,-0.1
-"Georgia","United States",2020-03-02,-0.12
-"Hawaii","United States",2020-03-02,-0.02
-"Illinois","United States",2020-03-02,-0.13
-"Indiana","United States",2020-03-02,0.01
-"Kansas","United States",2020-03-02,-0.13
-"Kentucky","United States",2020-03-02,-0.05
-"Louisiana","United States",2020-03-02,-0.42
-"Maryland","United States",2020-03-02,-0.05
-"Massachusetts","United States",2020-03-02,0.13
-"Michigan","United States",2020-03-02,0.04
-"Minnesota","United States",2020-03-02,-0.09
-"Missouri","United States",2020-03-02,0.08
-"Nebraska","United States",2020-03-02,0.16
-"Nevada","United States",2020-03-02,-0.28
-"New Jersey","United States",2020-03-02,-0.05
-"New Mexico","United States",2020-03-02,-0.04
-"New York","United States",2020-03-02,-0.07
-"North Carolina","United States",2020-03-02,-0.07
-"Ohio","United States",2020-03-02,-0.07
-"Oklahoma","United States",2020-03-02,-0.12
-"Oregon","United States",2020-03-02,0.08
-"Pennsylvania","United States",2020-03-02,0.03
-"Rhode Island","United States",2020-03-02,0.18
-"South Carolina","United States",2020-03-02,0.01
-"Tennessee","United States",2020-03-02,-0.06
-"Texas","United States",2020-03-02,-0.02
-"Utah","United States",2020-03-02,-0.13
-"Virginia","United States",2020-03-02,-0.04
-"Washington","United States",2020-03-02,-0.25
-"Wisconsin","United States",2020-03-02,0.08
-"New South Wales","Australia",2020-03-03,-0.11
-"Queensland","Australia",2020-03-03,-0.01
-"Victoria","Australia",2020-03-03,-0.04
-"Alberta","Canada",2020-03-03,-0.04
-"British Columbia","Canada",2020-03-03,-0.07
-"Ontario","Canada",2020-03-03,-0.06
-"Quebec","Canada",2020-03-03,-0.16
-"Baja California Sur","Mexico",2020-03-03,-0.17
-"Jalisco","Mexico",2020-03-03,-0.15
-"Mexico City","Mexico",2020-03-03,-0.09
-"Nuevo Leon","Mexico",2020-03-03,0.08
-"Quintana Roo","Mexico",2020-03-03,-0.16
-"Alabama","United States",2020-03-03,-0.29
-"Arizona","United States",2020-03-03,-0.1
-"California","United States",2020-03-03,-0.04
-"Colorado","United States",2020-03-03,-0.06
-"Connecticut","United States",2020-03-03,-0.09
-"District of Columbia","United States",2020-03-03,-0.09
-"Florida","United States",2020-03-03,-0.1
-"Georgia","United States",2020-03-03,-0.21
-"Hawaii","United States",2020-03-03,-0.05
-"Illinois","United States",2020-03-03,-0.12
-"Indiana","United States",2020-03-03,-0.03
-"Kansas","United States",2020-03-03,-0.14
-"Kentucky","United States",2020-03-03,0
-"Louisiana","United States",2020-03-03,-0.53
-"Maryland","United States",2020-03-03,-0.04
-"Massachusetts","United States",2020-03-03,-0.04
-"Michigan","United States",2020-03-03,-0.13
-"Minnesota","United States",2020-03-03,-0.02
-"Missouri","United States",2020-03-03,0
-"Nebraska","United States",2020-03-03,-0.14
-"Nevada","United States",2020-03-03,-0.27
-"New Jersey","United States",2020-03-03,-0.12
-"New Mexico","United States",2020-03-03,-0.07
-"New York","United States",2020-03-03,-0.11
-"North Carolina","United States",2020-03-03,-0.09
-"Ohio","United States",2020-03-03,-0.1
-"Oklahoma","United States",2020-03-03,0.05
-"Oregon","United States",2020-03-03,-0.08
-"Pennsylvania","United States",2020-03-03,-0.06
-"Rhode Island","United States",2020-03-03,-0.01
-"South Carolina","United States",2020-03-03,-0.08
-"Tennessee","United States",2020-03-03,-0.16
-"Texas","United States",2020-03-03,-0.09
-"Utah","United States",2020-03-03,-0.06
-"Virginia","United States",2020-03-03,-0.01
-"Washington","United States",2020-03-03,-0.21
-"Wisconsin","United States",2020-03-03,0.09
-"New South Wales","Australia",2020-03-04,-0.16
-"Queensland","Australia",2020-03-04,-0.02
-"Victoria","Australia",2020-03-04,-0.17
-"Alberta","Canada",2020-03-04,-0.01
-"British Columbia","Canada",2020-03-04,-0.04
-"Ontario","Canada",2020-03-04,-0.01
-"Quebec","Canada",2020-03-04,0.05
-"Baja California Sur","Mexico",2020-03-04,0
-"Jalisco","Mexico",2020-03-04,-0.23
-"Mexico City","Mexico",2020-03-04,-0.04
-"Nuevo Leon","Mexico",2020-03-04,0.03
-"Quintana Roo","Mexico",2020-03-04,-0.17
-"Alabama","United States",2020-03-04,-0.23
-"Arizona","United States",2020-03-04,0
-"California","United States",2020-03-04,-0.03
-"Colorado","United States",2020-03-04,-0.06
-"Connecticut","United States",2020-03-04,-0.06
-"District of Columbia","United States",2020-03-04,0.07
-"Florida","United States",2020-03-04,-0.08
-"Georgia","United States",2020-03-04,-0.17
-"Hawaii","United States",2020-03-04,-0.04
-"Illinois","United States",2020-03-04,-0.03
-"Indiana","United States",2020-03-04,0.03
-"Kansas","United States",2020-03-04,-0.08
-"Kentucky","United States",2020-03-04,-0.06
-"Louisiana","United States",2020-03-04,-0.25
-"Maryland","United States",2020-03-04,0.11
-"Massachusetts","United States",2020-03-04,-0.05
-"Michigan","United States",2020-03-04,-0.01
-"Minnesota","United States",2020-03-04,-0.03
-"Missouri","United States",2020-03-04,-0.03
-"Nebraska","United States",2020-03-04,0.01
-"Nevada","United States",2020-03-04,-0.11
-"New Jersey","United States",2020-03-04,-0.02
-"New Mexico","United States",2020-03-04,-0.12
-"New York","United States",2020-03-04,-0.09
-"North Carolina","United States",2020-03-04,-0.04
-"Ohio","United States",2020-03-04,-0.06
-"Oklahoma","United States",2020-03-04,0
-"Oregon","United States",2020-03-04,-0.03
-"Pennsylvania","United States",2020-03-04,0
-"Rhode Island","United States",2020-03-04,0.07
-"South Carolina","United States",2020-03-04,-0.07
-"Tennessee","United States",2020-03-04,-0.01
-"Texas","United States",2020-03-04,-0.08
-"Utah","United States",2020-03-04,-0.05
-"Virginia","United States",2020-03-04,-0.01
-"Washington","United States",2020-03-04,-0.17
-"Wisconsin","United States",2020-03-04,0.12
-"New South Wales","Australia",2020-03-05,-0.09
-"Queensland","Australia",2020-03-05,-0.05
-"Victoria","Australia",2020-03-05,-0.12
-"Alberta","Canada",2020-03-05,-0.08
-"British Columbia","Canada",2020-03-05,-0.06
-"Ontario","Canada",2020-03-05,-0.02
-"Quebec","Canada",2020-03-05,-0.03
-"Baja California Sur","Mexico",2020-03-05,0
-"Jalisco","Mexico",2020-03-05,-0.13
-"Mexico City","Mexico",2020-03-05,-0.09
-"Nuevo Leon","Mexico",2020-03-05,0
-"Quintana Roo","Mexico",2020-03-05,0.02
-"Alabama","United States",2020-03-05,-0.15
-"Arizona","United States",2020-03-05,-0.04
-"California","United States",2020-03-05,-0.1
-"Colorado","United States",2020-03-05,-0.04
-"Connecticut","United States",2020-03-05,-0.07
-"District of Columbia","United States",2020-03-05,-0.05
-"Florida","United States",2020-03-05,-0.07
-"Georgia","United States",2020-03-05,-0.12
-"Hawaii","United States",2020-03-05,-0.05
-"Illinois","United States",2020-03-05,-0.05
-"Indiana","United States",2020-03-05,0.05
-"Kansas","United States",2020-03-05,-0.1
-"Kentucky","United States",2020-03-05,0.04
-"Louisiana","United States",2020-03-05,0.06
-"Maryland","United States",2020-03-05,-0.05
-"Massachusetts","United States",2020-03-05,0.04
-"Michigan","United States",2020-03-05,-0.04
-"Minnesota","United States",2020-03-05,-0.17
-"Missouri","United States",2020-03-05,0.04
-"Nebraska","United States",2020-03-05,-0.01
-"Nevada","United States",2020-03-05,-0.1
-"New Jersey","United States",2020-03-05,-0.04
-"New Mexico","United States",2020-03-05,-0.19
-"New York","United States",2020-03-05,-0.08
-"North Carolina","United States",2020-03-05,-0.07
-"Ohio","United States",2020-03-05,-0.08
-"Oklahoma","United States",2020-03-05,0.03
-"Oregon","United States",2020-03-05,-0.03
-"Pennsylvania","United States",2020-03-05,0.02
-"Rhode Island","United States",2020-03-05,-0.12
-"South Carolina","United States",2020-03-05,-0.07
-"Tennessee","United States",2020-03-05,-0.04
-"Texas","United States",2020-03-05,0.01
-"Utah","United States",2020-03-05,-0.03
-"Virginia","United States",2020-03-05,-0.02
-"Washington","United States",2020-03-05,-0.22
-"Wisconsin","United States",2020-03-05,-0.07
-"New South Wales","Australia",2020-03-06,-0.02
-"Queensland","Australia",2020-03-06,-0.03
-"Victoria","Australia",2020-03-06,-0.13
-"Alberta","Canada",2020-03-06,0.01
-"British Columbia","Canada",2020-03-06,-0.06
-"Ontario","Canada",2020-03-06,-0.14
-"Quebec","Canada",2020-03-06,-0.08
-"Baja California Sur","Mexico",2020-03-06,-0.08
-"Jalisco","Mexico",2020-03-06,-0.12
-"Mexico City","Mexico",2020-03-06,-0.08
-"Nuevo Leon","Mexico",2020-03-06,-0.02
-"Quintana Roo","Mexico",2020-03-06,-0.04
-"Alabama","United States",2020-03-06,-0.03
-"Arizona","United States",2020-03-06,-0.03
-"California","United States",2020-03-06,-0.08
-"Colorado","United States",2020-03-06,-0.08
-"Connecticut","United States",2020-03-06,-0.08
-"District of Columbia","United States",2020-03-06,-0.06
-"Florida","United States",2020-03-06,-0.05
-"Georgia","United States",2020-03-06,-0.03
-"Hawaii","United States",2020-03-06,-0.08
-"Illinois","United States",2020-03-06,-0.07
-"Indiana","United States",2020-03-06,0.01
-"Kansas","United States",2020-03-06,-0.1
-"Kentucky","United States",2020-03-06,-0.03
-"Louisiana","United States",2020-03-06,0.05
-"Maryland","United States",2020-03-06,0.02
-"Massachusetts","United States",2020-03-06,-0.06
-"Michigan","United States",2020-03-06,-0.09
-"Minnesota","United States",2020-03-06,-0.12
-"Missouri","United States",2020-03-06,0
-"Nebraska","United States",2020-03-06,-0.18
-"Nevada","United States",2020-03-06,-0.06
-"New Jersey","United States",2020-03-06,-0.16
-"New Mexico","United States",2020-03-06,-0.02
-"New York","United States",2020-03-06,-0.14
-"North Carolina","United States",2020-03-06,-0.01
-"Ohio","United States",2020-03-06,-0.13
-"Oklahoma","United States",2020-03-06,0.02
-"Oregon","United States",2020-03-06,-0.04
-"Pennsylvania","United States",2020-03-06,-0.09
-"Rhode Island","United States",2020-03-06,-0.02
-"South Carolina","United States",2020-03-06,0.03
-"Tennessee","United States",2020-03-06,-0.01
-"Texas","United States",2020-03-06,0.02
-"Utah","United States",2020-03-06,0.08
-"Virginia","United States",2020-03-06,0.05
-"Washington","United States",2020-03-06,-0.24
-"Wisconsin","United States",2020-03-06,-0.07
-"New South Wales","Australia",2020-03-07,0.05
-"Queensland","Australia",2020-03-07,-0.07
-"Victoria","Australia",2020-03-07,-0.1
-"Alberta","Canada",2020-03-07,-0.16
-"British Columbia","Canada",2020-03-07,-0.11
-"Ontario","Canada",2020-03-07,-0.07
-"Quebec","Canada",2020-03-07,0.06
-"Baja California Sur","Mexico",2020-03-07,-0.08
-"Jalisco","Mexico",2020-03-07,-0.02
-"Mexico City","Mexico",2020-03-07,-0.01
-"Nuevo Leon","Mexico",2020-03-07,0.14
-"Quintana Roo","Mexico",2020-03-07,-0.08
-"Alabama","United States",2020-03-07,0.11
-"Arizona","United States",2020-03-07,-0.02
-"California","United States",2020-03-07,-0.05
-"Colorado","United States",2020-03-07,-0.1
-"Connecticut","United States",2020-03-07,-0.08
-"District of Columbia","United States",2020-03-07,0
-"Florida","United States",2020-03-07,-0.02
-"Georgia","United States",2020-03-07,-0.02
-"Hawaii","United States",2020-03-07,-0.06
-"Illinois","United States",2020-03-07,0.04
-"Indiana","United States",2020-03-07,0.04
-"Kansas","United States",2020-03-07,-0.08
-"Kentucky","United States",2020-03-07,0.01
-"Louisiana","United States",2020-03-07,0.05
-"Maryland","United States",2020-03-07,-0.02
-"Massachusetts","United States",2020-03-07,-0.05
-"Michigan","United States",2020-03-07,0.06
-"Minnesota","United States",2020-03-07,0.59
-"Missouri","United States",2020-03-07,-0.05
-"Nebraska","United States",2020-03-07,-0.1
-"Nevada","United States",2020-03-07,-0.06
-"New Jersey","United States",2020-03-07,-0.06
-"New Mexico","United States",2020-03-07,-0.1
-"New York","United States",2020-03-07,-0.1
-"North Carolina","United States",2020-03-07,-0.02
-"Ohio","United States",2020-03-07,-0.06
-"Oklahoma","United States",2020-03-07,0
-"Oregon","United States",2020-03-07,-0.07
-"Pennsylvania","United States",2020-03-07,-0.03
-"Rhode Island","United States",2020-03-07,-0.07
-"South Carolina","United States",2020-03-07,0.03
-"Tennessee","United States",2020-03-07,0.02
-"Texas","United States",2020-03-07,-0.03
-"Utah","United States",2020-03-07,0
-"Virginia","United States",2020-03-07,0.02
-"Washington","United States",2020-03-07,-0.27
-"Wisconsin","United States",2020-03-07,-0.06
-"New South Wales","Australia",2020-03-08,0
-"Queensland","Australia",2020-03-08,-0.03
-"Victoria","Australia",2020-03-08,-0.08
-"Alberta","Canada",2020-03-08,-0.07
-"British Columbia","Canada",2020-03-08,-0.06
-"Ontario","Canada",2020-03-08,0
-"Quebec","Canada",2020-03-08,0.34
-"Baja California Sur","Mexico",2020-03-08,-0.11
-"Jalisco","Mexico",2020-03-08,-0.04
-"Mexico City","Mexico",2020-03-08,-0.1
-"Nuevo Leon","Mexico",2020-03-08,-0.04
-"Quintana Roo","Mexico",2020-03-08,-0.05
-"Alabama","United States",2020-03-08,-0.1
-"Arizona","United States",2020-03-08,-0.03
-"California","United States",2020-03-08,-0.05
-"Colorado","United States",2020-03-08,-0.06
-"Connecticut","United States",2020-03-08,0
-"District of Columbia","United States",2020-03-08,0
-"Florida","United States",2020-03-08,-0.05
-"Georgia","United States",2020-03-08,0.07
-"Hawaii","United States",2020-03-08,-0.09
-"Illinois","United States",2020-03-08,0.04
-"Indiana","United States",2020-03-08,0.04
-"Kansas","United States",2020-03-08,-0.09
-"Kentucky","United States",2020-03-08,0.03
-"Louisiana","United States",2020-03-08,-0.02
-"Maryland","United States",2020-03-08,-0.01
-"Massachusetts","United States",2020-03-08,0.13
-"Michigan","United States",2020-03-08,0.01
-"Minnesota","United States",2020-03-08,0.13
-"Missouri","United States",2020-03-08,-0.1
-"Nebraska","United States",2020-03-08,-0.04
-"Nevada","United States",2020-03-08,-0.07
-"New Jersey","United States",2020-03-08,0.1
-"New Mexico","United States",2020-03-08,-0.21
-"New York","United States",2020-03-08,-0.02
-"North Carolina","United States",2020-03-08,-0.07
-"Ohio","United States",2020-03-08,-0.06
-"Oklahoma","United States",2020-03-08,-0.1
-"Oregon","United States",2020-03-08,0
-"Pennsylvania","United States",2020-03-08,0.02
-"Rhode Island","United States",2020-03-08,0.26
-"South Carolina","United States",2020-03-08,-0.05
-"Tennessee","United States",2020-03-08,-0.07
-"Texas","United States",2020-03-08,-0.05
-"Utah","United States",2020-03-08,-0.13
-"Virginia","United States",2020-03-08,0.03
-"Washington","United States",2020-03-08,-0.22
-"Wisconsin","United States",2020-03-08,0.15
-"New South Wales","Australia",2020-03-09,-0.16
-"Queensland","Australia",2020-03-09,-0.06
-"Victoria","Australia",2020-03-09,-0.11
-"Alberta","Canada",2020-03-09,-0.13
-"British Columbia","Canada",2020-03-09,-0.03
-"Ontario","Canada",2020-03-09,-0.2
-"Quebec","Canada",2020-03-09,-0.04
-"Baja California Sur","Mexico",2020-03-09,-0.17
-"Jalisco","Mexico",2020-03-09,-0.23
-"Mexico City","Mexico",2020-03-09,-0.29
-"Nuevo Leon","Mexico",2020-03-09,-0.16
-"Quintana Roo","Mexico",2020-03-09,-0.11
-"Alabama","United States",2020-03-09,-0.11
-"Arizona","United States",2020-03-09,-0.07
-"California","United States",2020-03-09,-0.18
-"Colorado","United States",2020-03-09,-0.13
-"Connecticut","United States",2020-03-09,-0.12
-"District of Columbia","United States",2020-03-09,-0.1
-"Florida","United States",2020-03-09,-0.18
-"Georgia","United States",2020-03-09,-0.04
-"Hawaii","United States",2020-03-09,-0.08
-"Illinois","United States",2020-03-09,-0.21
-"Indiana","United States",2020-03-09,-0.17
-"Kansas","United States",2020-03-09,-0.21
-"Kentucky","United States",2020-03-09,-0.17
-"Louisiana","United States",2020-03-09,-0.08
-"Maryland","United States",2020-03-09,-0.06
-"Massachusetts","United States",2020-03-09,-0.13
-"Michigan","United States",2020-03-09,-0.14
-"Minnesota","United States",2020-03-09,-0.17
-"Missouri","United States",2020-03-09,-0.13
-"Nebraska","United States",2020-03-09,-0.34
-"Nevada","United States",2020-03-09,-0.11
-"New Jersey","United States",2020-03-09,0.12
-"New Mexico","United States",2020-03-09,0
-"New York","United States",2020-03-09,-0.15
-"North Carolina","United States",2020-03-09,-0.04
-"Ohio","United States",2020-03-09,-0.19
-"Oklahoma","United States",2020-03-09,0
-"Oregon","United States",2020-03-09,-0.15
-"Pennsylvania","United States",2020-03-09,-0.07
-"Rhode Island","United States",2020-03-09,0.17
-"South Carolina","United States",2020-03-09,-0.07
-"Tennessee","United States",2020-03-09,-0.17
-"Texas","United States",2020-03-09,-0.21
-"Utah","United States",2020-03-09,-0.18
-"Virginia","United States",2020-03-09,-0.04
-"Washington","United States",2020-03-09,-0.3
-"Wisconsin","United States",2020-03-09,-0.1
-"New South Wales","Australia",2020-03-10,0.03
-"Queensland","Australia",2020-03-10,0
-"Victoria","Australia",2020-03-10,-0.09
-"Alberta","Canada",2020-03-10,-0.1
-"British Columbia","Canada",2020-03-10,-0.15
-"Ontario","Canada",2020-03-10,-0.23
-"Quebec","Canada",2020-03-10,-0.12
-"Baja California Sur","Mexico",2020-03-10,-0.2
-"Jalisco","Mexico",2020-03-10,-0.19
-"Mexico City","Mexico",2020-03-10,-0.17
-"Nuevo Leon","Mexico",2020-03-10,-0.04
-"Quintana Roo","Mexico",2020-03-10,-0.25
-"Alabama","United States",2020-03-10,-0.26
-"Arizona","United States",2020-03-10,-0.14
-"California","United States",2020-03-10,-0.27
-"Colorado","United States",2020-03-10,-0.17
-"Connecticut","United States",2020-03-10,-0.2
-"District of Columbia","United States",2020-03-10,-0.18
-"Florida","United States",2020-03-10,-0.18
-"Georgia","United States",2020-03-10,-0.15
-"Hawaii","United States",2020-03-10,-0.1
-"Illinois","United States",2020-03-10,-0.18
-"Indiana","United States",2020-03-10,-0.11
-"Kansas","United States",2020-03-10,-0.06
-"Kentucky","United States",2020-03-10,-0.21
-"Louisiana","United States",2020-03-10,-0.13
-"Maryland","United States",2020-03-10,-0.18
-"Massachusetts","United States",2020-03-10,-0.22
-"Michigan","United States",2020-03-10,-0.1
-"Minnesota","United States",2020-03-10,-0.12
-"Missouri","United States",2020-03-10,-0.1
-"Nebraska","United States",2020-03-10,-0.11
-"Nevada","United States",2020-03-10,-0.18
-"New Jersey","United States",2020-03-10,-0.04
-"New Mexico","United States",2020-03-10,0.07
-"New York","United States",2020-03-10,-0.27
-"North Carolina","United States",2020-03-10,-0.09
-"Ohio","United States",2020-03-10,-0.19
-"Oklahoma","United States",2020-03-10,-0.04
-"Oregon","United States",2020-03-10,-0.13
-"Pennsylvania","United States",2020-03-10,-0.18
-"Rhode Island","United States",2020-03-10,-0.16
-"South Carolina","United States",2020-03-10,-0.14
-"Tennessee","United States",2020-03-10,-0.16
-"Texas","United States",2020-03-10,-0.14
-"Utah","United States",2020-03-10,-0.19
-"Virginia","United States",2020-03-10,-0.13
-"Washington","United States",2020-03-10,-0.38
-"Wisconsin","United States",2020-03-10,0.01
-"New South Wales","Australia",2020-03-11,-0.09
-"Queensland","Australia",2020-03-11,-0.03
-"Victoria","Australia",2020-03-11,-0.14
-"Alberta","Canada",2020-03-11,-0.08
-"British Columbia","Canada",2020-03-11,-0.13
-"Ontario","Canada",2020-03-11,-0.25
-"Quebec","Canada",2020-03-11,-0.2
-"Baja California Sur","Mexico",2020-03-11,-0.17
-"Jalisco","Mexico",2020-03-11,-0.02
-"Mexico City","Mexico",2020-03-11,-0.18
-"Nuevo Leon","Mexico",2020-03-11,-0.15
-"Quintana Roo","Mexico",2020-03-11,-0.17
-"Alabama","United States",2020-03-11,-0.08
-"Arizona","United States",2020-03-11,-0.2
-"California","United States",2020-03-11,-0.23
-"Colorado","United States",2020-03-11,-0.08
-"Connecticut","United States",2020-03-11,-0.2
-"District of Columbia","United States",2020-03-11,-0.22
-"Florida","United States",2020-03-11,-0.18
-"Georgia","United States",2020-03-11,-0.17
-"Hawaii","United States",2020-03-11,-0.11
-"Illinois","United States",2020-03-11,-0.22
-"Indiana","United States",2020-03-11,-0.16
-"Kansas","United States",2020-03-11,-0.09
-"Kentucky","United States",2020-03-11,-0.2
-"Louisiana","United States",2020-03-11,-0.16
-"Maryland","United States",2020-03-11,-0.21
-"Massachusetts","United States",2020-03-11,-0.25
-"Michigan","United States",2020-03-11,-0.18
-"Minnesota","United States",2020-03-11,-0.18
-"Missouri","United States",2020-03-11,-0.12
-"Nebraska","United States",2020-03-11,-0.16
-"Nevada","United States",2020-03-11,-0.12
-"New Jersey","United States",2020-03-11,-0.14
-"New Mexico","United States",2020-03-11,0.02
-"New York","United States",2020-03-11,-0.32
-"North Carolina","United States",2020-03-11,-0.14
-"Ohio","United States",2020-03-11,-0.19
-"Oklahoma","United States",2020-03-11,-0.07
-"Oregon","United States",2020-03-11,-0.22
-"Pennsylvania","United States",2020-03-11,-0.17
-"Rhode Island","United States",2020-03-11,-0.15
-"South Carolina","United States",2020-03-11,-0.07
-"Tennessee","United States",2020-03-11,-0.22
-"Texas","United States",2020-03-11,-0.14
-"Utah","United States",2020-03-11,-0.11
-"Virginia","United States",2020-03-11,-0.23
-"Washington","United States",2020-03-11,-0.41
-"Wisconsin","United States",2020-03-11,0
-"New South Wales","Australia",2020-03-12,-0.13
-"Queensland","Australia",2020-03-12,-0.17
-"Victoria","Australia",2020-03-12,-0.08
-"Alberta","Canada",2020-03-12,-0.23
-"British Columbia","Canada",2020-03-12,-0.22
-"Ontario","Canada",2020-03-12,-0.35
-"Quebec","Canada",2020-03-12,-0.25
-"Baja California Sur","Mexico",2020-03-12,-0.12
-"Jalisco","Mexico",2020-03-12,-0.05
-"Mexico City","Mexico",2020-03-12,-0.16
-"Nuevo Leon","Mexico",2020-03-12,-0.2
-"Quintana Roo","Mexico",2020-03-12,-0.17
-"Alabama","United States",2020-03-12,-0.04
-"Arizona","United States",2020-03-12,-0.18
-"California","United States",2020-03-12,-0.38
-"Colorado","United States",2020-03-12,-0.18
-"Connecticut","United States",2020-03-12,-0.43
-"District of Columbia","United States",2020-03-12,-0.38
-"Florida","United States",2020-03-12,-0.22
-"Georgia","United States",2020-03-12,-0.24
-"Hawaii","United States",2020-03-12,-0.14
-"Illinois","United States",2020-03-12,-0.26
-"Indiana","United States",2020-03-12,-0.28
-"Kansas","United States",2020-03-12,-0.03
-"Kentucky","United States",2020-03-12,-0.21
-"Louisiana","United States",2020-03-12,-0.23
-"Maryland","United States",2020-03-12,-0.32
-"Massachusetts","United States",2020-03-12,-0.4
-"Michigan","United States",2020-03-12,-0.2
-"Minnesota","United States",2020-03-12,-0.24
-"Missouri","United States",2020-03-12,-0.27
-"Nebraska","United States",2020-03-12,-0.05
-"Nevada","United States",2020-03-12,-0.21
-"New Jersey","United States",2020-03-12,-0.24
-"New Mexico","United States",2020-03-12,-0.12
-"New York","United States",2020-03-12,-0.48
-"North Carolina","United States",2020-03-12,-0.19
-"Ohio","United States",2020-03-12,-0.29
-"Oklahoma","United States",2020-03-12,0.01
-"Oregon","United States",2020-03-12,-0.33
-"Pennsylvania","United States",2020-03-12,-0.34
-"Rhode Island","United States",2020-03-12,-0.3
-"South Carolina","United States",2020-03-12,-0.15
-"Tennessee","United States",2020-03-12,-0.29
-"Texas","United States",2020-03-12,-0.24
-"Utah","United States",2020-03-12,-0.19
-"Virginia","United States",2020-03-12,-0.34
-"Washington","United States",2020-03-12,-0.45
-"Wisconsin","United States",2020-03-12,-0.1
-"New South Wales","Australia",2020-03-13,-0.06
-"Queensland","Australia",2020-03-13,0.09
-"Victoria","Australia",2020-03-13,-0.18
-"Alberta","Canada",2020-03-13,-0.43
-"British Columbia","Canada",2020-03-13,-0.3
-"Ontario","Canada",2020-03-13,-0.45
-"Quebec","Canada",2020-03-13,-0.48
-"Baja California Sur","Mexico",2020-03-13,-0.23
-"Jalisco","Mexico",2020-03-13,-0.17
-"Mexico City","Mexico",2020-03-13,-0.16
-"Nuevo Leon","Mexico",2020-03-13,-0.26
-"Quintana Roo","Mexico",2020-03-13,-0.14
-"Alabama","United States",2020-03-13,-0.24
-"Arizona","United States",2020-03-13,-0.26
-"California","United States",2020-03-13,-0.42
-"Colorado","United States",2020-03-13,-0.41
-"Connecticut","United States",2020-03-13,-0.5
-"District of Columbia","United States",2020-03-13,-0.44
-"Florida","United States",2020-03-13,-0.28
-"Georgia","United States",2020-03-13,-0.34
-"Hawaii","United States",2020-03-13,-0.14
-"Illinois","United States",2020-03-13,-0.35
-"Indiana","United States",2020-03-13,-0.34
-"Kansas","United States",2020-03-13,-0.35
-"Kentucky","United States",2020-03-13,-0.3
-"Louisiana","United States",2020-03-13,-0.28
-"Maryland","United States",2020-03-13,-0.37
-"Massachusetts","United States",2020-03-13,-0.52
-"Michigan","United States",2020-03-13,-0.43
-"Minnesota","United States",2020-03-13,-0.3
-"Missouri","United States",2020-03-13,-0.29
-"Nebraska","United States",2020-03-13,-0.31
-"Nevada","United States",2020-03-13,-0.31
-"New Jersey","United States",2020-03-13,-0.4
-"New Mexico","United States",2020-03-13,-0.35
-"New York","United States",2020-03-13,-0.54
-"North Carolina","United States",2020-03-13,-0.28
-"Ohio","United States",2020-03-13,-0.37
-"Oklahoma","United States",2020-03-13,-0.2
-"Oregon","United States",2020-03-13,-0.4
-"Pennsylvania","United States",2020-03-13,-0.44
-"Rhode Island","United States",2020-03-13,-0.41
-"South Carolina","United States",2020-03-13,-0.19
-"Tennessee","United States",2020-03-13,-0.34
-"Texas","United States",2020-03-13,-0.35
-"Utah","United States",2020-03-13,-0.28
-"Virginia","United States",2020-03-13,-0.34
-"Washington","United States",2020-03-13,-0.53
-"Wisconsin","United States",2020-03-13,-0.26
-"New South Wales","Australia",2020-03-14,-0.09
-"Queensland","Australia",2020-03-14,-0.04
-"Victoria","Australia",2020-03-14,-0.19
-"Alberta","Canada",2020-03-14,-0.44
-"British Columbia","Canada",2020-03-14,-0.3
-"Ontario","Canada",2020-03-14,-0.48
-"Quebec","Canada",2020-03-14,-0.44
-"Baja California Sur","Mexico",2020-03-14,-0.34
-"Jalisco","Mexico",2020-03-14,-0.2
-"Mexico City","Mexico",2020-03-14,-0.2
-"Nuevo Leon","Mexico",2020-03-14,-0.34
-"Quintana Roo","Mexico",2020-03-14,-0.19
-"Alabama","United States",2020-03-14,-0.28
-"Arizona","United States",2020-03-14,-0.24
-"California","United States",2020-03-14,-0.47
-"Colorado","United States",2020-03-14,-0.45
-"Connecticut","United States",2020-03-14,-0.58
-"District of Columbia","United States",2020-03-14,-0.44
-"Florida","United States",2020-03-14,-0.31
-"Georgia","United States",2020-03-14,-0.36
-"Hawaii","United States",2020-03-14,-0.19
-"Illinois","United States",2020-03-14,-0.47
-"Indiana","United States",2020-03-14,-0.48
-"Kansas","United States",2020-03-14,-0.39
-"Kentucky","United States",2020-03-14,-0.46
-"Louisiana","United States",2020-03-14,-0.34
-"Maryland","United States",2020-03-14,-0.59
-"Massachusetts","United States",2020-03-14,-0.41
-"Michigan","United States",2020-03-14,-0.49
-"Minnesota","United States",2020-03-14,-0.43
-"Missouri","United States",2020-03-14,-0.42
-"Nebraska","United States",2020-03-14,-0.32
-"Nevada","United States",2020-03-14,-0.4
-"New Jersey","United States",2020-03-14,-0.44
-"New Mexico","United States",2020-03-14,-0.4
-"New York","United States",2020-03-14,-0.36
-"North Carolina","United States",2020-03-14,-0.56
-"Ohio","United States",2020-03-14,-0.51
-"Oklahoma","United States",2020-03-14,-0.29
-"Oregon","United States",2020-03-14,-0.47
-"Pennsylvania","United States",2020-03-14,-0.51
-"Rhode Island","United States",2020-03-14,-0.48
-"South Carolina","United States",2020-03-14,-0.21
-"Tennessee","United States",2020-03-14,-0.41
-"Texas","United States",2020-03-14,-0.34
-"Utah","United States",2020-03-14,-0.34
-"Virginia","United States",2020-03-14,-0.39
-"Washington","United States",2020-03-14,-0.54
-"Wisconsin","United States",2020-03-14,-0.39
-"New South Wales","Australia",2020-03-15,0
-"Queensland","Australia",2020-03-15,0.04
-"Victoria","Australia",2020-03-15,-0.28
-"Alberta","Canada",2020-03-15,-0.49
-"British Columbia","Canada",2020-03-15,-0.38
-"Ontario","Canada",2020-03-15,-0.53
-"Quebec","Canada",2020-03-15,-0.46
-"Baja California Sur","Mexico",2020-03-15,-0.29
-"Jalisco","Mexico",2020-03-15,-0.38
-"Mexico City","Mexico",2020-03-15,-0.36
-"Nuevo Leon","Mexico",2020-03-15,-0.57
-"Quintana Roo","Mexico",2020-03-15,-0.22
-"Alabama","United States",2020-03-15,-0.38
-"Arizona","United States",2020-03-15,-0.37
-"California","United States",2020-03-15,-0.55
-"Colorado","United States",2020-03-15,-0.52
-"Connecticut","United States",2020-03-15,-0.57
-"District of Columbia","United States",2020-03-15,-0.55
-"Florida","United States",2020-03-15,-0.38
-"Georgia","United States",2020-03-15,-0.47
-"Hawaii","United States",2020-03-15,-0.26
-"Illinois","United States",2020-03-15,-0.51
-"Indiana","United States",2020-03-15,-0.51
-"Kansas","United States",2020-03-15,-0.55
-"Kentucky","United States",2020-03-15,-0.55
-"Louisiana","United States",2020-03-15,-0.5
-"Maryland","United States",2020-03-15,-0.67
-"Massachusetts","United States",2020-03-15,-0.53
-"Michigan","United States",2020-03-15,-0.54
-"Minnesota","United States",2020-03-15,-0.51
-"Missouri","United States",2020-03-15,-0.45
-"Nebraska","United States",2020-03-15,-0.44
-"Nevada","United States",2020-03-15,-0.37
-"New Jersey","United States",2020-03-15,-0.56
-"New Mexico","United States",2020-03-15,-0.44
-"New York","United States",2020-03-15,-0.47
-"North Carolina","United States",2020-03-15,-0.63
-"Ohio","United States",2020-03-15,-0.51
-"Oklahoma","United States",2020-03-15,-0.31
-"Oregon","United States",2020-03-15,-0.55
-"Pennsylvania","United States",2020-03-15,-0.56
-"Rhode Island","United States",2020-03-15,-0.5
-"South Carolina","United States",2020-03-15,-0.31
-"Tennessee","United States",2020-03-15,-0.46
-"Texas","United States",2020-03-15,-0.42
-"Utah","United States",2020-03-15,-0.53
-"Virginia","United States",2020-03-15,-0.5
-"Washington","United States",2020-03-15,-0.57
-"Wisconsin","United States",2020-03-15,-0.47
+"State","report_date","yoy_pct_change","Country"
+"New South Wales",2020-03-16,-0.32,"Australia"
+"Queensland",2020-03-16,-0.18,"Australia"
+"Victoria",2020-03-16,-0.35,"Australia"
+"Alberta",2020-03-16,-0.65,"Canada"
+"British Columbia",2020-03-16,-0.54,"Canada"
+"Ontario",2020-03-16,-0.66,"Canada"
+"Quebec",2020-03-16,-0.67,"Canada"
+"Baja California Sur",2020-03-16,-0.33,"Mexico"
+"Jalisco",2020-03-16,-0.57,"Mexico"
+"Mexico City",2020-03-16,-0.46,"Mexico"
+"Nuevo Leon",2020-03-16,-0.64,"Mexico"
+"Quintana Roo",2020-03-16,-0.31,"Mexico"
+"Alabama",2020-03-16,-0.57,"United States"
+"Arizona",2020-03-16,-0.54,"United States"
+"California",2020-03-16,-0.7,"United States"
+"Colorado",2020-03-16,-0.66,"United States"
+"Connecticut",2020-03-16,-0.55,"United States"
+"District of Columbia",2020-03-16,-0.77,"United States"
+"Florida",2020-03-16,-0.47,"United States"
+"Georgia",2020-03-16,-0.66,"United States"
+"Hawaii",2020-03-16,-0.31,"United States"
+"Illinois",2020-03-16,-0.61,"United States"
+"Indiana",2020-03-16,-0.67,"United States"
+"Kansas",2020-03-16,-0.67,"United States"
+"Kentucky",2020-03-16,-0.74,"United States"
+"Louisiana",2020-03-16,-0.55,"United States"
+"Maryland",2020-03-16,-0.71,"United States"
+"Massachusetts",2020-03-16,-0.76,"United States"
+"Michigan",2020-03-16,-0.78,"United States"
+"Minnesota",2020-03-16,-0.72,"United States"
+"Missouri",2020-03-16,-0.65,"United States"
+"Nebraska",2020-03-16,-0.59,"United States"
+"Nevada",2020-03-16,-0.69,"United States"
+"New Jersey",2020-03-16,-0.72,"United States"
+"New Mexico",2020-03-16,-0.47,"United States"
+"New York",2020-03-16,-0.58,"United States"
+"North Carolina",2020-03-16,-0.75,"United States"
+"Ohio",2020-03-16,-1,"United States"
+"Oklahoma",2020-03-16,-0.53,"United States"
+"Oregon",2020-03-16,-0.61,"United States"
+"Pennsylvania",2020-03-16,-0.68,"United States"
+"Rhode Island",2020-03-16,-0.53,"United States"
+"South Carolina",2020-03-16,-0.48,"United States"
+"Tennessee",2020-03-16,-0.6,"United States"
+"Texas",2020-03-16,-0.58,"United States"
+"Utah",2020-03-16,-0.69,"United States"
+"Virginia",2020-03-16,-0.65,"United States"
+"Washington",2020-03-16,-0.7,"United States"
+"New South Wales",2020-03-15,0,"Australia"
+"Queensland",2020-03-15,0.04,"Australia"
+"Victoria",2020-03-15,-0.28,"Australia"
+"Alberta",2020-03-15,-0.49,"Canada"
+"British Columbia",2020-03-15,-0.38,"Canada"
+"Ontario",2020-03-15,-0.53,"Canada"
+"Quebec",2020-03-15,-0.46,"Canada"
+"Baja California Sur",2020-03-15,-0.29,"Mexico"
+"Jalisco",2020-03-15,-0.38,"Mexico"
+"Mexico City",2020-03-15,-0.36,"Mexico"
+"Nuevo Leon",2020-03-15,-0.57,"Mexico"
+"Quintana Roo",2020-03-15,-0.22,"Mexico"
+"Alabama",2020-03-15,-0.38,"United States"
+"Arizona",2020-03-15,-0.37,"United States"
+"California",2020-03-15,-0.55,"United States"
+"Colorado",2020-03-15,-0.52,"United States"
+"Connecticut",2020-03-15,-0.57,"United States"
+"District of Columbia",2020-03-15,-0.55,"United States"
+"Florida",2020-03-15,-0.38,"United States"
+"Georgia",2020-03-15,-0.47,"United States"
+"Hawaii",2020-03-15,-0.26,"United States"
+"Illinois",2020-03-15,-0.51,"United States"
+"Indiana",2020-03-15,-0.51,"United States"
+"Kansas",2020-03-15,-0.55,"United States"
+"Kentucky",2020-03-15,-0.55,"United States"
+"Louisiana",2020-03-15,-0.5,"United States"
+"Maryland",2020-03-15,-0.67,"United States"
+"Massachusetts",2020-03-15,-0.53,"United States"
+"Michigan",2020-03-15,-0.54,"United States"
+"Minnesota",2020-03-15,-0.51,"United States"
+"Missouri",2020-03-15,-0.45,"United States"
+"Nebraska",2020-03-15,-0.44,"United States"
+"Nevada",2020-03-15,-0.37,"United States"
+"New Jersey",2020-03-15,-0.56,"United States"
+"New Mexico",2020-03-15,-0.44,"United States"
+"New York",2020-03-15,-0.47,"United States"
+"North Carolina",2020-03-15,-0.63,"United States"
+"Ohio",2020-03-15,-0.51,"United States"
+"Oklahoma",2020-03-15,-0.31,"United States"
+"Oregon",2020-03-15,-0.55,"United States"
+"Pennsylvania",2020-03-15,-0.56,"United States"
+"Rhode Island",2020-03-15,-0.5,"United States"
+"South Carolina",2020-03-15,-0.31,"United States"
+"Tennessee",2020-03-15,-0.46,"United States"
+"Texas",2020-03-15,-0.42,"United States"
+"Utah",2020-03-15,-0.53,"United States"
+"Virginia",2020-03-15,-0.5,"United States"
+"Washington",2020-03-15,-0.57,"United States"
+"New South Wales",2020-03-14,-0.09,"Australia"
+"Queensland",2020-03-14,-0.04,"Australia"
+"Victoria",2020-03-14,-0.19,"Australia"
+"Alberta",2020-03-14,-0.44,"Canada"
+"British Columbia",2020-03-14,-0.3,"Canada"
+"Ontario",2020-03-14,-0.48,"Canada"
+"Quebec",2020-03-14,-0.44,"Canada"
+"Baja California Sur",2020-03-14,-0.34,"Mexico"
+"Jalisco",2020-03-14,-0.2,"Mexico"
+"Mexico City",2020-03-14,-0.2,"Mexico"
+"Nuevo Leon",2020-03-14,-0.34,"Mexico"
+"Quintana Roo",2020-03-14,-0.19,"Mexico"
+"Alabama",2020-03-14,-0.28,"United States"
+"Arizona",2020-03-14,-0.24,"United States"
+"California",2020-03-14,-0.47,"United States"
+"Colorado",2020-03-14,-0.45,"United States"
+"Connecticut",2020-03-14,-0.58,"United States"
+"District of Columbia",2020-03-14,-0.44,"United States"
+"Florida",2020-03-14,-0.31,"United States"
+"Georgia",2020-03-14,-0.36,"United States"
+"Hawaii",2020-03-14,-0.19,"United States"
+"Illinois",2020-03-14,-0.47,"United States"
+"Indiana",2020-03-14,-0.48,"United States"
+"Kansas",2020-03-14,-0.39,"United States"
+"Kentucky",2020-03-14,-0.46,"United States"
+"Louisiana",2020-03-14,-0.34,"United States"
+"Maryland",2020-03-14,-0.59,"United States"
+"Massachusetts",2020-03-14,-0.41,"United States"
+"Michigan",2020-03-14,-0.49,"United States"
+"Minnesota",2020-03-14,-0.43,"United States"
+"Missouri",2020-03-14,-0.42,"United States"
+"Nebraska",2020-03-14,-0.32,"United States"
+"Nevada",2020-03-14,-0.4,"United States"
+"New Jersey",2020-03-14,-0.44,"United States"
+"New Mexico",2020-03-14,-0.4,"United States"
+"New York",2020-03-14,-0.36,"United States"
+"North Carolina",2020-03-14,-0.56,"United States"
+"Ohio",2020-03-14,-0.51,"United States"
+"Oklahoma",2020-03-14,-0.29,"United States"
+"Oregon",2020-03-14,-0.47,"United States"
+"Pennsylvania",2020-03-14,-0.51,"United States"
+"Rhode Island",2020-03-14,-0.48,"United States"
+"South Carolina",2020-03-14,-0.21,"United States"
+"Tennessee",2020-03-14,-0.41,"United States"
+"Texas",2020-03-14,-0.34,"United States"
+"Utah",2020-03-14,-0.34,"United States"
+"Virginia",2020-03-14,-0.39,"United States"
+"Washington",2020-03-14,-0.54,"United States"
+"New South Wales",2020-03-13,-0.06,"Australia"
+"Queensland",2020-03-13,0.09,"Australia"
+"Victoria",2020-03-13,-0.18,"Australia"
+"Alberta",2020-03-13,-0.43,"Canada"
+"British Columbia",2020-03-13,-0.3,"Canada"
+"Ontario",2020-03-13,-0.45,"Canada"
+"Quebec",2020-03-13,-0.48,"Canada"
+"Baja California Sur",2020-03-13,-0.23,"Mexico"
+"Jalisco",2020-03-13,-0.17,"Mexico"
+"Mexico City",2020-03-13,-0.16,"Mexico"
+"Nuevo Leon",2020-03-13,-0.26,"Mexico"
+"Quintana Roo",2020-03-13,-0.14,"Mexico"
+"Alabama",2020-03-13,-0.24,"United States"
+"Arizona",2020-03-13,-0.26,"United States"
+"California",2020-03-13,-0.42,"United States"
+"Colorado",2020-03-13,-0.41,"United States"
+"Connecticut",2020-03-13,-0.5,"United States"
+"District of Columbia",2020-03-13,-0.44,"United States"
+"Florida",2020-03-13,-0.28,"United States"
+"Georgia",2020-03-13,-0.34,"United States"
+"Hawaii",2020-03-13,-0.14,"United States"
+"Illinois",2020-03-13,-0.35,"United States"
+"Indiana",2020-03-13,-0.34,"United States"
+"Kansas",2020-03-13,-0.35,"United States"
+"Kentucky",2020-03-13,-0.3,"United States"
+"Louisiana",2020-03-13,-0.28,"United States"
+"Maryland",2020-03-13,-0.37,"United States"
+"Massachusetts",2020-03-13,-0.52,"United States"
+"Michigan",2020-03-13,-0.43,"United States"
+"Minnesota",2020-03-13,-0.3,"United States"
+"Missouri",2020-03-13,-0.29,"United States"
+"Nebraska",2020-03-13,-0.31,"United States"
+"Nevada",2020-03-13,-0.31,"United States"
+"New Jersey",2020-03-13,-0.4,"United States"
+"New Mexico",2020-03-13,-0.35,"United States"
+"New York",2020-03-13,-0.54,"United States"
+"North Carolina",2020-03-13,-0.28,"United States"
+"Ohio",2020-03-13,-0.37,"United States"
+"Oklahoma",2020-03-13,-0.2,"United States"
+"Oregon",2020-03-13,-0.4,"United States"
+"Pennsylvania",2020-03-13,-0.44,"United States"
+"Rhode Island",2020-03-13,-0.41,"United States"
+"South Carolina",2020-03-13,-0.19,"United States"
+"Tennessee",2020-03-13,-0.34,"United States"
+"Texas",2020-03-13,-0.35,"United States"
+"Utah",2020-03-13,-0.28,"United States"
+"Virginia",2020-03-13,-0.34,"United States"
+"Washington",2020-03-13,-0.53,"United States"
+"New South Wales",2020-03-12,-0.12,"Australia"
+"Queensland",2020-03-12,-0.18,"Australia"
+"Victoria",2020-03-12,-0.08,"Australia"
+"Alberta",2020-03-12,-0.23,"Canada"
+"British Columbia",2020-03-12,-0.21,"Canada"
+"Ontario",2020-03-12,-0.35,"Canada"
+"Quebec",2020-03-12,-0.26,"Canada"
+"Baja California Sur",2020-03-12,-0.12,"Mexico"
+"Jalisco",2020-03-12,-0.06,"Mexico"
+"Mexico City",2020-03-12,-0.16,"Mexico"
+"Nuevo Leon",2020-03-12,-0.2,"Mexico"
+"Quintana Roo",2020-03-12,-0.16,"Mexico"
+"Alabama",2020-03-12,-0.02,"United States"
+"Arizona",2020-03-12,-0.18,"United States"
+"California",2020-03-12,-0.38,"United States"
+"Colorado",2020-03-12,-0.17,"United States"
+"Connecticut",2020-03-12,-0.43,"United States"
+"District of Columbia",2020-03-12,-0.38,"United States"
+"Florida",2020-03-12,-0.23,"United States"
+"Georgia",2020-03-12,-0.23,"United States"
+"Hawaii",2020-03-12,-0.15,"United States"
+"Illinois",2020-03-12,-0.26,"United States"
+"Indiana",2020-03-12,-0.29,"United States"
+"Kansas",2020-03-12,-0.01,"United States"
+"Kentucky",2020-03-12,-0.26,"United States"
+"Louisiana",2020-03-12,-0.23,"United States"
+"Maryland",2020-03-12,-0.33,"United States"
+"Massachusetts",2020-03-12,-0.41,"United States"
+"Michigan",2020-03-12,-0.21,"United States"
+"Minnesota",2020-03-12,-0.24,"United States"
+"Missouri",2020-03-12,-0.25,"United States"
+"Nebraska",2020-03-12,-0.02,"United States"
+"Nevada",2020-03-12,-0.21,"United States"
+"New Jersey",2020-03-12,-0.26,"United States"
+"New Mexico",2020-03-12,-0.1,"United States"
+"New York",2020-03-12,-0.49,"United States"
+"North Carolina",2020-03-12,-0.22,"United States"
+"Ohio",2020-03-12,-0.29,"United States"
+"Oklahoma",2020-03-12,0.01,"United States"
+"Oregon",2020-03-12,-0.33,"United States"
+"Pennsylvania",2020-03-12,-0.35,"United States"
+"Rhode Island",2020-03-12,-0.31,"United States"
+"South Carolina",2020-03-12,-0.16,"United States"
+"Tennessee",2020-03-12,-0.28,"United States"
+"Texas",2020-03-12,-0.25,"United States"
+"Utah",2020-03-12,-0.19,"United States"
+"Virginia",2020-03-12,-0.34,"United States"
+"Washington",2020-03-12,-0.45,"United States"
+"New South Wales",2020-03-11,-0.09,"Australia"
+"Queensland",2020-03-11,-0.03,"Australia"
+"Victoria",2020-03-11,-0.14,"Australia"
+"Alberta",2020-03-11,-0.08,"Canada"
+"British Columbia",2020-03-11,-0.13,"Canada"
+"Ontario",2020-03-11,-0.25,"Canada"
+"Quebec",2020-03-11,-0.2,"Canada"
+"Baja California Sur",2020-03-11,-0.17,"Mexico"
+"Jalisco",2020-03-11,-0.02,"Mexico"
+"Mexico City",2020-03-11,-0.18,"Mexico"
+"Nuevo Leon",2020-03-11,-0.15,"Mexico"
+"Quintana Roo",2020-03-11,-0.17,"Mexico"
+"Alabama",2020-03-11,-0.08,"United States"
+"Arizona",2020-03-11,-0.2,"United States"
+"California",2020-03-11,-0.23,"United States"
+"Colorado",2020-03-11,-0.08,"United States"
+"Connecticut",2020-03-11,-0.2,"United States"
+"District of Columbia",2020-03-11,-0.22,"United States"
+"Florida",2020-03-11,-0.18,"United States"
+"Georgia",2020-03-11,-0.17,"United States"
+"Hawaii",2020-03-11,-0.11,"United States"
+"Illinois",2020-03-11,-0.22,"United States"
+"Indiana",2020-03-11,-0.16,"United States"
+"Kansas",2020-03-11,-0.09,"United States"
+"Kentucky",2020-03-11,-0.2,"United States"
+"Louisiana",2020-03-11,-0.16,"United States"
+"Maryland",2020-03-11,-0.21,"United States"
+"Massachusetts",2020-03-11,-0.25,"United States"
+"Michigan",2020-03-11,-0.18,"United States"
+"Minnesota",2020-03-11,-0.18,"United States"
+"Missouri",2020-03-11,-0.12,"United States"
+"Nebraska",2020-03-11,-0.16,"United States"
+"Nevada",2020-03-11,-0.12,"United States"
+"New Jersey",2020-03-11,-0.14,"United States"
+"New Mexico",2020-03-11,0.02,"United States"
+"New York",2020-03-11,-0.32,"United States"
+"North Carolina",2020-03-11,-0.14,"United States"
+"Ohio",2020-03-11,-0.19,"United States"
+"Oklahoma",2020-03-11,-0.07,"United States"
+"Oregon",2020-03-11,-0.22,"United States"
+"Pennsylvania",2020-03-11,-0.17,"United States"
+"Rhode Island",2020-03-11,-0.15,"United States"
+"South Carolina",2020-03-11,-0.07,"United States"
+"Tennessee",2020-03-11,-0.22,"United States"
+"Texas",2020-03-11,-0.14,"United States"
+"Utah",2020-03-11,-0.11,"United States"
+"Virginia",2020-03-11,-0.23,"United States"
+"Washington",2020-03-11,-0.41,"United States"
+"New South Wales",2020-03-10,0.03,"Australia"
+"Queensland",2020-03-10,0,"Australia"
+"Victoria",2020-03-10,-0.09,"Australia"
+"Alberta",2020-03-10,-0.1,"Canada"
+"British Columbia",2020-03-10,-0.15,"Canada"
+"Ontario",2020-03-10,-0.23,"Canada"
+"Quebec",2020-03-10,-0.12,"Canada"
+"Baja California Sur",2020-03-10,-0.2,"Mexico"
+"Jalisco",2020-03-10,-0.19,"Mexico"
+"Mexico City",2020-03-10,-0.17,"Mexico"
+"Nuevo Leon",2020-03-10,-0.04,"Mexico"
+"Quintana Roo",2020-03-10,-0.25,"Mexico"
+"Alabama",2020-03-10,-0.26,"United States"
+"Arizona",2020-03-10,-0.14,"United States"
+"California",2020-03-10,-0.27,"United States"
+"Colorado",2020-03-10,-0.17,"United States"
+"Connecticut",2020-03-10,-0.2,"United States"
+"District of Columbia",2020-03-10,-0.18,"United States"
+"Florida",2020-03-10,-0.18,"United States"
+"Georgia",2020-03-10,-0.15,"United States"
+"Hawaii",2020-03-10,-0.1,"United States"
+"Illinois",2020-03-10,-0.18,"United States"
+"Indiana",2020-03-10,-0.11,"United States"
+"Kansas",2020-03-10,-0.06,"United States"
+"Kentucky",2020-03-10,-0.21,"United States"
+"Louisiana",2020-03-10,-0.13,"United States"
+"Maryland",2020-03-10,-0.18,"United States"
+"Massachusetts",2020-03-10,-0.22,"United States"
+"Michigan",2020-03-10,-0.1,"United States"
+"Minnesota",2020-03-10,-0.12,"United States"
+"Missouri",2020-03-10,-0.1,"United States"
+"Nebraska",2020-03-10,-0.11,"United States"
+"Nevada",2020-03-10,-0.18,"United States"
+"New Jersey",2020-03-10,-0.04,"United States"
+"New Mexico",2020-03-10,0.07,"United States"
+"New York",2020-03-10,-0.27,"United States"
+"North Carolina",2020-03-10,-0.09,"United States"
+"Ohio",2020-03-10,-0.19,"United States"
+"Oklahoma",2020-03-10,-0.04,"United States"
+"Oregon",2020-03-10,-0.13,"United States"
+"Pennsylvania",2020-03-10,-0.18,"United States"
+"Rhode Island",2020-03-10,-0.16,"United States"
+"South Carolina",2020-03-10,-0.14,"United States"
+"Tennessee",2020-03-10,-0.16,"United States"
+"Texas",2020-03-10,-0.14,"United States"
+"Utah",2020-03-10,-0.19,"United States"
+"Virginia",2020-03-10,-0.13,"United States"
+"Washington",2020-03-10,-0.38,"United States"
+"New South Wales",2020-03-09,-0.16,"Australia"
+"Queensland",2020-03-09,-0.06,"Australia"
+"Victoria",2020-03-09,-0.11,"Australia"
+"Alberta",2020-03-09,-0.13,"Canada"
+"British Columbia",2020-03-09,-0.03,"Canada"
+"Ontario",2020-03-09,-0.2,"Canada"
+"Quebec",2020-03-09,-0.04,"Canada"
+"Baja California Sur",2020-03-09,-0.17,"Mexico"
+"Jalisco",2020-03-09,-0.23,"Mexico"
+"Mexico City",2020-03-09,-0.29,"Mexico"
+"Nuevo Leon",2020-03-09,-0.16,"Mexico"
+"Quintana Roo",2020-03-09,-0.11,"Mexico"
+"Alabama",2020-03-09,-0.11,"United States"
+"Arizona",2020-03-09,-0.07,"United States"
+"California",2020-03-09,-0.18,"United States"
+"Colorado",2020-03-09,-0.13,"United States"
+"Connecticut",2020-03-09,-0.12,"United States"
+"District of Columbia",2020-03-09,-0.1,"United States"
+"Florida",2020-03-09,-0.18,"United States"
+"Georgia",2020-03-09,-0.04,"United States"
+"Hawaii",2020-03-09,-0.08,"United States"
+"Illinois",2020-03-09,-0.21,"United States"
+"Indiana",2020-03-09,-0.17,"United States"
+"Kansas",2020-03-09,-0.21,"United States"
+"Kentucky",2020-03-09,-0.17,"United States"
+"Louisiana",2020-03-09,-0.08,"United States"
+"Maryland",2020-03-09,-0.06,"United States"
+"Massachusetts",2020-03-09,-0.13,"United States"
+"Michigan",2020-03-09,-0.14,"United States"
+"Minnesota",2020-03-09,-0.17,"United States"
+"Missouri",2020-03-09,-0.13,"United States"
+"Nebraska",2020-03-09,-0.34,"United States"
+"Nevada",2020-03-09,-0.11,"United States"
+"New Jersey",2020-03-09,0.12,"United States"
+"New Mexico",2020-03-09,0,"United States"
+"New York",2020-03-09,-0.15,"United States"
+"North Carolina",2020-03-09,-0.04,"United States"
+"Ohio",2020-03-09,-0.19,"United States"
+"Oklahoma",2020-03-09,0,"United States"
+"Oregon",2020-03-09,-0.15,"United States"
+"Pennsylvania",2020-03-09,-0.07,"United States"
+"Rhode Island",2020-03-09,0.17,"United States"
+"South Carolina",2020-03-09,-0.07,"United States"
+"Tennessee",2020-03-09,-0.17,"United States"
+"Texas",2020-03-09,-0.21,"United States"
+"Utah",2020-03-09,-0.18,"United States"
+"Virginia",2020-03-09,-0.04,"United States"
+"Washington",2020-03-09,-0.3,"United States"
+"New South Wales",2020-03-08,0,"Australia"
+"Queensland",2020-03-08,-0.03,"Australia"
+"Victoria",2020-03-08,-0.08,"Australia"
+"Alberta",2020-03-08,-0.07,"Canada"
+"British Columbia",2020-03-08,-0.06,"Canada"
+"Ontario",2020-03-08,0,"Canada"
+"Quebec",2020-03-08,0.34,"Canada"
+"Baja California Sur",2020-03-08,-0.11,"Mexico"
+"Jalisco",2020-03-08,-0.04,"Mexico"
+"Mexico City",2020-03-08,-0.1,"Mexico"
+"Nuevo Leon",2020-03-08,-0.04,"Mexico"
+"Quintana Roo",2020-03-08,-0.05,"Mexico"
+"Alabama",2020-03-08,-0.1,"United States"
+"Arizona",2020-03-08,-0.03,"United States"
+"California",2020-03-08,-0.05,"United States"
+"Colorado",2020-03-08,-0.06,"United States"
+"Connecticut",2020-03-08,0,"United States"
+"District of Columbia",2020-03-08,0,"United States"
+"Florida",2020-03-08,-0.05,"United States"
+"Georgia",2020-03-08,0.07,"United States"
+"Hawaii",2020-03-08,-0.09,"United States"
+"Illinois",2020-03-08,0.04,"United States"
+"Indiana",2020-03-08,0.04,"United States"
+"Kansas",2020-03-08,-0.09,"United States"
+"Kentucky",2020-03-08,0.03,"United States"
+"Louisiana",2020-03-08,-0.02,"United States"
+"Maryland",2020-03-08,-0.01,"United States"
+"Massachusetts",2020-03-08,0.13,"United States"
+"Michigan",2020-03-08,0.01,"United States"
+"Minnesota",2020-03-08,0.13,"United States"
+"Missouri",2020-03-08,-0.1,"United States"
+"Nebraska",2020-03-08,-0.04,"United States"
+"Nevada",2020-03-08,-0.07,"United States"
+"New Jersey",2020-03-08,0.1,"United States"
+"New Mexico",2020-03-08,-0.21,"United States"
+"New York",2020-03-08,-0.02,"United States"
+"North Carolina",2020-03-08,-0.07,"United States"
+"Ohio",2020-03-08,-0.06,"United States"
+"Oklahoma",2020-03-08,-0.1,"United States"
+"Oregon",2020-03-08,0,"United States"
+"Pennsylvania",2020-03-08,0.02,"United States"
+"Rhode Island",2020-03-08,0.26,"United States"
+"South Carolina",2020-03-08,-0.05,"United States"
+"Tennessee",2020-03-08,-0.07,"United States"
+"Texas",2020-03-08,-0.05,"United States"
+"Utah",2020-03-08,-0.13,"United States"
+"Virginia",2020-03-08,0.03,"United States"
+"Washington",2020-03-08,-0.22,"United States"
+"New South Wales",2020-03-07,0.05,"Australia"
+"Queensland",2020-03-07,-0.07,"Australia"
+"Victoria",2020-03-07,-0.1,"Australia"
+"Alberta",2020-03-07,-0.16,"Canada"
+"British Columbia",2020-03-07,-0.11,"Canada"
+"Ontario",2020-03-07,-0.07,"Canada"
+"Quebec",2020-03-07,0.06,"Canada"
+"Baja California Sur",2020-03-07,-0.08,"Mexico"
+"Jalisco",2020-03-07,-0.02,"Mexico"
+"Mexico City",2020-03-07,-0.01,"Mexico"
+"Nuevo Leon",2020-03-07,0.14,"Mexico"
+"Quintana Roo",2020-03-07,-0.08,"Mexico"
+"Alabama",2020-03-07,0.11,"United States"
+"Arizona",2020-03-07,-0.02,"United States"
+"California",2020-03-07,-0.05,"United States"
+"Colorado",2020-03-07,-0.1,"United States"
+"Connecticut",2020-03-07,-0.08,"United States"
+"District of Columbia",2020-03-07,0,"United States"
+"Florida",2020-03-07,-0.02,"United States"
+"Georgia",2020-03-07,-0.02,"United States"
+"Hawaii",2020-03-07,-0.06,"United States"
+"Illinois",2020-03-07,0.04,"United States"
+"Indiana",2020-03-07,0.04,"United States"
+"Kansas",2020-03-07,-0.08,"United States"
+"Kentucky",2020-03-07,0.01,"United States"
+"Louisiana",2020-03-07,0.05,"United States"
+"Maryland",2020-03-07,-0.02,"United States"
+"Massachusetts",2020-03-07,-0.05,"United States"
+"Michigan",2020-03-07,0.06,"United States"
+"Minnesota",2020-03-07,0.59,"United States"
+"Missouri",2020-03-07,-0.05,"United States"
+"Nebraska",2020-03-07,-0.1,"United States"
+"Nevada",2020-03-07,-0.06,"United States"
+"New Jersey",2020-03-07,-0.06,"United States"
+"New Mexico",2020-03-07,-0.1,"United States"
+"New York",2020-03-07,-0.1,"United States"
+"North Carolina",2020-03-07,-0.02,"United States"
+"Ohio",2020-03-07,-0.06,"United States"
+"Oklahoma",2020-03-07,0,"United States"
+"Oregon",2020-03-07,-0.07,"United States"
+"Pennsylvania",2020-03-07,-0.03,"United States"
+"Rhode Island",2020-03-07,-0.07,"United States"
+"South Carolina",2020-03-07,0.03,"United States"
+"Tennessee",2020-03-07,0.02,"United States"
+"Texas",2020-03-07,-0.03,"United States"
+"Utah",2020-03-07,0,"United States"
+"Virginia",2020-03-07,0.02,"United States"
+"Washington",2020-03-07,-0.27,"United States"
+"New South Wales",2020-03-06,-0.02,"Australia"
+"Queensland",2020-03-06,-0.03,"Australia"
+"Victoria",2020-03-06,-0.13,"Australia"
+"Alberta",2020-03-06,0.01,"Canada"
+"British Columbia",2020-03-06,-0.06,"Canada"
+"Ontario",2020-03-06,-0.14,"Canada"
+"Quebec",2020-03-06,-0.08,"Canada"
+"Baja California Sur",2020-03-06,-0.08,"Mexico"
+"Jalisco",2020-03-06,-0.12,"Mexico"
+"Mexico City",2020-03-06,-0.08,"Mexico"
+"Nuevo Leon",2020-03-06,-0.02,"Mexico"
+"Quintana Roo",2020-03-06,-0.04,"Mexico"
+"Alabama",2020-03-06,-0.03,"United States"
+"Arizona",2020-03-06,-0.03,"United States"
+"California",2020-03-06,-0.08,"United States"
+"Colorado",2020-03-06,-0.08,"United States"
+"Connecticut",2020-03-06,-0.08,"United States"
+"District of Columbia",2020-03-06,-0.06,"United States"
+"Florida",2020-03-06,-0.05,"United States"
+"Georgia",2020-03-06,-0.03,"United States"
+"Hawaii",2020-03-06,-0.08,"United States"
+"Illinois",2020-03-06,-0.07,"United States"
+"Indiana",2020-03-06,0.01,"United States"
+"Kansas",2020-03-06,-0.1,"United States"
+"Kentucky",2020-03-06,-0.03,"United States"
+"Louisiana",2020-03-06,0.05,"United States"
+"Maryland",2020-03-06,0.02,"United States"
+"Massachusetts",2020-03-06,-0.06,"United States"
+"Michigan",2020-03-06,-0.09,"United States"
+"Minnesota",2020-03-06,-0.12,"United States"
+"Missouri",2020-03-06,0,"United States"
+"Nebraska",2020-03-06,-0.18,"United States"
+"Nevada",2020-03-06,-0.06,"United States"
+"New Jersey",2020-03-06,-0.16,"United States"
+"New Mexico",2020-03-06,-0.02,"United States"
+"New York",2020-03-06,-0.14,"United States"
+"North Carolina",2020-03-06,-0.01,"United States"
+"Ohio",2020-03-06,-0.13,"United States"
+"Oklahoma",2020-03-06,0.02,"United States"
+"Oregon",2020-03-06,-0.04,"United States"
+"Pennsylvania",2020-03-06,-0.09,"United States"
+"Rhode Island",2020-03-06,-0.02,"United States"
+"South Carolina",2020-03-06,0.03,"United States"
+"Tennessee",2020-03-06,-0.01,"United States"
+"Texas",2020-03-06,0.02,"United States"
+"Utah",2020-03-06,0.08,"United States"
+"Virginia",2020-03-06,0.05,"United States"
+"Washington",2020-03-06,-0.24,"United States"
+"New South Wales",2020-03-05,-0.09,"Australia"
+"Queensland",2020-03-05,-0.05,"Australia"
+"Victoria",2020-03-05,-0.12,"Australia"
+"Alberta",2020-03-05,-0.08,"Canada"
+"British Columbia",2020-03-05,-0.06,"Canada"
+"Ontario",2020-03-05,-0.02,"Canada"
+"Quebec",2020-03-05,-0.03,"Canada"
+"Baja California Sur",2020-03-05,0,"Mexico"
+"Jalisco",2020-03-05,-0.13,"Mexico"
+"Mexico City",2020-03-05,-0.09,"Mexico"
+"Nuevo Leon",2020-03-05,0,"Mexico"
+"Quintana Roo",2020-03-05,0.02,"Mexico"
+"Alabama",2020-03-05,-0.15,"United States"
+"Arizona",2020-03-05,-0.04,"United States"
+"California",2020-03-05,-0.1,"United States"
+"Colorado",2020-03-05,-0.04,"United States"
+"Connecticut",2020-03-05,-0.07,"United States"
+"District of Columbia",2020-03-05,-0.05,"United States"
+"Florida",2020-03-05,-0.07,"United States"
+"Georgia",2020-03-05,-0.12,"United States"
+"Hawaii",2020-03-05,-0.05,"United States"
+"Illinois",2020-03-05,-0.05,"United States"
+"Indiana",2020-03-05,0.05,"United States"
+"Kansas",2020-03-05,-0.1,"United States"
+"Kentucky",2020-03-05,0.04,"United States"
+"Louisiana",2020-03-05,0.06,"United States"
+"Maryland",2020-03-05,-0.05,"United States"
+"Massachusetts",2020-03-05,0.04,"United States"
+"Michigan",2020-03-05,-0.04,"United States"
+"Minnesota",2020-03-05,-0.17,"United States"
+"Missouri",2020-03-05,0.04,"United States"
+"Nebraska",2020-03-05,-0.01,"United States"
+"Nevada",2020-03-05,-0.1,"United States"
+"New Jersey",2020-03-05,-0.04,"United States"
+"New Mexico",2020-03-05,-0.19,"United States"
+"New York",2020-03-05,-0.08,"United States"
+"North Carolina",2020-03-05,-0.07,"United States"
+"Ohio",2020-03-05,-0.08,"United States"
+"Oklahoma",2020-03-05,0.03,"United States"
+"Oregon",2020-03-05,-0.03,"United States"
+"Pennsylvania",2020-03-05,0.02,"United States"
+"Rhode Island",2020-03-05,-0.12,"United States"
+"South Carolina",2020-03-05,-0.07,"United States"
+"Tennessee",2020-03-05,-0.04,"United States"
+"Texas",2020-03-05,0.01,"United States"
+"Utah",2020-03-05,-0.03,"United States"
+"Virginia",2020-03-05,-0.02,"United States"
+"Washington",2020-03-05,-0.22,"United States"
+"New South Wales",2020-03-04,-0.16,"Australia"
+"Queensland",2020-03-04,-0.02,"Australia"
+"Victoria",2020-03-04,-0.17,"Australia"
+"Alberta",2020-03-04,-0.01,"Canada"
+"British Columbia",2020-03-04,-0.04,"Canada"
+"Ontario",2020-03-04,-0.01,"Canada"
+"Quebec",2020-03-04,0.05,"Canada"
+"Baja California Sur",2020-03-04,0,"Mexico"
+"Jalisco",2020-03-04,-0.23,"Mexico"
+"Mexico City",2020-03-04,-0.04,"Mexico"
+"Nuevo Leon",2020-03-04,0.03,"Mexico"
+"Quintana Roo",2020-03-04,-0.17,"Mexico"
+"Alabama",2020-03-04,-0.23,"United States"
+"Arizona",2020-03-04,0,"United States"
+"California",2020-03-04,-0.03,"United States"
+"Colorado",2020-03-04,-0.06,"United States"
+"Connecticut",2020-03-04,-0.06,"United States"
+"District of Columbia",2020-03-04,0.07,"United States"
+"Florida",2020-03-04,-0.08,"United States"
+"Georgia",2020-03-04,-0.17,"United States"
+"Hawaii",2020-03-04,-0.04,"United States"
+"Illinois",2020-03-04,-0.03,"United States"
+"Indiana",2020-03-04,0.03,"United States"
+"Kansas",2020-03-04,-0.08,"United States"
+"Kentucky",2020-03-04,-0.06,"United States"
+"Louisiana",2020-03-04,-0.25,"United States"
+"Maryland",2020-03-04,0.11,"United States"
+"Massachusetts",2020-03-04,-0.05,"United States"
+"Michigan",2020-03-04,-0.01,"United States"
+"Minnesota",2020-03-04,-0.03,"United States"
+"Missouri",2020-03-04,-0.03,"United States"
+"Nebraska",2020-03-04,0.01,"United States"
+"Nevada",2020-03-04,-0.11,"United States"
+"New Jersey",2020-03-04,-0.02,"United States"
+"New Mexico",2020-03-04,-0.12,"United States"
+"New York",2020-03-04,-0.09,"United States"
+"North Carolina",2020-03-04,-0.04,"United States"
+"Ohio",2020-03-04,-0.06,"United States"
+"Oklahoma",2020-03-04,0,"United States"
+"Oregon",2020-03-04,-0.03,"United States"
+"Pennsylvania",2020-03-04,0,"United States"
+"Rhode Island",2020-03-04,0.07,"United States"
+"South Carolina",2020-03-04,-0.07,"United States"
+"Tennessee",2020-03-04,-0.01,"United States"
+"Texas",2020-03-04,-0.08,"United States"
+"Utah",2020-03-04,-0.05,"United States"
+"Virginia",2020-03-04,-0.01,"United States"
+"Washington",2020-03-04,-0.17,"United States"
+"New South Wales",2020-03-03,-0.11,"Australia"
+"Queensland",2020-03-03,-0.01,"Australia"
+"Victoria",2020-03-03,-0.04,"Australia"
+"Alberta",2020-03-03,-0.04,"Canada"
+"British Columbia",2020-03-03,-0.07,"Canada"
+"Ontario",2020-03-03,-0.06,"Canada"
+"Quebec",2020-03-03,-0.16,"Canada"
+"Baja California Sur",2020-03-03,-0.17,"Mexico"
+"Jalisco",2020-03-03,-0.15,"Mexico"
+"Mexico City",2020-03-03,-0.09,"Mexico"
+"Nuevo Leon",2020-03-03,0.08,"Mexico"
+"Quintana Roo",2020-03-03,-0.16,"Mexico"
+"Alabama",2020-03-03,-0.29,"United States"
+"Arizona",2020-03-03,-0.1,"United States"
+"California",2020-03-03,-0.04,"United States"
+"Colorado",2020-03-03,-0.06,"United States"
+"Connecticut",2020-03-03,-0.09,"United States"
+"District of Columbia",2020-03-03,-0.09,"United States"
+"Florida",2020-03-03,-0.1,"United States"
+"Georgia",2020-03-03,-0.21,"United States"
+"Hawaii",2020-03-03,-0.05,"United States"
+"Illinois",2020-03-03,-0.12,"United States"
+"Indiana",2020-03-03,-0.03,"United States"
+"Kansas",2020-03-03,-0.14,"United States"
+"Kentucky",2020-03-03,0,"United States"
+"Louisiana",2020-03-03,-0.53,"United States"
+"Maryland",2020-03-03,-0.04,"United States"
+"Massachusetts",2020-03-03,-0.04,"United States"
+"Michigan",2020-03-03,-0.13,"United States"
+"Minnesota",2020-03-03,-0.02,"United States"
+"Missouri",2020-03-03,0,"United States"
+"Nebraska",2020-03-03,-0.14,"United States"
+"Nevada",2020-03-03,-0.27,"United States"
+"New Jersey",2020-03-03,-0.12,"United States"
+"New Mexico",2020-03-03,-0.07,"United States"
+"New York",2020-03-03,-0.11,"United States"
+"North Carolina",2020-03-03,-0.09,"United States"
+"Ohio",2020-03-03,-0.1,"United States"
+"Oklahoma",2020-03-03,0.05,"United States"
+"Oregon",2020-03-03,-0.08,"United States"
+"Pennsylvania",2020-03-03,-0.06,"United States"
+"Rhode Island",2020-03-03,-0.01,"United States"
+"South Carolina",2020-03-03,-0.08,"United States"
+"Tennessee",2020-03-03,-0.16,"United States"
+"Texas",2020-03-03,-0.09,"United States"
+"Utah",2020-03-03,-0.06,"United States"
+"Virginia",2020-03-03,-0.01,"United States"
+"Washington",2020-03-03,-0.21,"United States"
+"New South Wales",2020-03-02,-0.31,"Australia"
+"Queensland",2020-03-02,-0.01,"Australia"
+"Victoria",2020-03-02,-0.13,"Australia"
+"Alberta",2020-03-02,-0.1,"Canada"
+"British Columbia",2020-03-02,-0.11,"Canada"
+"Ontario",2020-03-02,-0.09,"Canada"
+"Quebec",2020-03-02,-0.26,"Canada"
+"Baja California Sur",2020-03-02,0.03,"Mexico"
+"Jalisco",2020-03-02,-0.18,"Mexico"
+"Mexico City",2020-03-02,-0.09,"Mexico"
+"Nuevo Leon",2020-03-02,0.14,"Mexico"
+"Quintana Roo",2020-03-02,-0.14,"Mexico"
+"Alabama",2020-03-02,-0.32,"United States"
+"Arizona",2020-03-02,-0.07,"United States"
+"California",2020-03-02,-0.06,"United States"
+"Colorado",2020-03-02,-0.01,"United States"
+"Connecticut",2020-03-02,0.13,"United States"
+"District of Columbia",2020-03-02,0,"United States"
+"Florida",2020-03-02,-0.1,"United States"
+"Georgia",2020-03-02,-0.12,"United States"
+"Hawaii",2020-03-02,-0.02,"United States"
+"Illinois",2020-03-02,-0.13,"United States"
+"Indiana",2020-03-02,0.01,"United States"
+"Kansas",2020-03-02,-0.13,"United States"
+"Kentucky",2020-03-02,-0.05,"United States"
+"Louisiana",2020-03-02,-0.42,"United States"
+"Maryland",2020-03-02,-0.05,"United States"
+"Massachusetts",2020-03-02,0.13,"United States"
+"Michigan",2020-03-02,0.04,"United States"
+"Minnesota",2020-03-02,-0.09,"United States"
+"Missouri",2020-03-02,0.08,"United States"
+"Nebraska",2020-03-02,0.16,"United States"
+"Nevada",2020-03-02,-0.28,"United States"
+"New Jersey",2020-03-02,-0.05,"United States"
+"New Mexico",2020-03-02,-0.04,"United States"
+"New York",2020-03-02,-0.07,"United States"
+"North Carolina",2020-03-02,-0.07,"United States"
+"Ohio",2020-03-02,-0.07,"United States"
+"Oklahoma",2020-03-02,-0.12,"United States"
+"Oregon",2020-03-02,0.08,"United States"
+"Pennsylvania",2020-03-02,0.03,"United States"
+"Rhode Island",2020-03-02,0.18,"United States"
+"South Carolina",2020-03-02,0.01,"United States"
+"Tennessee",2020-03-02,-0.06,"United States"
+"Texas",2020-03-02,-0.02,"United States"
+"Utah",2020-03-02,-0.13,"United States"
+"Virginia",2020-03-02,-0.04,"United States"
+"Washington",2020-03-02,-0.25,"United States"
+"New South Wales",2020-03-01,0.05,"Australia"
+"Queensland",2020-03-01,0.1,"Australia"
+"Victoria",2020-03-01,-0.01,"Australia"
+"Alberta",2020-03-01,-0.04,"Canada"
+"British Columbia",2020-03-01,-0.08,"Canada"
+"Ontario",2020-03-01,-0.09,"Canada"
+"Quebec",2020-03-01,0.01,"Canada"
+"Baja California Sur",2020-03-01,-0.15,"Mexico"
+"Jalisco",2020-03-01,-0.06,"Mexico"
+"Mexico City",2020-03-01,-0.09,"Mexico"
+"Nuevo Leon",2020-03-01,0.07,"Mexico"
+"Quintana Roo",2020-03-01,-0.08,"Mexico"
+"Alabama",2020-03-01,0.02,"United States"
+"Arizona",2020-03-01,-0.02,"United States"
+"California",2020-03-01,-0.03,"United States"
+"Colorado",2020-03-01,0.26,"United States"
+"Connecticut",2020-03-01,0.13,"United States"
+"District of Columbia",2020-03-01,0.05,"United States"
+"Florida",2020-03-01,-0.05,"United States"
+"Georgia",2020-03-01,0.08,"United States"
+"Hawaii",2020-03-01,-0.02,"United States"
+"Illinois",2020-03-01,0.02,"United States"
+"Indiana",2020-03-01,0.18,"United States"
+"Kansas",2020-03-01,0.69,"United States"
+"Kentucky",2020-03-01,0.19,"United States"
+"Louisiana",2020-03-01,-0.19,"United States"
+"Maryland",2020-03-01,0.25,"United States"
+"Massachusetts",2020-03-01,-0.01,"United States"
+"Michigan",2020-03-01,-0.04,"United States"
+"Minnesota",2020-03-01,-0.01,"United States"
+"Missouri",2020-03-01,0.72,"United States"
+"Nebraska",2020-03-01,-0.02,"United States"
+"Nevada",2020-03-01,-0.15,"United States"
+"New Jersey",2020-03-01,0.1,"United States"
+"New Mexico",2020-03-01,-0.02,"United States"
+"New York",2020-03-01,0,"United States"
+"North Carolina",2020-03-01,0.02,"United States"
+"Ohio",2020-03-01,0.06,"United States"
+"Oklahoma",2020-03-01,0.4,"United States"
+"Oregon",2020-03-01,0.06,"United States"
+"Pennsylvania",2020-03-01,0.3,"United States"
+"Rhode Island",2020-03-01,-0.11,"United States"
+"South Carolina",2020-03-01,0.08,"United States"
+"Tennessee",2020-03-01,-0.06,"United States"
+"Texas",2020-03-01,0.07,"United States"
+"Utah",2020-03-01,-0.12,"United States"
+"Virginia",2020-03-01,0.14,"United States"
+"Washington",2020-03-01,-0.12,"United States"
+"New South Wales",2020-02-29,0.08,"Australia"
+"Queensland",2020-02-29,-0.08,"Australia"
+"Victoria",2020-02-29,-0.04,"Australia"
+"Alberta",2020-02-29,0.02,"Canada"
+"British Columbia",2020-02-29,-0.02,"Canada"
+"Ontario",2020-02-29,-0.08,"Canada"
+"Quebec",2020-02-29,0.01,"Canada"
+"Baja California Sur",2020-02-29,-0.13,"Mexico"
+"Jalisco",2020-02-29,-0.12,"Mexico"
+"Mexico City",2020-02-29,-0.09,"Mexico"
+"Nuevo Leon",2020-02-29,0.15,"Mexico"
+"Quintana Roo",2020-02-29,0.06,"Mexico"
+"Alabama",2020-02-29,-0.11,"United States"
+"Arizona",2020-02-29,0.01,"United States"
+"California",2020-02-29,0.09,"United States"
+"Colorado",2020-02-29,0.22,"United States"
+"Connecticut",2020-02-29,0.04,"United States"
+"District of Columbia",2020-02-29,0.02,"United States"
+"Florida",2020-02-29,0,"United States"
+"Georgia",2020-02-29,-0.03,"United States"
+"Hawaii",2020-02-29,-0.02,"United States"
+"Illinois",2020-02-29,0,"United States"
+"Indiana",2020-02-29,0.04,"United States"
+"Kansas",2020-02-29,0.02,"United States"
+"Kentucky",2020-02-29,0.17,"United States"
+"Louisiana",2020-02-29,-0.01,"United States"
+"Maryland",2020-02-29,0,"United States"
+"Massachusetts",2020-02-29,0.26,"United States"
+"Michigan",2020-02-29,-0.06,"United States"
+"Minnesota",2020-02-29,0.01,"United States"
+"Missouri",2020-02-29,0.02,"United States"
+"Nebraska",2020-02-29,0.05,"United States"
+"Nevada",2020-02-29,-0.04,"United States"
+"New Jersey",2020-02-29,0.03,"United States"
+"New Mexico",2020-02-29,0.04,"United States"
+"New York",2020-02-29,-0.01,"United States"
+"North Carolina",2020-02-29,-0.03,"United States"
+"Ohio",2020-02-29,-0.12,"United States"
+"Oklahoma",2020-02-29,0.08,"United States"
+"Oregon",2020-02-29,0.03,"United States"
+"Pennsylvania",2020-02-29,0.01,"United States"
+"Rhode Island",2020-02-29,0.21,"United States"
+"South Carolina",2020-02-29,0.05,"United States"
+"Tennessee",2020-02-29,-0.02,"United States"
+"Texas",2020-02-29,0.06,"United States"
+"Utah",2020-02-29,-0.01,"United States"
+"Virginia",2020-02-29,-0.03,"United States"
+"Washington",2020-02-29,-0.04,"United States"
+"New South Wales",2020-02-28,0.04,"Australia"
+"Queensland",2020-02-28,0.06,"Australia"
+"Victoria",2020-02-28,-0.07,"Australia"
+"Alberta",2020-02-28,0.03,"Canada"
+"British Columbia",2020-02-28,-0.02,"Canada"
+"Ontario",2020-02-28,-0.15,"Canada"
+"Quebec",2020-02-28,-0.1,"Canada"
+"Baja California Sur",2020-02-28,-0.18,"Mexico"
+"Jalisco",2020-02-28,-0.15,"Mexico"
+"Mexico City",2020-02-28,-0.08,"Mexico"
+"Nuevo Leon",2020-02-28,-0.03,"Mexico"
+"Quintana Roo",2020-02-28,-0.03,"Mexico"
+"Alabama",2020-02-28,-0.03,"United States"
+"Arizona",2020-02-28,0.02,"United States"
+"California",2020-02-28,0.05,"United States"
+"Colorado",2020-02-28,0,"United States"
+"Connecticut",2020-02-28,-0.01,"United States"
+"District of Columbia",2020-02-28,0.03,"United States"
+"Florida",2020-02-28,0.02,"United States"
+"Georgia",2020-02-28,0.02,"United States"
+"Hawaii",2020-02-28,0.04,"United States"
+"Illinois",2020-02-28,-0.06,"United States"
+"Indiana",2020-02-28,-0.01,"United States"
+"Kansas",2020-02-28,-0.14,"United States"
+"Kentucky",2020-02-28,0,"United States"
+"Louisiana",2020-02-28,-0.1,"United States"
+"Maryland",2020-02-28,0.1,"United States"
+"Massachusetts",2020-02-28,-0.02,"United States"
+"Michigan",2020-02-28,-0.12,"United States"
+"Minnesota",2020-02-28,0.33,"United States"
+"Missouri",2020-02-28,-0.13,"United States"
+"Nebraska",2020-02-28,-0.15,"United States"
+"Nevada",2020-02-28,-0.06,"United States"
+"New Jersey",2020-02-28,0.01,"United States"
+"New Mexico",2020-02-28,0.04,"United States"
+"New York",2020-02-28,-0.02,"United States"
+"North Carolina",2020-02-28,0.03,"United States"
+"Ohio",2020-02-28,-0.15,"United States"
+"Oklahoma",2020-02-28,0.02,"United States"
+"Oregon",2020-02-28,-0.03,"United States"
+"Pennsylvania",2020-02-28,0.01,"United States"
+"Rhode Island",2020-02-28,-0.02,"United States"
+"South Carolina",2020-02-28,0.11,"United States"
+"Tennessee",2020-02-28,0,"United States"
+"Texas",2020-02-28,0.04,"United States"
+"Utah",2020-02-28,0.01,"United States"
+"Virginia",2020-02-28,0.08,"United States"
+"Washington",2020-02-28,0.01,"United States"
+"New South Wales",2020-02-27,-0.11,"Australia"
+"Queensland",2020-02-27,0.07,"Australia"
+"Victoria",2020-02-27,-0.12,"Australia"
+"Alberta",2020-02-27,-0.04,"Canada"
+"British Columbia",2020-02-27,-0.04,"Canada"
+"Ontario",2020-02-27,-0.21,"Canada"
+"Quebec",2020-02-27,-0.11,"Canada"
+"Baja California Sur",2020-02-27,0.1,"Mexico"
+"Jalisco",2020-02-27,-0.16,"Mexico"
+"Mexico City",2020-02-27,-0.08,"Mexico"
+"Nuevo Leon",2020-02-27,0.01,"Mexico"
+"Quintana Roo",2020-02-27,0.03,"Mexico"
+"Alabama",2020-02-27,-0.03,"United States"
+"Arizona",2020-02-27,0.03,"United States"
+"California",2020-02-27,0.03,"United States"
+"Colorado",2020-02-27,-0.02,"United States"
+"Connecticut",2020-02-27,-0.08,"United States"
+"District of Columbia",2020-02-27,0.01,"United States"
+"Florida",2020-02-27,0.04,"United States"
+"Georgia",2020-02-27,-0.04,"United States"
+"Hawaii",2020-02-27,0.06,"United States"
+"Illinois",2020-02-27,-0.09,"United States"
+"Indiana",2020-02-27,-0.08,"United States"
+"Kansas",2020-02-27,-0.2,"United States"
+"Kentucky",2020-02-27,-0.08,"United States"
+"Louisiana",2020-02-27,-0.15,"United States"
+"Maryland",2020-02-27,-0.01,"United States"
+"Massachusetts",2020-02-27,0.05,"United States"
+"Michigan",2020-02-27,-0.19,"United States"
+"Minnesota",2020-02-27,0.07,"United States"
+"Missouri",2020-02-27,-0.08,"United States"
+"Nebraska",2020-02-27,-0.06,"United States"
+"Nevada",2020-02-27,-0.07,"United States"
+"New Jersey",2020-02-27,-0.08,"United States"
+"New Mexico",2020-02-27,0.03,"United States"
+"New York",2020-02-27,-0.05,"United States"
+"North Carolina",2020-02-27,-0.01,"United States"
+"Ohio",2020-02-27,-0.13,"United States"
+"Oklahoma",2020-02-27,0.01,"United States"
+"Oregon",2020-02-27,0.03,"United States"
+"Pennsylvania",2020-02-27,-0.03,"United States"
+"Rhode Island",2020-02-27,-0.09,"United States"
+"South Carolina",2020-02-27,0.08,"United States"
+"Tennessee",2020-02-27,-0.01,"United States"
+"Texas",2020-02-27,0,"United States"
+"Utah",2020-02-27,0.01,"United States"
+"Virginia",2020-02-27,-0.03,"United States"
+"Washington",2020-02-27,0,"United States"
+"New South Wales",2020-02-26,-0.01,"Australia"
+"Queensland",2020-02-26,0.03,"Australia"
+"Victoria",2020-02-26,-0.08,"Australia"
+"Alberta",2020-02-26,-0.01,"Canada"
+"British Columbia",2020-02-26,0,"Canada"
+"Ontario",2020-02-26,0.05,"Canada"
+"Quebec",2020-02-26,-0.01,"Canada"
+"Baja California Sur",2020-02-26,0.09,"Mexico"
+"Jalisco",2020-02-26,-0.13,"Mexico"
+"Mexico City",2020-02-26,-0.1,"Mexico"
+"Nuevo Leon",2020-02-26,-0.1,"Mexico"
+"Quintana Roo",2020-02-26,-0.05,"Mexico"
+"Alabama",2020-02-26,-0.08,"United States"
+"Arizona",2020-02-26,0.01,"United States"
+"California",2020-02-26,0.04,"United States"
+"Colorado",2020-02-26,-0.01,"United States"
+"Connecticut",2020-02-26,0.09,"United States"
+"District of Columbia",2020-02-26,0.08,"United States"
+"Florida",2020-02-26,0.03,"United States"
+"Georgia",2020-02-26,-0.04,"United States"
+"Hawaii",2020-02-26,0.09,"United States"
+"Illinois",2020-02-26,-0.14,"United States"
+"Indiana",2020-02-26,-0.05,"United States"
+"Kansas",2020-02-26,0.05,"United States"
+"Kentucky",2020-02-26,-0.14,"United States"
+"Louisiana",2020-02-26,0.04,"United States"
+"Maryland",2020-02-26,-0.08,"United States"
+"Massachusetts",2020-02-26,0.01,"United States"
+"Michigan",2020-02-26,-0.27,"United States"
+"Minnesota",2020-02-26,-0.01,"United States"
+"Missouri",2020-02-26,-0.11,"United States"
+"Nebraska",2020-02-26,-0.16,"United States"
+"Nevada",2020-02-26,-0.14,"United States"
+"New Jersey",2020-02-26,-0.09,"United States"
+"New Mexico",2020-02-26,0.17,"United States"
+"New York",2020-02-26,-0.01,"United States"
+"North Carolina",2020-02-26,0.05,"United States"
+"Ohio",2020-02-26,-0.22,"United States"
+"Oklahoma",2020-02-26,0.4,"United States"
+"Oregon",2020-02-26,0.15,"United States"
+"Pennsylvania",2020-02-26,-0.03,"United States"
+"Rhode Island",2020-02-26,-0.13,"United States"
+"South Carolina",2020-02-26,0.06,"United States"
+"Tennessee",2020-02-26,-0.11,"United States"
+"Texas",2020-02-26,0,"United States"
+"Utah",2020-02-26,0.15,"United States"
+"Virginia",2020-02-26,-0.05,"United States"
+"Washington",2020-02-26,0.05,"United States"
+"New South Wales",2020-02-25,0.03,"Australia"
+"Queensland",2020-02-25,0.07,"Australia"
+"Victoria",2020-02-25,-0.06,"Australia"
+"Alberta",2020-02-25,0.03,"Canada"
+"British Columbia",2020-02-25,-0.05,"Canada"
+"Ontario",2020-02-25,-0.06,"Canada"
+"Quebec",2020-02-25,0.2,"Canada"
+"Baja California Sur",2020-02-25,0.06,"Mexico"
+"Jalisco",2020-02-25,-0.04,"Mexico"
+"Mexico City",2020-02-25,-0.02,"Mexico"
+"Nuevo Leon",2020-02-25,-0.12,"Mexico"
+"Quintana Roo",2020-02-25,0.02,"Mexico"
+"Alabama",2020-02-25,0,"United States"
+"Arizona",2020-02-25,0.05,"United States"
+"California",2020-02-25,0.06,"United States"
+"Colorado",2020-02-25,-0.04,"United States"
+"Connecticut",2020-02-25,0.06,"United States"
+"District of Columbia",2020-02-25,0.08,"United States"
+"Florida",2020-02-25,0.05,"United States"
+"Georgia",2020-02-25,0.02,"United States"
+"Hawaii",2020-02-25,-0.01,"United States"
+"Illinois",2020-02-25,-0.14,"United States"
+"Indiana",2020-02-25,0.03,"United States"
+"Kansas",2020-02-25,-0.03,"United States"
+"Kentucky",2020-02-25,-0.07,"United States"
+"Louisiana",2020-02-25,0.78,"United States"
+"Maryland",2020-02-25,-0.03,"United States"
+"Massachusetts",2020-02-25,0.01,"United States"
+"Michigan",2020-02-25,-0.08,"United States"
+"Minnesota",2020-02-25,0.19,"United States"
+"Missouri",2020-02-25,-0.02,"United States"
+"Nebraska",2020-02-25,0.03,"United States"
+"Nevada",2020-02-25,-0.01,"United States"
+"New Jersey",2020-02-25,-0.07,"United States"
+"New Mexico",2020-02-25,-0.04,"United States"
+"New York",2020-02-25,0.01,"United States"
+"North Carolina",2020-02-25,0.01,"United States"
+"Ohio",2020-02-25,-0.06,"United States"
+"Oklahoma",2020-02-25,0.03,"United States"
+"Oregon",2020-02-25,-0.01,"United States"
+"Pennsylvania",2020-02-25,-0.05,"United States"
+"Rhode Island",2020-02-25,-0.13,"United States"
+"South Carolina",2020-02-25,0.02,"United States"
+"Tennessee",2020-02-25,-0.07,"United States"
+"Texas",2020-02-25,0.09,"United States"
+"Utah",2020-02-25,0.13,"United States"
+"Virginia",2020-02-25,0.02,"United States"
+"Washington",2020-02-25,-0.02,"United States"
+"New South Wales",2020-02-24,0.04,"Australia"
+"Queensland",2020-02-24,0.09,"Australia"
+"Victoria",2020-02-24,-0.07,"Australia"
+"Alberta",2020-02-24,-0.01,"Canada"
+"British Columbia",2020-02-24,-0.03,"Canada"
+"Ontario",2020-02-24,-0.02,"Canada"
+"Quebec",2020-02-24,0.14,"Canada"
+"Baja California Sur",2020-02-24,0.29,"Mexico"
+"Jalisco",2020-02-24,-0.09,"Mexico"
+"Mexico City",2020-02-24,0,"Mexico"
+"Nuevo Leon",2020-02-24,0,"Mexico"
+"Quintana Roo",2020-02-24,-0.02,"Mexico"
+"Alabama",2020-02-24,0.01,"United States"
+"Arizona",2020-02-24,0.02,"United States"
+"California",2020-02-24,0.03,"United States"
+"Colorado",2020-02-24,-0.02,"United States"
+"Connecticut",2020-02-24,-0.02,"United States"
+"District of Columbia",2020-02-24,0.11,"United States"
+"Florida",2020-02-24,0.02,"United States"
+"Georgia",2020-02-24,-0.09,"United States"
+"Hawaii",2020-02-24,0.02,"United States"
+"Illinois",2020-02-24,-0.05,"United States"
+"Indiana",2020-02-24,0.06,"United States"
+"Kansas",2020-02-24,-0.12,"United States"
+"Kentucky",2020-02-24,0.02,"United States"
+"Louisiana",2020-02-24,0.8,"United States"
+"Maryland",2020-02-24,0.08,"United States"
+"Massachusetts",2020-02-24,0.04,"United States"
+"Michigan",2020-02-24,0.01,"United States"
+"Minnesota",2020-02-24,0.02,"United States"
+"Missouri",2020-02-24,-0.07,"United States"
+"Nebraska",2020-02-24,0.04,"United States"
+"Nevada",2020-02-24,0.01,"United States"
+"New Jersey",2020-02-24,0.06,"United States"
+"New Mexico",2020-02-24,-0.03,"United States"
+"New York",2020-02-24,0.06,"United States"
+"North Carolina",2020-02-24,-0.09,"United States"
+"Ohio",2020-02-24,-0.08,"United States"
+"Oklahoma",2020-02-24,-0.05,"United States"
+"Oregon",2020-02-24,0.12,"United States"
+"Pennsylvania",2020-02-24,0,"United States"
+"Rhode Island",2020-02-24,0.14,"United States"
+"South Carolina",2020-02-24,0.03,"United States"
+"Tennessee",2020-02-24,-0.09,"United States"
+"Texas",2020-02-24,0,"United States"
+"Utah",2020-02-24,0.04,"United States"
+"Virginia",2020-02-24,0.02,"United States"
+"Washington",2020-02-24,-0.01,"United States"
+"New South Wales",2020-02-23,-0.05,"Australia"
+"Queensland",2020-02-23,0.04,"Australia"
+"Victoria",2020-02-23,-0.02,"Australia"
+"Alberta",2020-02-23,0,"Canada"
+"British Columbia",2020-02-23,-0.02,"Canada"
+"Ontario",2020-02-23,0.14,"Canada"
+"Quebec",2020-02-23,0.29,"Canada"
+"Baja California Sur",2020-02-23,0.01,"Mexico"
+"Jalisco",2020-02-23,0.02,"Mexico"
+"Mexico City",2020-02-23,0.02,"Mexico"
+"Nuevo Leon",2020-02-23,0.1,"Mexico"
+"Quintana Roo",2020-02-23,-0.01,"Mexico"
+"Alabama",2020-02-23,0.02,"United States"
+"Arizona",2020-02-23,0.05,"United States"
+"California",2020-02-23,0.07,"United States"
+"Colorado",2020-02-23,-0.08,"United States"
+"Connecticut",2020-02-23,0.02,"United States"
+"District of Columbia",2020-02-23,0.15,"United States"
+"Florida",2020-02-23,0.02,"United States"
+"Georgia",2020-02-23,-0.09,"United States"
+"Hawaii",2020-02-23,0.03,"United States"
+"Illinois",2020-02-23,0.11,"United States"
+"Indiana",2020-02-23,0.13,"United States"
+"Kansas",2020-02-23,-0.06,"United States"
+"Kentucky",2020-02-23,-0.02,"United States"
+"Louisiana",2020-02-23,0.11,"United States"
+"Maryland",2020-02-23,0.08,"United States"
+"Massachusetts",2020-02-23,0.11,"United States"
+"Michigan",2020-02-23,0.18,"United States"
+"Minnesota",2020-02-23,0.22,"United States"
+"Missouri",2020-02-23,-0.03,"United States"
+"Nebraska",2020-02-23,0.6,"United States"
+"Nevada",2020-02-23,0.08,"United States"
+"New Jersey",2020-02-23,0.12,"United States"
+"New Mexico",2020-02-23,0.03,"United States"
+"New York",2020-02-23,0.13,"United States"
+"North Carolina",2020-02-23,0.02,"United States"
+"Ohio",2020-02-23,0,"United States"
+"Oklahoma",2020-02-23,-0.08,"United States"
+"Oregon",2020-02-23,0.2,"United States"
+"Pennsylvania",2020-02-23,0.03,"United States"
+"Rhode Island",2020-02-23,0.24,"United States"
+"South Carolina",2020-02-23,0.04,"United States"
+"Tennessee",2020-02-23,-0.14,"United States"
+"Texas",2020-02-23,-0.03,"United States"
+"Utah",2020-02-23,0.04,"United States"
+"Virginia",2020-02-23,0.07,"United States"
+"Washington",2020-02-23,0.1,"United States"
+"New South Wales",2020-02-22,0.08,"Australia"
+"Queensland",2020-02-22,0.02,"Australia"
+"Victoria",2020-02-22,-0.05,"Australia"
+"Alberta",2020-02-22,0.05,"Canada"
+"British Columbia",2020-02-22,0.03,"Canada"
+"Ontario",2020-02-22,-0.05,"Canada"
+"Quebec",2020-02-22,0.05,"Canada"
+"Baja California Sur",2020-02-22,0.01,"Mexico"
+"Jalisco",2020-02-22,-0.06,"Mexico"
+"Mexico City",2020-02-22,0,"Mexico"
+"Nuevo Leon",2020-02-22,0.09,"Mexico"
+"Quintana Roo",2020-02-22,0.02,"Mexico"
+"Alabama",2020-02-22,0.08,"United States"
+"Arizona",2020-02-22,-0.03,"United States"
+"California",2020-02-22,-0.02,"United States"
+"Colorado",2020-02-22,0.01,"United States"
+"Connecticut",2020-02-22,-0.06,"United States"
+"District of Columbia",2020-02-22,0.08,"United States"
+"Florida",2020-02-22,0.02,"United States"
+"Georgia",2020-02-22,-0.02,"United States"
+"Hawaii",2020-02-22,0.04,"United States"
+"Illinois",2020-02-22,0.06,"United States"
+"Indiana",2020-02-22,0.03,"United States"
+"Kansas",2020-02-22,-0.04,"United States"
+"Kentucky",2020-02-22,0.11,"United States"
+"Louisiana",2020-02-22,0.02,"United States"
+"Maryland",2020-02-22,0.08,"United States"
+"Massachusetts",2020-02-22,-0.01,"United States"
+"Michigan",2020-02-22,0,"United States"
+"Minnesota",2020-02-22,0.17,"United States"
+"Missouri",2020-02-22,0.01,"United States"
+"Nebraska",2020-02-22,1.63,"United States"
+"Nevada",2020-02-22,-0.04,"United States"
+"New Jersey",2020-02-22,0.03,"United States"
+"New Mexico",2020-02-22,-0.04,"United States"
+"New York",2020-02-22,0.01,"United States"
+"North Carolina",2020-02-22,0.04,"United States"
+"Ohio",2020-02-22,-0.07,"United States"
+"Oklahoma",2020-02-22,-0.02,"United States"
+"Oregon",2020-02-22,0.07,"United States"
+"Pennsylvania",2020-02-22,0.01,"United States"
+"Rhode Island",2020-02-22,-0.06,"United States"
+"South Carolina",2020-02-22,0.1,"United States"
+"Tennessee",2020-02-22,0.07,"United States"
+"Texas",2020-02-22,0.01,"United States"
+"Utah",2020-02-22,0.05,"United States"
+"Virginia",2020-02-22,0.06,"United States"
+"Washington",2020-02-22,0.02,"United States"
+"New South Wales",2020-02-21,0.05,"Australia"
+"Queensland",2020-02-21,0.04,"Australia"
+"Victoria",2020-02-21,-0.07,"Australia"
+"Alberta",2020-02-21,0.01,"Canada"
+"British Columbia",2020-02-21,0.06,"Canada"
+"Ontario",2020-02-21,-0.07,"Canada"
+"Quebec",2020-02-21,-0.05,"Canada"
+"Baja California Sur",2020-02-21,-0.09,"Mexico"
+"Jalisco",2020-02-21,0.05,"Mexico"
+"Mexico City",2020-02-21,-0.02,"Mexico"
+"Nuevo Leon",2020-02-21,0.04,"Mexico"
+"Quintana Roo",2020-02-21,-0.07,"Mexico"
+"Alabama",2020-02-21,-0.02,"United States"
+"Arizona",2020-02-21,0.04,"United States"
+"California",2020-02-21,0,"United States"
+"Colorado",2020-02-21,0.07,"United States"
+"Connecticut",2020-02-21,-0.03,"United States"
+"District of Columbia",2020-02-21,0,"United States"
+"Florida",2020-02-21,-0.05,"United States"
+"Georgia",2020-02-21,-0.05,"United States"
+"Hawaii",2020-02-21,0.05,"United States"
+"Illinois",2020-02-21,-0.03,"United States"
+"Indiana",2020-02-21,-0.08,"United States"
+"Kansas",2020-02-21,-0.11,"United States"
+"Kentucky",2020-02-21,0.06,"United States"
+"Louisiana",2020-02-21,0.1,"United States"
+"Maryland",2020-02-21,0.01,"United States"
+"Massachusetts",2020-02-21,-0.07,"United States"
+"Michigan",2020-02-21,-0.12,"United States"
+"Minnesota",2020-02-21,-0.09,"United States"
+"Missouri",2020-02-21,0.03,"United States"
+"Nebraska",2020-02-21,-0.01,"United States"
+"Nevada",2020-02-21,0.01,"United States"
+"New Jersey",2020-02-21,-0.02,"United States"
+"New Mexico",2020-02-21,0.08,"United States"
+"New York",2020-02-21,-0.04,"United States"
+"North Carolina",2020-02-21,-0.01,"United States"
+"Ohio",2020-02-21,-0.07,"United States"
+"Oklahoma",2020-02-21,0.04,"United States"
+"Oregon",2020-02-21,0.09,"United States"
+"Pennsylvania",2020-02-21,-0.03,"United States"
+"Rhode Island",2020-02-21,-0.15,"United States"
+"South Carolina",2020-02-21,0,"United States"
+"Tennessee",2020-02-21,0.03,"United States"
+"Texas",2020-02-21,0.02,"United States"
+"Utah",2020-02-21,0.04,"United States"
+"Virginia",2020-02-21,-0.03,"United States"
+"Washington",2020-02-21,0.03,"United States"
+"New South Wales",2020-02-20,-0.01,"Australia"
+"Queensland",2020-02-20,0,"Australia"
+"Victoria",2020-02-20,-0.05,"Australia"
+"Alberta",2020-02-20,0.02,"Canada"
+"British Columbia",2020-02-20,0.01,"Canada"
+"Ontario",2020-02-20,-0.06,"Canada"
+"Quebec",2020-02-20,-0.04,"Canada"
+"Baja California Sur",2020-02-20,-0.02,"Mexico"
+"Jalisco",2020-02-20,0,"Mexico"
+"Mexico City",2020-02-20,-0.01,"Mexico"
+"Nuevo Leon",2020-02-20,-0.1,"Mexico"
+"Quintana Roo",2020-02-20,-0.06,"Mexico"
+"Alabama",2020-02-20,0.01,"United States"
+"Arizona",2020-02-20,0.08,"United States"
+"California",2020-02-20,0.05,"United States"
+"Colorado",2020-02-20,-0.04,"United States"
+"Connecticut",2020-02-20,0.01,"United States"
+"District of Columbia",2020-02-20,0.08,"United States"
+"Florida",2020-02-20,-0.04,"United States"
+"Georgia",2020-02-20,-0.06,"United States"
+"Hawaii",2020-02-20,0.04,"United States"
+"Illinois",2020-02-20,-0.02,"United States"
+"Indiana",2020-02-20,-0.15,"United States"
+"Kansas",2020-02-20,-0.14,"United States"
+"Kentucky",2020-02-20,0.02,"United States"
+"Louisiana",2020-02-20,0.09,"United States"
+"Maryland",2020-02-20,0.04,"United States"
+"Massachusetts",2020-02-20,0.05,"United States"
+"Michigan",2020-02-20,-0.09,"United States"
+"Minnesota",2020-02-20,-0.15,"United States"
+"Missouri",2020-02-20,-0.01,"United States"
+"Nebraska",2020-02-20,0.06,"United States"
+"Nevada",2020-02-20,-0.01,"United States"
+"New Jersey",2020-02-20,-0.04,"United States"
+"New Mexico",2020-02-20,0.05,"United States"
+"New York",2020-02-20,0.01,"United States"
+"North Carolina",2020-02-20,-0.3,"United States"
+"Ohio",2020-02-20,-0.05,"United States"
+"Oklahoma",2020-02-20,-0.04,"United States"
+"Oregon",2020-02-20,0.04,"United States"
+"Pennsylvania",2020-02-20,0,"United States"
+"Rhode Island",2020-02-20,0.07,"United States"
+"South Carolina",2020-02-20,-0.11,"United States"
+"Tennessee",2020-02-20,-0.09,"United States"
+"Texas",2020-02-20,0,"United States"
+"Utah",2020-02-20,0.02,"United States"
+"Virginia",2020-02-20,-0.01,"United States"
+"Washington",2020-02-20,0.06,"United States"
+"New South Wales",2020-02-19,-0.07,"Australia"
+"Queensland",2020-02-19,0.02,"Australia"
+"Victoria",2020-02-19,-0.07,"Australia"
+"Alberta",2020-02-19,0.1,"Canada"
+"British Columbia",2020-02-19,-0.03,"Canada"
+"Ontario",2020-02-19,-0.04,"Canada"
+"Quebec",2020-02-19,0.09,"Canada"
+"Baja California Sur",2020-02-19,-0.02,"Mexico"
+"Jalisco",2020-02-19,0.09,"Mexico"
+"Mexico City",2020-02-19,-0.09,"Mexico"
+"Nuevo Leon",2020-02-19,-0.12,"Mexico"
+"Quintana Roo",2020-02-19,0,"Mexico"
+"Alabama",2020-02-19,0.07,"United States"
+"Arizona",2020-02-19,0.01,"United States"
+"California",2020-02-19,0.02,"United States"
+"Colorado",2020-02-19,-0.08,"United States"
+"Connecticut",2020-02-19,0.26,"United States"
+"District of Columbia",2020-02-19,0.55,"United States"
+"Florida",2020-02-19,-0.03,"United States"
+"Georgia",2020-02-19,0.04,"United States"
+"Hawaii",2020-02-19,0.02,"United States"
+"Illinois",2020-02-19,0.04,"United States"
+"Indiana",2020-02-19,0.13,"United States"
+"Kansas",2020-02-19,0.02,"United States"
+"Kentucky",2020-02-19,0.14,"United States"
+"Louisiana",2020-02-19,0.02,"United States"
+"Maryland",2020-02-19,0.7,"United States"
+"Massachusetts",2020-02-19,0.07,"United States"
+"Michigan",2020-02-19,0,"United States"
+"Minnesota",2020-02-19,0.51,"United States"
+"Missouri",2020-02-19,0.17,"United States"
+"Nebraska",2020-02-19,0.08,"United States"
+"Nevada",2020-02-19,-0.18,"United States"
+"New Jersey",2020-02-19,0.7,"United States"
+"New Mexico",2020-02-19,-0.03,"United States"
+"New York",2020-02-19,0.11,"United States"
+"North Carolina",2020-02-19,0.01,"United States"
+"Ohio",2020-02-19,0.01,"United States"
+"Oklahoma",2020-02-19,0.13,"United States"
+"Oregon",2020-02-19,-0.01,"United States"
+"Pennsylvania",2020-02-19,0.63,"United States"
+"Rhode Island",2020-02-19,0,"United States"
+"South Carolina",2020-02-19,-0.02,"United States"
+"Tennessee",2020-02-19,0.08,"United States"
+"Texas",2020-02-19,-0.06,"United States"
+"Utah",2020-02-19,0.03,"United States"
+"Virginia",2020-02-19,0.58,"United States"
+"Washington",2020-02-19,0.08,"United States"
+"New South Wales",2020-02-18,0.04,"Australia"
+"Queensland",2020-02-18,0.05,"Australia"
+"Victoria",2020-02-18,-0.1,"Australia"
+"Alberta",2020-02-18,0.02,"Canada"
+"British Columbia",2020-02-18,0.08,"Canada"
+"Ontario",2020-02-18,-0.16,"Canada"
+"Quebec",2020-02-18,0.06,"Canada"
+"Baja California Sur",2020-02-18,-0.06,"Mexico"
+"Jalisco",2020-02-18,0.08,"Mexico"
+"Mexico City",2020-02-18,-0.08,"Mexico"
+"Nuevo Leon",2020-02-18,-0.12,"Mexico"
+"Quintana Roo",2020-02-18,0.02,"Mexico"
+"Alabama",2020-02-18,-0.14,"United States"
+"Arizona",2020-02-18,0,"United States"
+"California",2020-02-18,-0.02,"United States"
+"Colorado",2020-02-18,0.01,"United States"
+"Connecticut",2020-02-18,0.08,"United States"
+"District of Columbia",2020-02-18,-0.05,"United States"
+"Florida",2020-02-18,0,"United States"
+"Georgia",2020-02-18,0,"United States"
+"Hawaii",2020-02-18,0,"United States"
+"Illinois",2020-02-18,-0.04,"United States"
+"Indiana",2020-02-18,0.21,"United States"
+"Kansas",2020-02-18,0.39,"United States"
+"Kentucky",2020-02-18,0.11,"United States"
+"Louisiana",2020-02-18,-0.06,"United States"
+"Maryland",2020-02-18,0.06,"United States"
+"Massachusetts",2020-02-18,0,"United States"
+"Michigan",2020-02-18,-0.12,"United States"
+"Minnesota",2020-02-18,-0.11,"United States"
+"Missouri",2020-02-18,0.32,"United States"
+"Nebraska",2020-02-18,0.3,"United States"
+"Nevada",2020-02-18,-0.19,"United States"
+"New Jersey",2020-02-18,0.03,"United States"
+"New Mexico",2020-02-18,0.18,"United States"
+"New York",2020-02-18,-0.01,"United States"
+"North Carolina",2020-02-18,0.04,"United States"
+"Ohio",2020-02-18,-0.08,"United States"
+"Oklahoma",2020-02-18,0.51,"United States"
+"Oregon",2020-02-18,0.04,"United States"
+"Pennsylvania",2020-02-18,0.03,"United States"
+"Rhode Island",2020-02-18,0.08,"United States"
+"South Carolina",2020-02-18,0.08,"United States"
+"Tennessee",2020-02-18,0.01,"United States"
+"Texas",2020-02-18,0,"United States"
+"Utah",2020-02-18,0,"United States"
+"Virginia",2020-02-18,0.06,"United States"
+"Washington",2020-02-18,0.09,"United States"
+"Wisconsin",2020-02-18,0.03,"United States"
+"Wisconsin",2020-02-19,0.21,"United States"
+"Wisconsin",2020-02-20,-0.01,"United States"
+"Wisconsin",2020-02-21,-0.03,"United States"
+"Wisconsin",2020-02-22,0.14,"United States"
+"Wisconsin",2020-02-23,0.25,"United States"
+"Wisconsin",2020-02-24,0,"United States"
+"Wisconsin",2020-02-25,0.09,"United States"
+"Wisconsin",2020-02-26,-0.04,"United States"
+"Wisconsin",2020-02-27,-0.01,"United States"
+"Wisconsin",2020-02-28,0.09,"United States"
+"Wisconsin",2020-02-29,0.03,"United States"
+"Wisconsin",2020-03-01,0.05,"United States"
+"Wisconsin",2020-03-02,0.08,"United States"
+"Wisconsin",2020-03-03,0.09,"United States"
+"Wisconsin",2020-03-04,0.12,"United States"
+"Wisconsin",2020-03-05,-0.07,"United States"
+"Wisconsin",2020-03-06,-0.07,"United States"
+"Wisconsin",2020-03-07,-0.06,"United States"
+"Wisconsin",2020-03-08,0.15,"United States"
+"Wisconsin",2020-03-09,-0.1,"United States"
+"Wisconsin",2020-03-10,0.01,"United States"
+"Wisconsin",2020-03-11,0,"United States"
+"Wisconsin",2020-03-12,-0.1,"United States"
+"Wisconsin",2020-03-13,-0.26,"United States"
+"Wisconsin",2020-03-14,-0.39,"United States"
+"Wisconsin",2020-03-15,-0.47,"United States"
